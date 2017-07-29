@@ -2,8 +2,7 @@ SASSDIR='themes/bootstrap/static/assets/sass'
 COMPILEDCSSDIR='themes/bootstrap/static/assets/_css'
 S3_BUCKET='presbyterianarchives.com'
 
-all:
-	echo "Fail"
+all: build deploy
 
 build:
 	cd themes/westminsterhist && npm run build
