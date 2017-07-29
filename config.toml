@@ -1,6 +1,6 @@
 baseURL = "http://presbyterianarchives.com.s3-website-us-east-1.amazonaws.com/"
 languageCode = "en-us"
-title = "Archives of Presbyterianism"
+title = "Ulster Worldly"
 theme = "westminsterhist"
 Copyright = "2017 Timothy Hopper"
 
@@ -22,7 +22,7 @@ Copyright = "2017 Timothy Hopper"
 
 [params]
 truncate = false
-description = "Stories from the history of Presbyterianism in America and beyond."
+description = "Stories from the history of presbyterianism in America and beyond."
 author = "Tim Hopper"
 custom_navbar = true
 [params.sidebar]
