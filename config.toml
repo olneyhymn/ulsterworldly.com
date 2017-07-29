@@ -1,4 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Presbyterian History"
 theme = "westminsterhist"
+
+[params]
+truncate = false
