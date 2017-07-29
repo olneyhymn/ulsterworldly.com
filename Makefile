@@ -4,12 +4,11 @@ S3_BUCKET='presbyterianarchives.com'
 
 all: build deploy
 
-build:
-	cd themes/westminsterhist && npm run build
+build: scss
 	hugo
 
 scss:
-	echo "Fail"
+	cd themes/westminsterhist && npm run build
 
 preview:
 	# Launch local server to preview pages (with auto refresh)
@@ -18,6 +17,7 @@ preview:
 clean:
 	# Delete local build
 	rm -rf public
+	cd themes/westminsterhist && npm run clean
 
 deploy: build
 	# Deploy site to heroku
