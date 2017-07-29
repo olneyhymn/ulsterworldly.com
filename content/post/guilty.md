@@ -1,7 +1,7 @@
 ---
 title: "Guilty: Believes in the Final Victory of Christ
 "
-description: "Interview with a retired Presbyterian missionary."
+description: "Does your belief in the final victory of Christ make worldly leaders nervous?."
 date: "2012-04-30"
 slug: "guilty"
 tags:

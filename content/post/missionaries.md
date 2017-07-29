@@ -1,11 +1,15 @@
 ---
 title: "Reflections on Missionary Life"
-description: "Interview with a retired Presbyterian missionary."
+description: "My grandmother reflections on her life and ministry in Korea."
 date: "2013-06-03"
 slug: "missionaries-by-dot-hopper"
 tags:
   - dorothy-hopper
+images:
+  - /images/dot-and-joe.jpg
 ---
+
+![](/images/dot-and-joe.jpg)
 
 My grandparents became missionaries in Chonju Korea in 1948. My grandmother, Dot Hopper, wrote this address for the for Chunju station’s prayer meeting on January 21, 1971.
 
