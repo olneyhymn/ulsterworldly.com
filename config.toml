@@ -1,6 +1,6 @@
 baseURL = "http://presbyterianarchives.com.s3-website-us-east-1.amazonaws.com/"
 languageCode = "en-us"
-title = "Presbyterian History"
+title = "Archives of Presbyterians"
 theme = "westminsterhist"
 Copyright = "2017 Timothy Hopper"
 
