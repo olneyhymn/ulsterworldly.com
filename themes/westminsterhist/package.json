@@ -9,9 +9,10 @@
   "scripts": {
     "build:css": "node-sass --output-style expanded --precision 6 source/scss/style.scss static/css/style.css.tmp && cleancss --level 1 static/css/style.css.tmp -o static/css/style.css",
     "build:fonts": "cp node_modules/font-awesome/fonts/* static/fonts",
+    "build:js": "cp node_modules/bootstrap/dist/js/bootstrap.min.js static/js/bootstrap.min.js && cp node_modules/jquery/dist/jquery.min.js static/js/jquery.min.js",
     "build:cookieconsent": "cp node_modules/cookieconsent/build/cookieconsent.min.css static/css && cp node_modules/cookieconsent/build/cookieconsent.min.js static/js",
     "build:generatesri": "node build/sri.js > data/sri.toml",
-    "build": "npm run build:css && npm run build:fonts && npm run build:cookieconsent && npm run build:generatesri && npm run clean",
+    "build": "npm run build:css && npm run build:js && npm run build:fonts && npm run build:cookieconsent && npm run build:generatesri && npm run clean",
     "clean": "rm static/css/style.css.tmp"
   },
   "keywords": "hugo",
