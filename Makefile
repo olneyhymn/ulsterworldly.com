@@ -1,6 +1,6 @@
 SASSDIR='themes/bootstrap/static/assets/sass'
 COMPILEDCSSDIR='themes/bootstrap/static/assets/_css'
-S3_BUCKET='presbyterianarchives.com'
+S3_BUCKET='ulsterworldly.com'
 
 all: build deploy
 
@@ -22,6 +22,7 @@ clean:
 deploy: build
 	# Deploy site to heroku
 	s3cmd sync --acl-public --delete-removed public/ s3://$(S3_BUCKET)
+	python3 build_scripts/invalidate_cloudfront.py
 
 push:
 	# Push to github
