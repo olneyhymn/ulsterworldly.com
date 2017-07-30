@@ -3,8 +3,9 @@ title: "Ministry to Korean Lepers"
 description: "My great-grandfather and grandfather reflect on ministering to lepers in Korea."
 date: "2017-07-29"
 tags:
-  - joseph-hopper
-  - joe-b-hopper
+  - Joseph Hopper
+  - Joe B. Hopper
+  - Korea
 slug: "ministry-to-korean-lepers"
 ---
 

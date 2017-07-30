@@ -4,7 +4,9 @@ description: "A tale of perseverance in romance."
 date: "2011-03-08"
 slug: "my-partner-in-congo"
 tags:
-  - hershey-longenecker
+  - Hershey Longenecker
+  - Congo
+  - Romance
 images:
   - /images/longenecker-wedding.jpg
 ---

@@ -3,8 +3,9 @@ title: "Rev. Ebenezer Hunter and the Unsolved Murder"
 description: "A tobacco-chewing, southern Presbyterian pastor solves a crime."
 date: "2010-08-21"
 tags:
-  - joe-b-hopper
-  - ebenezer-hunter
+  - Joe B. Hopper
+  - Ebenezer Hopper
+  - ARP
 slug: "uncle-ebenezer-hunter"
 ---
 

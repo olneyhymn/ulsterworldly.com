@@ -4,7 +4,8 @@ description: "Great southern Presbyterian R.L. Dabney describes seeing his futur
 date: "2013-06-23"
 slug: "dabney-meets-his-wife"
 tags:
-  - rl-dabney
+  - R.L. Dabney
+  - Romance
 images:
   - /images/dabney.jpg
 ---

@@ -3,8 +3,9 @@ title: "Joseph-Hopper.com"
 description: "A new resource to share the writings of Joseph Hopper and Joe B. Hopper, presbyterian missionaries to Korea."
 date: "2013-12-28"
 tags:
-  - joseph-hopper
-  - joe-b-hopper
+  - Joseph Hopper
+  - Joe B. Hopper
+  - Korea
 slug: "joseph-hopper.com"
 ---
 

@@ -5,7 +5,8 @@ description: "Does your belief in the final victory of Christ make worldly leade
 date: "2012-04-30"
 slug: "guilty"
 tags:
-  - tommy-brown
+  - Tommy Brown
+  - Korea
 ---
 
 I’m reading a history of the southern presbyterian (PCUS) mission to Korea, entitled Mission To Korea, written by my great-uncle [George Thompson Brown](https://en.wikipedia.org/wiki/G._Thompson_Brown). I just got past the Japanese emperor’s reign over Korea (1910-1945).

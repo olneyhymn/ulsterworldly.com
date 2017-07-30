@@ -4,7 +4,9 @@ description: "Humorous tale of romance on the mission field."
 date: "2012-03-25"
 slug: "played-the-coward"
 tags:
-  - tommy-brown
+  - Tommy Brown
+  - Korea
+  - Romance
 images:
   - /images/dot-and-joe.jpg
 ---

@@ -3,7 +3,8 @@ title: "Presbyterian Worship in Post War Korea"
 description: "My grandfather describes worship service in post-Korean war mission churches in rural South Korea."
 date: "2015-11-18"
 tags:
-  - joe-b-hopper
+  - Joe B. Hopper
+  - Korea
 slug: "worship-in-post-war-korea"
 ---
 

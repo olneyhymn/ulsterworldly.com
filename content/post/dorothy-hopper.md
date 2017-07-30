@@ -3,8 +3,10 @@ title: "Dorothy Longenecker Hopper, 1920-2015"
 description: "Brief biography of the first 2/3 years of Dot Hopper's life."
 date: "2015-12-05"
 tags:
-  - mary-seel
-  - dorothy-hopper
+  - Mary Seel
+  - Dorothy Hopper
+  - Korea
+  - Congo
 slug: "dorothy-hopper"
 ---
 

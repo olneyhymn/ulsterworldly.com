@@ -4,7 +4,8 @@ description: "A retired missionary's concern about the direction of his church."
 date: "2017-06-15"
 slug: "the-great-apostasy"
 tags:
-  - hershey-longenecker
+  - Hershey Longenecker
+  - PCUS
 images:
   - /images/hershey-longenecker.png
 ---

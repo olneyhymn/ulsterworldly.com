@@ -4,7 +4,9 @@ description: "Interview with a retired Presbyterian missionary."
 date: "2012-01-21"
 slug: "hershey-longenecker"
 tags:
-  - hershey-longencker
+  - Hershey Longenecker
+  - PCUS
+  - Congo
 images:
   - /images/hershey-longenecker.png
 ---

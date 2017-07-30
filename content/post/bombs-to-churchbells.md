@@ -4,7 +4,8 @@ description: "How clever (or foolish) deacons made church bells from a bomb."
 date: "2015-12-23"
 slug: "bombs-to-church-bells"
 tags:
-  - joe-b-hopper
+  - Joe B. Hopper
+  - Korea
 images:
   - /images/bomb-bell.jpg
 ---
