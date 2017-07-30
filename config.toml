@@ -1,4 +1,4 @@
-baseURL = "http://presbyterianarchives.com.s3-website-us-east-1.amazonaws.com/"
+baseURL = "https://ulsterworldly.com/"
 languageCode = "en-us"
 title = "Ulster Worldly"
 theme = "westminsterhist"
