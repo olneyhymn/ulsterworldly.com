@@ -164,15 +164,16 @@ h6, .h6 {
  */
 
 .blog-post {
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
 }
 .blog-post-title {
   margin-bottom: .25rem;
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 .blog-post-meta {
   font-family: $font-family-sans-serif;
-  margin-bottom: 1.25rem;
+  font-size: $font-size-sm;
+  margin-bottom: .5rem;
   color: #999;
 }
 article img {

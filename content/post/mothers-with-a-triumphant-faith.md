@@ -2,6 +2,7 @@
 title: "Mothers with a Triumphant Faith"
 description: "My great-grandfather Hopper, writing about his mother's reaction to his only sister's decision to join him as a Presbyterian missionary in Korea in 1922."
 date: "2013-08-17"
+short: true
 tags:
   - Joseph Hopper
   - Margaret Hopper

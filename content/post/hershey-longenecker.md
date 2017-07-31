@@ -3,6 +3,7 @@ title: "Mr. Culvern interviews J. Hershey Longenecker about his missionary caree
 description: "Interview with a retired Presbyterian missionary."
 date: "2012-01-21"
 slug: "hershey-longenecker"
+short: true
 tags:
   - Hershey Longenecker
   - PCUS

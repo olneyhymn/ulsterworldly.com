@@ -3,6 +3,7 @@ title: "Played the Coward"
 description: "Humorous tale of romance on the mission field."
 date: "2012-03-25"
 slug: "played-the-coward"
+short: true
 tags:
   - Tommy Brown
   - Korea
