@@ -27,6 +27,3 @@ truncate = false
 description = "Stories from the history of presbyterianism in America and beyond."
 author = "Tim Hopper"
 custom_navbar = true
-[params.sidebar]
-num_recent_posts=10
-about="I'm an armchair historian of American Presbyterianism, so I started this blog to collect stories, thoughts, facts, and figures. Featured are stories from my own family line which includes Presbyterians going back to 16th century Edinburgh."
