@@ -1,6 +1,6 @@
 ---
 title: "Westminster Daily"
-description: "A bibliography of readings about Reformed diaconal ministry."
+description: "A daily reading in the Westminster Standards."
 date: "2015-06-08"
 slug: "westminster-daily"
 short: true
