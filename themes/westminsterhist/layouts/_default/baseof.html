@@ -36,6 +36,8 @@
 
     {{ "<!-- combined, minified CSS -->" | safeHTML }}
     <link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet"{{ if not .Site.Params.disable_sri }} integrity="{{ .Site.Data.sri.style}}" crossorigin="anonymous"{{ end }}>
+    <link href="https://fonts.googleapis.com/css?family=Crimson+Text|Open+Sans" rel="stylesheet">
+
 
     {{ if .RSSLink }}
     {{ "<!-- RSS 2.0 feed -->" | safeHTML }}
@@ -83,7 +85,7 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-sm-8 blog-main">
+        <div class="offset-sm-1 col-sm-7 blog-main">
 
           {{ block "main" . }}
           <!-- The part of the page that begins to differ between templates -->
