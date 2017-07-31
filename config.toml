@@ -4,6 +4,7 @@ title = "Ulster Worldly"
 theme = "westminsterhist"
 Copyright = "2017 Timothy Hopper"
 DisqusShortname = 'ulsterworldly'
+Paginate = 50
 
 [[menu.navbar]]
     name = "joseph-hopper.com"
