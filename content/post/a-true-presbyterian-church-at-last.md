@@ -9,8 +9,8 @@ tags:
 source:
   - The Presbyterian Guardian
 images:
-  - pres-guardian-1936-06-22.png
-slug: "a-true-presbyterian-church-at-last.md"
+  - images/pres-guardian-1936-06-22.png
+slug: "a-true-presbyterian-church-at-last"
 ---
 
 _J. Gresham Machen writes of the formation of the Presbyterian Church of American (later Orthodox Presbyterian Church) in the [Presbyterian Guardian](https://www.opc.org/guardian.html) Volume 2 Number 6._
