@@ -6,6 +6,10 @@ tags:
   - J. Gresham Machen
   - The Presbyterian Conflict
   - OPC
+source:
+  - The Presbyterian Guardian
+images:
+  - pres-guardian-1936-06-22.png
 slug: "a-true-presbyterian-church-at-last.md"
 ---
 
