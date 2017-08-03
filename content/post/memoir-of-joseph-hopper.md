@@ -12,7 +12,7 @@ tags:
  - PCUS
 ---
 
-My great-grandfather Joseph Hopper (1892-1971) served as a [PCUS](https://en.wikipedia.org/wiki/PCUS "Wikipedia Entry: Presbyterian Church in the United States - Wikipedia") missionary in Korea from 1919 to 1956. My grandfather compiled this brief memoir of the first 30 years of his father's life in Kentucky._
+_My great-grandfather Joseph Hopper (1892-1971) served as a [PCUS](https://en.wikipedia.org/wiki/PCUS "Wikipedia Entry: Presbyterian Church in the United States - Wikipedia") missionary in Korea from 1919 to 1956. My grandfather compiled this brief memoir of the first 30 years of his father's life in Kentucky._
 
 _Joseph was a prolific writer. You can find many of his works at [joseph-hopper.com](http://joseph-hopper.com/)._
 
