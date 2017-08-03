@@ -11,7 +11,7 @@
     "build:fonts": "cp node_modules/font-awesome/fonts/* static/fonts",
     "build:js": "cp node_modules/bootstrap/dist/js/bootstrap.min.js static/js/bootstrap.min.js && cp node_modules/jquery/dist/jquery.min.js static/js/jquery.min.js",
     "build:cookieconsent": "cp node_modules/cookieconsent/build/cookieconsent.min.css static/css && cp node_modules/cookieconsent/build/cookieconsent.min.js static/js",
-    "build:generatesri": "node build/sri.js > data/sri.toml",
+    "build:generatesri": "node sri/sri.js > data/sri.toml",
     "build": "npm run build:css && npm run build:js && npm run build:fonts && npm run build:cookieconsent && npm run build:generatesri && npm run clean",
     "clean": "rm static/css/style.css.tmp"
   },
@@ -24,5 +24,8 @@
     "cookieconsent": "^3.0.4",
     "font-awesome": "^4.7.0",
     "node-sass": "^4.5.3"
+  },
+  "dependencies": {
+    "sri": "^1.1.0"
   }
 }
