@@ -1,0 +1,17 @@
+
+{{ $name := .Params.name }}
+
+{{ $page_link := .Permalink }}
+{{ $tags := .Params.tags }}
+
+<footer>
+    <h3>More Posts about {{ $name }}</h3>
+    {{ range .Site.Pages }}
+        {{ $page := . }}
+        {{ if and (in .Params.tags $name) (ne $page_link $page.Permalink) }}
+        <li><a href="{{ $page.Permalink }}">{{ $page.Title }}</a></li>
+        {{ end }}
+    {{ end }}
+
+    {{ partial "foot-base" . }}
+</footer>

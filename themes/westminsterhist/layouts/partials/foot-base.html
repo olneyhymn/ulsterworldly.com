@@ -1,0 +1,15 @@
+{{ if or (ne ($.Param "sharingicons") false) (.Site.DisqusShortname) }}
+{{ $dateFormat := default "Mon Jan 2, 2006" (index .Site.Params "date_format") }}
+
+      <p class="blog-post-meta"><a href='{{ .Permalink }}'><i class="fa fa-fw fa-link"></i></a> <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> by {{ .Params.author | default .Site.Params.author }}{{ if or (.Params.categories) (.Params.tags) }} in {{ partial "meta-terms.html" . }}{{ end }}</p>
+      <hr>
+
+      {{ if (ne ($.Param "sharingicons") false) }}
+        {{ partial "sharing-icons.html" . }}
+      {{ end }}
+
+      {{ if and (.Site.DisqusShortname) (ne .Params.comments false) }}
+        {{ template "_internal/disqus.html" . }}
+      {{ end }}
+
+{{ end }}
