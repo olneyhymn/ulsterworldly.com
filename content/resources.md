@@ -16,7 +16,7 @@ A biweekly look into the behind-the-scenes of the life and operation of a church
 
 A Twitter account sharing quotes from [John Newton](https://en.wikipedia.org/wiki/John_Newton). Quotes compiled by me and [Tony Reinke](http://tonyreinke.com/john-newton/).
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Be cautious you do not degenerate into a mere hearer, so as to place your chief stress on running after preachers.</p>&mdash; John Newton (@john__newton) <a href="https://twitter.com/john__newton/status/886723713554624512">July 16, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Be cautious you do not degenerate into a mere hearer, so as to place your chief stress on running after preachers.</p>&mdash; John Newton (@john\_\_newton) <a href="https://twitter.com/john__newton/status/886723713554624512">July 16, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### [<i class="fa fa-external-link" aria-hidden="true"></i>  @opc_history](https://twitter.com/opc_history)
