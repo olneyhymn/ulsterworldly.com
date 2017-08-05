@@ -11,12 +11,16 @@ tags:
  - Kentucky
  - PCUS
  - Uncle Joe Hopper
+images:
+ - /images/hopper-revelation.png
 ---
 
 _My great-grandfather Joseph Hopper (1892-1971) served as a [PCUS](https://en.wikipedia.org/wiki/PCUS "Wikipedia Entry: Presbyterian Church in the United States - Wikipedia") missionary in Korea from 1919 to 1956. My grandfather compiled this brief memoir of the first 30 years of his father's life in Kentucky._
 
 _Joseph was a prolific writer. You can find many of his works at [joseph-hopper.com](http://joseph-hopper.com/)._
 
+
+[![Title page of Hopper's study of Revelation](/images/hopper-revelation.png)](http://joseph-hopper.com/#victory-through-our-lord-jesus-christ)
 
 Joseph Hopper, my father, grew up in a strong Christian home as is evident from the description of his parents and other relatives. He and my Aunt Margaret Hopper used to reminisce about their happy times as children. Like many others in Presbyterian homes he wrote a letter to the "Christian Observer" which reveals something of his home training:
 
