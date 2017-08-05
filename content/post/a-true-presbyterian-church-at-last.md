@@ -16,6 +16,8 @@ slug: "a-true-presbyterian-church-at-last"
 
 _J. Gresham Machen writes of the formation of the Presbyterian Church of American (later Orthodox Presbyterian Church) in the [Presbyterian Guardian](https://www.opc.org/guardian.html) Volume 2 Number 6._
 
+[![Cover of the Presbyterian Guardian](images/pres-guardian-1936-06-22.png)](https://www.opc.org/cfh/guardian/Volume_2/1936-06-22.pdf)
+
 <span class="lead">ON THURSDAY, June 11, 1936, the hopes of many long years were realized. We became members, at last, of a true Presbyterian Church; we recovered, at last, the blessing of true Christian fellowship. What a joyous moment it was! How the long years of struggle seemed to sink into nothingness compared with the peace and joy that filled our hearts!</span>
 
 To the world, indeed, it might seem to have been not a happy moment but a sad one. Separation from the church of one's fathers; a desperate struggle ahead, with a tiny little group facing the hostility of the world and the still more bitter hostility of the visible church-what possible joy or comfort can be found in such things as these?
