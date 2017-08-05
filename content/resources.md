@@ -43,5 +43,3 @@ A collection of writings on the theology and practice of the office of diaconate
 #### <i class="fa fa-external-link" aria-hidden="true"></i> [Westminster Daily](http://www.reformedconfessions.com/westminster-daily)
 
 A website to follow Dr. Joseph Pipa's [Calendar of Readings in the Westminster Standards](https://www.gpts.edu/resources/documents/Calendar%20Readings%20in%20WestminsterNumbered.pdf). Includes a [Twitter account](twitter.com/refconfessions), [Facebook page](https://www.facebook.com/westminsterdaily/), and an [email list](https://feed.press/e/mailverify?feed_id=westminster-daily), each of which is updated with a new reading each day.
-
-<div class="StatusCake"></div><link rel="stylesheet" media="all" href="https://www.statuscake.com/App/Widget/table.css"/><script type="text/javascript">var PublicID = 'tOHc3TBwd8'; var ShowAd = true; var Status = document.createElement('script'); Status.src = 'https://www.statuscake.com/App/Widget/Widget2JS.js'; Status.type = 'text/javascript'; Status.async = true; var ssc = document.getElementsByTagName('script')[0]; ssc.parentNode.insertBefore(Status, ssc);</script>
