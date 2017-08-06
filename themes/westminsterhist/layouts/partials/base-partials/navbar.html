@@ -1,0 +1,33 @@
+<nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <a class="navbar-brand {{ if .IsHome }}active{{ end }}" href="{{ .Site.BaseURL | absLangURL }}">{{ i18n "home" }}</a>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav mr-auto">
+       {{- $currentURL := .URL | absLangURL -}}
+      {{ range .Site.Menus.navbar }}
+        {{ $menuURL := .URL | absLangURL }}
+        {{ .Pre }}
+        <li class="nav-item{{ if eq $menuURL $currentURL }} active{{ end }}">
+          <a class="nav-link" href="{{.URL | absURL }}">{{ .Name }}</a>
+        </li>
+      {{ end }}
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Other Resources
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+        {{- $currentURL := .URL | absLangURL -}}
+        {{ range .Site.Menus.dropdown }}
+          {{ $menuURL := .URL | absLangURL }}
+          {{ .Pre }}
+            <a class="dropdown-item" href="{{.URL | absURL }}" target="_new">{{ .Name }}</a>
+        {{ end }}
+        </div>
+      </li>
+      </ul>
+    </div>
+
+</nav>

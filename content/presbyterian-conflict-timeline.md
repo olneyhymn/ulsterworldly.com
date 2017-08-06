@@ -4,9 +4,10 @@ date: "2017-08-03"
 slug: "presbyterian-conflict"
 draft: true
 type: timeline
+menu:
+    navbar:
+        name: "Presbyterian Conflict Timeline"
 ---
-
-
 
 #### Learn More about the Presbyterian Conflict
 

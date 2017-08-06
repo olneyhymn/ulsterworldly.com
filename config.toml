@@ -6,21 +6,31 @@ Copyright = "2017 Timothy Hopper"
 DisqusShortname = 'ulsterworldly'
 Paginate = 50
 
-[[menu.navbar]]
+[[menu.dropdown]]
     name = "joseph-hopper.com"
     weight = 1
     identifier = "joseph-hopper.com"
     url = "http://joseph-hopper.com"
-[[menu.navbar]]
-    name = "Olney Hymn"
+[[menu.dropdown]]
+    name = "Westminster Daily"
+    weight = 1
+    identifier = "Westminster Daily"
+    url = "http://reformedconfessions.com/"
+[[menu.dropdown]]
+    name = "Readings in the Reformed Diaconate"
+    weight = 1
+    identifier = "Readings in the Reformed Diaconate"
+    url = "http://reformeddeacon.com/"
+[[menu.dropdown]]
+    name = "Twitter Accounts"
     weight = -110
-    identifier = "olneyhymn.github.io"
-    url = "http://olneyhymn.github.io"
-[[menu.navbar]]
-    name = "@opc_history"
-    weight = 0
-    identifier = "opc_history"
-    url = "http://twitter.com/opc_history"
+    identifier = "Twitter accounts"
+    url = "http://ulsterworldly.com/resources"
+[[menu.dropdown]]
+    name = "Waiting Tables podcast"
+    weight = -110
+    identifier = "Waiting Tables podcast"
+    url = "http://waiting-tables.com"
 
 [params]
 feedpress = "http://feedpress.me/ulsterworldly"

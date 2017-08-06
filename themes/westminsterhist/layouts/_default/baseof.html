@@ -2,27 +2,8 @@
 
   <body>
 
-<!--     <div class="blog-masthead">
-      <div class="container">
-        <nav class="navbar navbar-toggleable-md py-0">
-          <a class="nav-link {{ if .IsHome }}active{{ end }}" href="{{ .Site.BaseURL | absLangURL }}">{{ i18n "home" }}</a>
 
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
-            {{- $currentURL := .URL | absLangURL -}}
-            {{ range .Site.Menus.navbar }}
-              {{ $menuURL := .URL | absLangURL }}
-              {{ .Pre }}
-              <li class="nav-item{{ if eq $menuURL $currentURL }} active{{ end }}">
-                <a class="nav-link" href="{{.URL | absURL }}">{{ .Name }}</a>
-              </li>
-            {{ end }}
-            </ul>
-          </div>
-        </nav>
-      </div>
-    </div> -->
-
+    {{ partial "base-partials/navbar" . }}
     {{ partial "base-partials/header" . }}
     {{ block "timeline" . }}
 
