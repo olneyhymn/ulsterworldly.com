@@ -25,12 +25,14 @@
 
     {{ partial "base-partials/header" . }}
 
-    <div class="container-fluid px-0">
-
+    <div class="container-fluid px-sm-0 px-md-0 mx-sm-0 mx-md-0 my-0 py-0">
+      <div class="row bg-faded px-sm-0 pt-4">
+        <div class="offset-lg-1 col-lg-10 col-md-12 col-sm-12 p-0">
           {{ block "main" . }}
           <!-- The part of the page that begins to differ between templates -->
           {{ end }}
-
+        </div>
+      </div>
     </div> {{ "<!-- /.container -->" | safeHTML }}
 
     {{ partial "base-partials/footer" . }}
