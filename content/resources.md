@@ -7,10 +7,11 @@ Below are links to several websites I have built "for building up the body of Ch
 
 <div style="text-align:right;">— Tim Hopper</div>
 
+<br>
 
-#### [<i class="fa fa-external-link" aria-hidden="true"></i>  Waiting Tables podcast](http://waiting-tables.com)
+### <i class="fa fa-twitter fa-2x" aria-hidden="true"></i> Twitter Accounts
 
-A biweekly look into the behind-the-scenes of the life and operation of a church. Waiting Tables exists to help ease logistical hurdles to free your church to focus on its mission.
+<br>
 
 #### [<i class="fa fa-external-link" aria-hidden="true"></i>  @john__newton](https://twitter.com/john__newton)
 
@@ -34,6 +35,11 @@ A Twitter account to share quotes from J. Gresham Machen.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The strongest Christianity, I think, is consistent Christianity; and consistent Christianity is found in the Reformed Faith.</p>&mdash; J. Gresham Machen (@jg_machen) <a href="https://twitter.com/jg_machen/status/836924156713320448">March 1, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br>
+
+### <i class="fa fa-desktop fa-2x" aria-hidden="true"></i>  Other Websites
+
+<br>
 
 #### [<i class="fa fa-external-link" aria-hidden="true"></i>  The Works of Joseph Hopper and Joe B. Hopper](http://joseph-hopper.com)
 
@@ -46,3 +52,8 @@ A collection of writings on the theology and practice of the office of diaconate
 #### [<i class="fa fa-external-link" aria-hidden="true"></i>  Westminster Daily](http://www.reformedconfessions.com/westminster-daily)
 
 A website to follow Dr. Joseph Pipa's [Calendar of Readings in the Westminster Standards](https://www.gpts.edu/resources/documents/Calendar%20Readings%20in%20WestminsterNumbered.pdf). Includes a [Twitter account](twitter.com/refconfessions), [Facebook page](https://www.facebook.com/westminsterdaily/), and an [email list](https://feed.press/e/mailverify?feed_id=westminster-daily), each of which is updated with a new reading each day.
+
+
+#### [<i class="fa fa-external-link" aria-hidden="true"></i>  Waiting Tables podcast](http://waiting-tables.com)
+
+A biweekly look into the behind-the-scenes of the life and operation of a church. Waiting Tables exists to help ease logistical hurdles to free your church to focus on its mission.
