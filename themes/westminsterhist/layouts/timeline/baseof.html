@@ -1,6 +1,6 @@
-{{ partial "base-partials/head" . }}
-
+  {{ partial "base-partials/head" . }}
   <body>
+
 
 <!--     <div class="blog-masthead">
       <div class="container">
@@ -23,29 +23,17 @@
       </div>
     </div> -->
 
-    <header class="blog-header pt-4 bg-inverse center">
-      <div class="container">
-        <h1 class="blog-title text-white"><a href="{{ .Site.BaseURL }}" rel="home">{{ .Site.Title | safeHTML }}</a></h1>
-        <span class="blog-description font-faded">{{ if .Site.Params.long_description }}{{ .Site.Params.long_description | markdownify }}{{ end }}</span>
-      </div>
-    </header>
+    {{ partial "base-partials/header" . }}
 
-    <div class="container">
-      <div class="row">
-        <div class="offset-md-1 col-md-9 offset-lg-2 col-lg-7 blog-main">
+    <div class="container-fluid px-0">
 
           {{ block "main" . }}
           <!-- The part of the page that begins to differ between templates -->
           {{ end }}
 
-        </div> {{ "<!-- /.blog-main -->" | safeHTML }}
-
-
-      </div> {{ "<!-- /.row -->" | safeHTML }}
     </div> {{ "<!-- /.container -->" | safeHTML }}
 
     {{ partial "base-partials/footer" . }}
-
   </body>
 
 </html>
