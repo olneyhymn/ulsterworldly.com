@@ -2,7 +2,7 @@
 title: "Timeline of the Presbyterian Conflict (1906-1939)"
 date: "2017-08-03"
 slug: "presbyterian-conflict"
-draft: true
+draft: false
 type: timeline
 menu:
     navbar:
