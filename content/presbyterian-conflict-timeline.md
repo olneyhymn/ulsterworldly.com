@@ -26,3 +26,11 @@ type: timeline
 timeline = new TL.Timeline('timeline-embed',
   'https://docs.google.com/spreadsheets/d/1mU56Ur1ldmrwY0ijm2Jme2hQ3ZqNehOYInkeQYqQJNs/edit?usp=sharing');
 </script>
+
+#### Learn More about the Presbyterian Conflict
+
+* [The Presbyterian Conflict](http://opc.org/books/conflict/) by Edwin Rian ([ePub and Kindle versions](https://store.opc.org/SearchResults.asp?Cat=1823))
+* [Fighting the Good Fight: A Brief History of the Orthodox Presbyterian Church](https://store.opc.org/ProductDetails.asp?ProductCode=H-Fighting-the-good-fight) by D.G. Hart and John Muether
+* [Defending the Faith: J. Gresham Machen and the Crisis of Conservative Protestantism in Modern America](http://amzn.to/2vDb5zs) by D.G. Hart
+* [The Presbyterian Controversy: Fundamentalists, Modernists, and Moderates](http://amzn.to/2vtsmuo) by Bradley Longfield
+* [J. Gresham Machen: A Guided Tour of His Life and Thought ](http://amzn.to/2fiBT0R) by Stephen Nichols
