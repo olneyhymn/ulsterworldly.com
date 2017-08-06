@@ -32,6 +32,5 @@ Here are the lectures:
 
 Hart's book on Machen, [Defending the Faith: J. Gresham Machen and the Crisis of Conservative Protestantism in Modern America](http://amzn.to/2wih1Lj), is similarly excellent.
 
-<a href="https://www.amazon.com/Defending-Faith-Gresham-Conservative-Protestantism/dp/0875525636/ref=as_li_ss_il?ie=UTF8&qid=1501982426&sr=8-10&keywords=d.+g.+hart&linkCode=li3&tag=dothopper-20&linkId=2ba4aafcd4675e94a846d85d2cb6cc3a" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0875525636&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=dothopper-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=dothopper-20&l=li3&o=1&a=0875525636" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 [^recordquality]: The quality of the recording on the first couple of lectures is poor, but the improve over time.
