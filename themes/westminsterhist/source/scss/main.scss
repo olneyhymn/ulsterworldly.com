@@ -25,6 +25,7 @@ $font-family-base:       $font-family-serif;
 body {
   color: #000;
   font-family: $font-family-serif;
+  padding-top: 50px;
 }
 
 p {
@@ -43,6 +44,10 @@ article p {
 
 .navbar {
   font-family: $font-family-sans-serif;
+}
+
+.navbar-brand {
+  padding-top: 0px;
 }
 
 h1, .h1,
