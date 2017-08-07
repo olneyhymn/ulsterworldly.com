@@ -12,7 +12,7 @@ tags:
  - Transylvania presbytery
  - Edward O. Guerrant
 images:
- - static/marion-presbyterian-ky.jpg
+ - images/marion-presbyterian-ky.jpg
 ---
 
 
