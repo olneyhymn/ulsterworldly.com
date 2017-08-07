@@ -6,6 +6,7 @@ slug: "the-great-apostasy"
 tags:
   - Hershey Longenecker
   - PCUS
+  - Edward O. Guerrant
 images:
   - /images/hershey-longenecker.png
 ---
