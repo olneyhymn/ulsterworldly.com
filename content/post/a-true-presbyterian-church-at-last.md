@@ -6,6 +6,7 @@ tags:
   - J. Gresham Machen
   - The Presbyterian Conflict
   - OPC
+  - Presbyterian Guardian
 source:
   - The Presbyterian Guardian
 images:
