@@ -28,11 +28,14 @@ body {
   padding-top: 50px;
 }
 
-p {
-  font-size: $font-size-base * 1.1;
+.bigfoot-footnote__content p {
+  line-height: normal;
+  font-style: initial;
+  font-family: $font-family-sans-serif;
+  font-size: $font-size-sm;
 }
-
 article p {
+  font-size: $font-size-base * 1.1;
   line-height: 1.7em;
 }
 
