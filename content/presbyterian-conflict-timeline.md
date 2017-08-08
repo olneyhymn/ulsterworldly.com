@@ -3,6 +3,7 @@ title: "Timeline of the Presbyterian Conflict (1906-1939)"
 date: "2017-08-03"
 slug: "presbyterian-conflict"
 draft: false
+short: false
 type: timeline
 images:
  - images/pearl-buck-quote.png
