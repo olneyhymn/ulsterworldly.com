@@ -1,5 +1,5 @@
 ---
-title: "Dr. Machen's Hope and the Active Obedience of Christ"
+title: "John Murray Explains Machen's Final Words"
 description: "Machen's last word reveled in the active obedience of Christ. Professor John Murray explains why."
 date: 2017-08-08
 slug: "hope-and-the-active-obedience-of-christ"
