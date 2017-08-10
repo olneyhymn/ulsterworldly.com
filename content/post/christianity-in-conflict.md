@@ -1,5 +1,5 @@
 ---
-title: "Christianity in Conflict"
+title: "Machen's Autobiography of His Stand for Truth"
 description: "An account of personal experiences may be interesting for one or two reasons: (1) because the writer is in some way remarkable; (2) because, not being at all remarkable, he may be able to set forth in a concrete way the experience of a considerable body of men."
 date: 2017-08-10
 slug: "christianity-in-conflict"
