@@ -41,6 +41,9 @@ p {
   }
 }
 
+.sans-serif {
+  font-family: $font-family-sans-serif;
+}
 
 .read-more {
 
@@ -142,6 +145,8 @@ h6, .h6 {
   font-family: $font-family-sans-serif;
   margin-bottom: .5rem;
   color: #999;
+  font-size: $font-size-xs;
+
 }
 article img {
   max-width: 100%;
