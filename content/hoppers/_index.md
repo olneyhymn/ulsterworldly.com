@@ -1,3 +1,10 @@
+---
+title: Hoppers in Korea
+menu:
+    navbar:
+        name: "Hoppers in Korea"
+---
+
 # The Works of Joseph Hopper and Joe B. Hopper
 
 

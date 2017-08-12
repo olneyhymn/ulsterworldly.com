@@ -7,11 +7,6 @@ DisqusShortname = 'ulsterworldly'
 Paginate = 50
 
 [[menu.dropdown]]
-    name = "joseph-hopper.com"
-    weight = 1
-    identifier = "joseph-hopper.com"
-    url = "http://joseph-hopper.com"
-[[menu.dropdown]]
     name = "Westminster Daily"
     weight = 1
     identifier = "Westminster Daily"
