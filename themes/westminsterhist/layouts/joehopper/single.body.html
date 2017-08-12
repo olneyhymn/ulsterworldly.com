@@ -1,0 +1,17 @@
+
+{{ with .Params.subtitle }}<h4>{{ . }}</h4>{{ end }}
+{{ with .Params.author }}<h4>by {{ . }} {{ with $.Params.year }} ({{.}}){{ end }}</h4>{{ end }}
+
+{{ with .Description }}<p>{{ . }}</p>{{ end }}
+
+{{ with .Params.quote }}<blockquote>{{ . }}</blockquote>{{ end }}
+
+
+{{ with .Params.files }}
+    <h6>Download</h6>
+    <ul>
+        {{ range $key, $value := . }}
+        <li><a href="/{{ $value }}">{{ $key }}</a> </li>
+        {{ end }}
+    </ul>
+{{ end }}

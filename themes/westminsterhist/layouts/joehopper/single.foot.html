@@ -1,0 +1,3 @@
+      Link: <a href='{{ .Permalink }}'><i class="fa fa-fw fa-link"></i></a>
+      &nbsp;&nbsp;&nbsp;
+      {{ if (ne ($.Param "sharingicons") false) }}<br>{{ partial "sharing-icons.html" . }}{{ end }}
