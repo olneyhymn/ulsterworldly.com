@@ -41,10 +41,6 @@ A Twitter account to share quotes from J. Gresham Machen.
 
 <br>
 
-#### [<i class="fa fa-external-link" aria-hidden="true"></i>  The Works of Joseph Hopper and Joe B. Hopper](http://joseph-hopper.com)
-
-A digital collection of writings left behind by my grandfather and great-grandfather, Presbyterian missionaries to Korea.
-
 #### [<i class="fa fa-external-link" aria-hidden="true"></i>  Readings in the Reformed Diaconate](http://reformeddeacon.com/)
 
 A collection of writings on the theology and practice of the office of diaconate (particularly in the context of Reformed churches).
