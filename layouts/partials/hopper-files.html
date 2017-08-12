@@ -1,4 +1,4 @@
-<h6>Download:</h6>
+<h6 class="text-muted">Download:</h6>
 <ul>
     {{ range $key, $value := . }}
     <li><a href="http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/{{ $value }}">{{ if not (eq $key "mp3")}}<i class="fa fa-file-pdf-o" aria-hidden="true"></i> {{ end }}{{ if eq $key "mp3" }}<i class="fa fa-file-audio-o" aria-hidden="true"></i> {{ end }}
