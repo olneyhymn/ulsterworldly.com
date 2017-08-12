@@ -1,6 +1,5 @@
 +++
 author = "Joseph Hopper"
-type = "joehopper"
 description = """An introductory outline on the book of Isaiah."""
 title = "Studies in Isaiah"
 

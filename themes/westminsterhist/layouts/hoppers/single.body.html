@@ -1,0 +1,9 @@
+
+{{ with .Description }}<h6 class="pt-2">Description:</h6><p>{{ . }}</p>{{ end }}
+
+{{ with .Params.quote }}<h6>Quote:</h6><blockquote>{{ . }}</blockquote>{{ end }}
+
+
+{{ with .Params.files }}
+    {{ partial "hopper-files.html" . }}
+{{ end }}

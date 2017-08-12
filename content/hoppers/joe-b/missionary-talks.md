@@ -1,6 +1,5 @@
 +++
 author = "Joe B. Hopper"
-type = "joehopper"
 description = """Several outlines or manuscripts from a folder entitled "Missionary Talks"."""
 title = "Missionary Talks"
 [files]

@@ -1,6 +1,5 @@
 +++
 author = "Joe B. Hopper"
-type = "joehopper"
 description = """Several outlines or manuscripts from sermons preached by Joe."""
 quote = """Hence this Reformation is still, going on today. Sometimes it means a real revival within a church. Sometimes it causes new denominations to start—and there are many such groups in process of formation today. Let us not be too critical of them. They may have rediscovered the Gospel in the Bible, while we let dust gather on ours and allow the light of the Gospel to grow dim and cold and flicker out in our lives, and in our churches."""
 title = "Miscellaneous Sermons"

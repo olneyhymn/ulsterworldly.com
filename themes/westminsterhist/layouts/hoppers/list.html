@@ -31,26 +31,16 @@
 
 {{ .Content }}
 {{ range .Data.Pages.GroupByParam "author" }}
-  <h2>{{ .Key }}</h2>
+  <h2 class="pt-4">{{ .Key }}</h2>
   {{ range .Pages }}
-    {{ $year := .Params.year }}
-    <h3 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h3>
-    {{ with .Params.subtitle }}<h5 class="text-muted">{{ . }}</h5>{{ end }}
-    {{ with .Params.author }}<h6>by {{ . }} {{ with $year }} ({{.}}){{ end }}</h6>{{ end }}
+    {{ partial "hopper-header.html" . }}
 
     {{ with .Description }}<p>{{ . }}</p>{{ end }}
 
-
-
     {{ with .Params.files }}
-        <h6>Download</h6>
-        <ul>
-            {{ range $key, $value := . }}
-            <li><a href="/{{ $value }}">{{ $key }}</a> </li>
-            {{ end }}
-        </ul>
+      {{ partial "hopper-files.html" . }}
     {{ end }}
-
+    {{ .Render "single.foot" }}
   {{ end }}
 {{ end }}
 

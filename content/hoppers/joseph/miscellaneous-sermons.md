@@ -1,6 +1,5 @@
     +++
 author = "Joseph Hopper"
-type = "joehopper"
 description = """Several manuscripts from sermons preached by Joseph."""
 title = "Miscellaneous Sermons"
 
