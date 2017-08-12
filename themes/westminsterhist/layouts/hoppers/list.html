@@ -31,7 +31,7 @@
 
 {{ .Content }}
 {{ range .Data.Pages.GroupByParam "author" }}
-  <h2 class="pt-4">{{ .Key }}</h2>
+  <h2 class="pt-2">{{ .Key }}</h2>
   {{ range .Pages }}
     {{ partial "hopper-header.html" . }}
 
