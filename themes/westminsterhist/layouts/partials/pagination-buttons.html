@@ -1,18 +1,3 @@
-{{ define "schema-dot-org" }}
-  {{ partial "schemadotorg.html" . }}
-{{ end }}
-
-{{ define "main" }}
-
-{{ $paginator := .Paginate .Data.Pages }}
-{{ range $paginator.Pages }}
-{{ if and (not .Params.short) .Params.description }}
-{{ .Render "summary" }}
-{{ else }}
-{{ .Render "content" }}
-{{ end }}
-{{ end }}
-
 {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
 <nav class="blog-pagination">
   {{ if and (.Paginator.HasPrev) (.Paginator.HasNext) }}
@@ -29,7 +14,3 @@
   {{ end }}
 </nav>
 {{ end }}
-
-{{ end }}
-
-{{- /* vim: set ts=2 sw=2 et: */}}

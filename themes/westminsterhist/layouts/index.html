@@ -1,0 +1,19 @@
+{{ define "schema-dot-org" }}
+  {{ partial "schemadotorg.html" . }}
+{{ end }}
+{{ define "main" }}
+
+{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+{{ range $paginator.Pages }}
+{{ if and (not .Params.short) .Params.description }}
+{{ .Render "summary" }}
+{{ else }}
+{{ .Render "content" }}
+{{ end }}
+{{ end }}
+
+{{ partial "pagination-buttons.html" . }}
+
+{{ end }}
+
+{{- /* vim: set ts=2 sw=2 et: */}}

@@ -5,12 +5,12 @@ S3_BUCKET='ulsterworldly.com'
 all: build deploy
 
 build: scss
-	hugo
+	hugo --enableGitInfo
 
 scss:
 	cd themes/westminsterhist && npm run build
 
-preview:
+preview: scss
 	# Launch local server to preview pages (with auto refresh)
 	hugo server --watch --port 1313 --buildDrafts --buildFuture --quiet
 
@@ -31,6 +31,9 @@ push:
 pdfs:
 	# Generate PDFs from HTML pages (esp opc.org pages)
 	. make_pdfs.sh
+
+preview:
+	hugo server -wD --log --ignoreCache
 
 archive_pdfs:
 	# Archive pdf files from other sites... just in case.
