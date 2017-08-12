@@ -1,5 +1,5 @@
 +++
-author = "Joe B. Hopper"
+author = "Joseph Hopper"
 type = "joehopper"
 description = """A study of the progressive revelation of the gospel to unbelievers through Scripture."""
 quote = """In the very first gospel the reason for this victory is given. The cross is contemplated. "Thou shalt bruise his head" is the simple prophecy suggesting the sufferings and death of Christ. Victory comes only by way of the cross, through him that loved us."""
