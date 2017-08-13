@@ -11,6 +11,7 @@ tags:
  - Uncle Joe Hopper
  - Transylvania presbytery
  - Edward O. Guerrant
+ - Family
 images:
  - images/marion-presbyterian-ky.jpg
 ---

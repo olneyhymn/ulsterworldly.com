@@ -7,6 +7,7 @@ slug: "petition-in-blood"
 tags:
  - Joe B. Hopper
  - Korea
+ - Family
 images:
  - /images/blood/petition-in-blood-1942.JPG
  - /images/blood/petition-in-blood-1943.JPG

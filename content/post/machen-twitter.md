@@ -7,6 +7,7 @@ short: true
 tags:
   - Twitter
   - J. Gresham Machen
+  - OPC
 ---
 
 I created a twitter account, [@jg_machen](https://twitter.com/jg_machen), to share quotes from J. Gresham Machen. I'd love for you to follow along!

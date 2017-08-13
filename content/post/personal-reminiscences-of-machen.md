@@ -18,6 +18,7 @@ tags:
  - Harold S. Laird
  - Lewis J. Grotenhuis
  - Presbyterian Journal
+ - OPC
 images:
  - images/memories-of-machen.png
 source: http://www.pcahistory.org/documents/machen-conflict.pdf

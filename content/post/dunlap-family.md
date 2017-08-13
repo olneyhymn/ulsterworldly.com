@@ -9,6 +9,7 @@ tags:
  - Dunlap Family
  - Joseph Hopper
  - Uncle Joe Hopper
+ - Family
 images:
  - images/george-d-hopper-grave.jpg
 sources:

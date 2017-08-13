@@ -9,6 +9,7 @@ tags:
  - Theology
  - John Murray
  - Presbyterian Guardian
+ - OPC
 ---
 
 <em>Dr. J. Gresham Machen died unexpectedly on January 1, 1937, soon after the second General Assembly of the OPC. His final known words were a brief telegram to Professor John Murray. In the [January 23, 1937](https://www.opc.org/cfh/guardian/Volume_3/1937-01-23.pdf) edition of the Presbyterian Guardian, Dr. Machen explained Machen's famous words.</em>

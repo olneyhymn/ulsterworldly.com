@@ -5,6 +5,7 @@ date: "2017-07-17"
 slug: "simplicity-and-plainness-of-her-worship"
 tags:
   - William Dunlop Jr.
+  - Family
 ---
 
 _From [A Preface to an Edition of the Westminster Confession, &c](https://www.amazon.com/Preface-Westminster-Confession-Publishd-Edinburgh/dp/117366193X) by the Rev. William Dunlop of the Church of Scotland, 1724. Dunlop was my great-great grandfather's great great grandfather._

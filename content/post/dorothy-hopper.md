@@ -7,6 +7,7 @@ tags:
   - Dorothy Hopper
   - Korea
   - Congo
+  - Family
 slug: "dorothy-hopper"
 ---
 

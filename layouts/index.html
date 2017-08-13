@@ -3,6 +3,8 @@
 {{ end }}
 {{ define "main" }}
 
+{{ .Content }}
+
 {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
 {{ range $paginator.Pages }}
 {{ if and (not .Params.short) .Params.description }}

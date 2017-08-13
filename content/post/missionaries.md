@@ -6,6 +6,7 @@ slug: "missionaries-by-dot-hopper"
 tags:
   - Dorothy Hopper
   - Korea
+  - Family
 images:
   - /images/dot-and-joe.jpg
 ---

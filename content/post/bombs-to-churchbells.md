@@ -7,6 +7,7 @@ short: true
 tags:
   - Joe B. Hopper
   - Korea
+  - Family
 images:
   - /images/bomb-bell.jpg
 ---

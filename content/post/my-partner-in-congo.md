@@ -7,6 +7,7 @@ tags:
   - Hershey Longenecker
   - Congo
   - Romance
+  - Family
 images:
   - /images/longenecker-wedding.jpg
 ---
