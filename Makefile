@@ -12,7 +12,7 @@ scss:
 
 preview: scss
 	# Launch local server to preview pages (with auto refresh)
-	hugo server --watch --port 1313 --buildDrafts --buildFuture --quiet
+	hugo server --watch --port 1313 --buildDrafts --buildFuture --quiet --log --ignoreCache
 
 clean:
 	# Delete local build
@@ -31,9 +31,6 @@ push:
 pdfs:
 	# Generate PDFs from HTML pages (esp opc.org pages)
 	. make_pdfs.sh
-
-preview:
-	hugo server -wD --log --ignoreCache
 
 archive_pdfs:
 	# Archive pdf files from other sites... just in case.
