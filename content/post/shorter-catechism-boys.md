@@ -47,7 +47,7 @@ Newton's pastoral theology was greatly shaped by his rich heritage. Pastor Tim K
 
 ## Charles Hodge (1797–1878)
 
-Charles Hodge taught at Princeton Seminary from 1820 to 1878. During that time, around 3,000 men who would go on to become gospel ministers sat under his instruction. Countless more have benefited from his magisterial 3 volume _[Systematic Theology](http://amzn.to/2hX4yJE)_
+Charles Hodge taught at Princeton Seminary from 1820 to 1878. During that time, around 3,000 men who would go on to become gospel ministers sat under his instruction. Countless more have benefited from his magisterial 3 volume _[Systematic Theology](http://amzn.to/2hX4yJE)_.
 
 The great love for Christ and His Word that shaped Hodge's life and teaching started long before his days at Princeton. He would write, "To our mother, my brother and myself, under God owe absolutely everything. To us she devoted her life. For us she prayed, labored, and suffered. Our mother was a Christian ... [she] carefully drilled us in the Westminster Confession."[^hoffecker]
 
