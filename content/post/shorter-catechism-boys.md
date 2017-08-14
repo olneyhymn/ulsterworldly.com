@@ -8,9 +8,12 @@ tags:
  - B.B. Warfield
  - Joe B. Hopper
  - Charles Hodge
+ - John Newton
  - J. Gresham Machen
  - Westminster Shorter Catechism
  - Tim Challies
+images:
+ - /images/challies-catechism.png
 ---
 
 In 1910, B.B. Warfield wrote, [^warfield_catechism]
