@@ -6,12 +6,17 @@ before_install: python --version
 install:
   - go get -v github.com/spf13/hugo
   - sudo pip install s3cmd
+  - sudo pip install awscli
   - nvm install node
 script:
   - cd themes/westminsterhist && npm install && cd ../..
   - cd themes/westminsterhist && npm run build && cd ../..
   - hugo --enableGitInfo
   - s3cmd sync --delete-removed --acl-public --guess-mime-type --recursive public/ s3://ulsterworldly.com/
+after_deploy:
+  - aws configure set preview.cloudfront true
+  - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths "/*"
 notifications:
     email:
-        on_failure: always
+        on_failure: change
+        on_success: change
