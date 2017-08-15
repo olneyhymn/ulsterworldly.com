@@ -13,7 +13,6 @@ script:
   - cd themes/westminsterhist && npm run build && cd ../..
   - hugo --enableGitInfo
   - s3cmd sync --delete-removed --acl-public --guess-mime-type --recursive public/ s3://ulsterworldly.com/
-after_deploy:
   - aws configure set preview.cloudfront true
   - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths "/*"
 notifications:
