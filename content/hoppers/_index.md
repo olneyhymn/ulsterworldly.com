@@ -16,4 +16,4 @@ menu:
 
 <img class="img-fluid float-md-right pl-3 p-b3" src="/images/joe-and-dot-hopper-sm.jpg" alt="Joe B. and Dot Hopper">
 
-Both men left behind a number of writings from sermon notes to seminary papers to books. Some of those works are provided here in scanned form. For more information, contact <a href="mailto:mail@joseph-hopper.com">mail@joseph-hopper.com</a>.
+Both men left behind a number of writings from sermon notes to seminary papers to books. Some of those works are provided here in scanned form.
