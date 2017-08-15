@@ -1,4 +1,7 @@
 language: go
+branches:
+  only:
+  - master
 before_install: python --version
 install:
   - go get -v github.com/spf13/hugo
