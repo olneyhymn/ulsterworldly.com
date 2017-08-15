@@ -1,0 +1,11 @@
+language: go
+before_install: python --version
+install:
+  - go get -v github.com/spf13/hugo
+  - sudo pip install s3cmd
+script:
+  - hugo --enableGitInfo
+  - s3cmd sync --delete-removed --acl-public --guess-mime-type --recursive public/ s3://ulsterworldly.com/
+notifications:
+    email:
+        on_failure: always
