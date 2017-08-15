@@ -8,6 +8,8 @@ install:
   - sudo pip install s3cmd
   - nvm install node
 script:
+  - cd themes/westminsterhist && npm install
+  - cd themes/westminsterhist && npm run build
   - hugo --enableGitInfo
   - s3cmd sync --delete-removed --acl-public --guess-mime-type --recursive public/ s3://ulsterworldly.com/
 notifications:
