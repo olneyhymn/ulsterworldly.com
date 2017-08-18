@@ -1,5 +1,5 @@
 ---
-title: "James Barron"
+title: "Barrons of Scotland"
 description: "The story of James Barron, forgotten reformer and friend of John Knox"
 date: 2017-08-18
 short: false
