@@ -2,6 +2,7 @@
 title: "Hopper Antecedents"
 description: "My grandfather (Joe B. Hopper)'s reflection on his ancestors and t."
 date: 2017-08-21
+publishDate: 2017-08-21
 short: true
 people:
  - Joe B. Hopper
