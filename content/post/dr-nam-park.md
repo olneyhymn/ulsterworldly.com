@@ -3,8 +3,11 @@ title: "Dr. Nam Y. Park"
 description: "A book (almost) returned 50 years later."
 date: 2017-08-19
 short: true
-tags:
+people:
  - Joe B. Hopper
+ - Joseph Hopper
+ - Nam Park
+tags:
  - Korea
  - Family
  - Joseph Hopper

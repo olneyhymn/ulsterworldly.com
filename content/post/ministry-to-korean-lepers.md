@@ -3,9 +3,10 @@ title: "Writings of Joseph and Joe B. Hopper"
 description: "Archive of writings of two Presbyterian missionaries to Korea."
 short: true
 date: "2017-08-12"
-tags:
+people:
   - Joseph Hopper
   - Joe B. Hopper
+tags:
   - Korea
   - Family
 slug: "joseph-and-joe-b-hopper"

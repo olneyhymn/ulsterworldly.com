@@ -4,10 +4,11 @@ description: "Machen's last word reveled in the active obedience of Christ. Prof
 date: 2017-08-08
 slug: "hope-and-the-active-obedience-of-christ"
 short: false
-tags:
+people:
  - J. Gresham Machen
- - Theology
  - John Murray
+tags:
+ - Theology
  - Presbyterian Guardian
  - OPC
 ---

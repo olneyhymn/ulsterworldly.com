@@ -5,13 +5,14 @@ date: 2017-08-18
 short: false
 draft: false
 slug: scottish-barrons
-tags:
+people:
  - John Knox
  - James Barron
+ - Joseph Hopper
+tags:
  - Scotland
  - South Carolina
  - Family
- - Joseph Hopper
  - ARP
 images:
  - images/first-general-assembly.png

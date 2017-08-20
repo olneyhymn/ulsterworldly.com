@@ -4,8 +4,9 @@ description: "Humorous tale of romance on the mission field."
 date: "2012-03-25"
 slug: "played-the-coward"
 short: true
+people:
+ - Tommy Brown
 tags:
-  - Tommy Brown
   - Korea
   - Romance
   - Family

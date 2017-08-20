@@ -3,8 +3,9 @@ title: "The simplicity and plainness of her worship as her peculiar glory"
 description: "The glory of God as seen in the simplicity of Reformed worship."
 date: "2017-07-17"
 slug: "simplicity-and-plainness-of-her-worship"
-tags:
+people:
   - William Dunlop Jr.
+tags:
   - Family
 ---
 

@@ -5,8 +5,9 @@ date: 2017-08-10
 slug: "christianity-in-conflict"
 short: false
 draft: false
-tags:
+people:
  - J. Gresham Machen
+tags:
  - The Presbyterian Conflict
  - OPC
 source: http://www.pcahistory.org/documents/machen-conflict.pdf

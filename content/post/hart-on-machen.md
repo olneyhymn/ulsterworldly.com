@@ -4,11 +4,12 @@ description: Listen to Dr. Darryl Hart's lectures on J. Gresham Machen and the f
 date: "2017-08-06"
 draft: false
 short: true
-tags:
+people:
   - J. Gresham Machen
+  - Darryl Hart
+tags:
   - The Presbyterian Conflict
   - OPC
-  - Darryl Hart
 slug: "hart-on-machen"
 images:
  - images/true-presbyterian-at-last.png

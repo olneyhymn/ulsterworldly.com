@@ -5,7 +5,7 @@ date: 2017-08-10
 slug: "memories-of-machen"
 short: false
 draft: false
-tags:
+people:
  - J. Gresham Machen
  - Paul Wooley
  - Henry W. Coray
@@ -17,6 +17,7 @@ tags:
  - John M. L. Young
  - Harold S. Laird
  - Lewis J. Grotenhuis
+tags:
  - Presbyterian Journal
  - OPC
 images:

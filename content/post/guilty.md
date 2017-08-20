@@ -4,8 +4,9 @@ title: "Guilty: Believes in the Final Victory of Christ
 description: "Does your belief in the final victory of Christ make worldly leaders nervous?."
 date: "2012-04-30"
 slug: "guilty"
-tags:
+people:
   - Tommy Brown
+tags:
   - Korea
   - Family
 ---

@@ -3,10 +3,11 @@ title: "The Great Apostasy of the Southern Presbyterian Church"
 description: "A retired missionary's concern about the direction of his church."
 date: "2017-06-15"
 slug: "the-great-apostasy"
-tags:
-  - Hershey Longenecker
-  - PCUS
+people:
   - Edward O. Guerrant
+  - Hershey Longenecker
+tags:
+  - PCUS
   - Family
 images:
   - /images/hershey-longenecker.png

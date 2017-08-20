@@ -4,9 +4,10 @@ description: "The OPC was originally the Presbyterian Church of America. Here's 
 date: "2017-08-05"
 slug: "pca-to-opc"
 short: False
+people:
+  - Edwin Rian
 tags:
   - OPC
-  - Edwin Rian
   - Presbyterian Guardian
 images:
   - /images/presbyterian-guardian-1939-03.png

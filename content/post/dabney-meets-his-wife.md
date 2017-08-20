@@ -3,8 +3,9 @@ title: "R.L. Dabney meets his wife"
 description: "Great southern Presbyterian R.L. Dabney describes seeing his future wife for the first time."
 date: "2013-06-23"
 slug: "dabney-meets-his-wife"
-tags:
+people:
   - R.L. Dabney
+tags:
   - Romance
 images:
   - /images/dabney.jpg

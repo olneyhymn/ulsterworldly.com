@@ -4,8 +4,9 @@ description: "A young Korean man writes a plea for entry into Bible College in h
 date: "2017-08-12"
 short: false
 slug: "petition-in-blood"
-tags:
+people:
  - Joe B. Hopper
+tags:
  - Korea
  - Family
 images:

@@ -4,6 +4,8 @@ description: "Daily quotes from the founder of Westminster Seminary."
 date: "2016-01-09"
 slug: "machen-twitter"
 short: true
+people:
+  - J. Gresham Machen
 tags:
   - Twitter
   - J. Gresham Machen

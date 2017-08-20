@@ -4,13 +4,14 @@ description: "The curious story of Uncle Joe Hopper, Presbyterian revivalist and
 date: "2017-08-07"
 short: false
 slug: "memoir-of-uncle-joe-hopper"
-tags:
+people:
+ - Edward O. Guerrant
  - Joseph Hopper
+ - Uncle Joe Hopper
+tags:
  - Kentucky
  - PCUS
- - Uncle Joe Hopper
  - Transylvania presbytery
- - Edward O. Guerrant
  - Family
 images:
  - images/marion-presbyterian-ky.jpg

@@ -4,15 +4,16 @@ description: "Memoir of the early life of Joseph Hopper (1982-1971), Southern Pr
 date: "2017-08-02"
 short: false
 slug: "joseph-hopper"
-tags:
+people:
  - Joseph Hopper
  - Joe B. Hopper
+ - Uncle Joe Hopper
+ - Edward O. Guerrant
+tags:
  - Korea
  - Kentucky
  - PCUS
- - Uncle Joe Hopper
  - Transylvania presbytery
- - Edward O. Guerrant
  - Family
 images:
  - /images/hopper-revelation.png

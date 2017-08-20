@@ -3,8 +3,9 @@ title: "My Partner in Congo by J. Hershey Longenecker"
 description: "A tale of perseverance in romance."
 date: "2011-03-08"
 slug: "my-partner-in-congo"
-tags:
+people:
   - Hershey Longenecker
+tags:
   - Congo
   - Romance
   - Family

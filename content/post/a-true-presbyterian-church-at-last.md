@@ -2,8 +2,9 @@
 title: "A True Presbyterian Church at Last"
 description: "J. Gresham Machen writes of the formation of the Presbyterian Church of America in 1936."
 date: "2017-08-01"
-tags:
+people:
   - J. Gresham Machen
+tags:
   - The Presbyterian Conflict
   - OPC
   - Presbyterian Guardian

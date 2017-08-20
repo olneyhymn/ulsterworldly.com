@@ -3,8 +3,9 @@ title: "Hopper Antecedents"
 description: "My grandfather (Joe B. Hopper)'s reflection on his ancestors and t."
 date: 2017-08-21
 short: true
-tags:
+people:
  - Joe B. Hopper
+tags:
  - Family
 ---
 _After his retirement (which was in 1986), my grandfather wrote this preface to the genealogical research he did on his own family._

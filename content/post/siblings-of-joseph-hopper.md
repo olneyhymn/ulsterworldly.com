@@ -3,13 +3,14 @@ title: "Hoppers of Stanford Kentucky"
 description: "My grandfather (Joe B. Hopper) left this record of his aunts and uncles on the Hopper side."
 date: 2017-08-20
 short: false
-tags:
+people:
  - Joe B. Hopper
  - Joseph Hopper
  - William Higgins Hopper
  - Walter Owsley Hopper
  - George Dunlap Hopper
  - Margaret Higgins Hopper
+tags:
  - PCUS
 ---
 

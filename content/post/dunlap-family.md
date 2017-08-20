@@ -4,11 +4,12 @@ description: "My grandfather's brief history of his mother's family, the Dunlaps
 date: "2017-08-04"
 slug: "dunlap-family"
 short: false
-tags:
+people:
  - George D. Hopper
- - Dunlap Family
  - Joseph Hopper
  - Uncle Joe Hopper
+tags:
+ - Dunlap Family
  - Family
 images:
  - images/george-d-hopper-grave.jpg

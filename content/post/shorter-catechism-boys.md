@@ -4,12 +4,14 @@ description: 'B.B. Warfield: "It is worth while to be a Shorter Catechism boy. T
 date: 2017-08-13
 short: false
 draft: false
-tags:
+people:
  - B.B. Warfield
  - Joe B. Hopper
  - Charles Hodge
  - John Newton
  - J. Gresham Machen
+ - Tim Challies
+tags:
  - Westminster Shorter Catechism
  - Tim Challies
 images:
