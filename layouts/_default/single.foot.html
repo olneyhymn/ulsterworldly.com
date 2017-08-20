@@ -1,13 +1,9 @@
 {{ if or (ne ($.Param "sharingicons") false) (.Site.DisqusShortname) }}
 {{ $dateFormat := default "Mon Jan 2, 2006" (index .Site.Params "date_format") }}
-      <hr>
-      <footer>
-      <p class="blog-post-meta text-muted">
-        Posted on <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> by {{ .Params.author | default .Site.Params.author }}{{ if or (.Params.categories) (.Params.tags) (.Params.people) }} {{ partial "meta-terms.html" . }}{{ end }}
+      <footer class="pt-1">
+      <p class="text-muted small sans-serif mb-1">
+        Posted on <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> by {{ .Params.author | default .Site.Params.author }}
       </p>
-      <span class="sans-serif text-muted">Link: <a href='{{ .Permalink }}'><i class="fa fa-fw fa-link"></i></a></span>
-      &nbsp;&nbsp;&nbsp;
-      {{ if (ne ($.Param "sharingicons") false) }}<br>{{ partial "sharing-icons.html" . }}{{ end }}
-
+      {{ partial "meta-terms.html" . }}
   </footer>
   {{ end }}

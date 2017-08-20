@@ -1,3 +1,4 @@
-      <span class="sans-serif text-muted">Link: <a href='{{ .Permalink }}'><i class="fa fa-fw fa-link"></i></a></span>
-      &nbsp;&nbsp;&nbsp;
-      {{ if (ne ($.Param "sharingicons") false) }}<br>{{ partial "sharing-icons.html" . }}{{ end }}
+{{ $dateFormat := default "Mon Jan 2, 2006" (index .Site.Params "date_format") }}
+      <footer class="pt-1">
+      {{ partial "meta-terms.html" . }}
+  </footer>
