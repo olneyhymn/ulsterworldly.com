@@ -16,7 +16,7 @@ tags:
 
 _My grandfather (Joe B. Hopper) left this record of his aunts and uncles on the Hopper side._
 
-[My father](https://ulsterworldly.com/tags/joseph-hopper/) had three living brothers and one sister, of whom we have the following records:
+[My father](https://ulsterworldly.com/people/joseph-hopper/) had three living brothers and one sister, of whom we have the following records:
 
 ### William Higgins Hopper
 

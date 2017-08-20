@@ -88,7 +88,7 @@ Stonehouse concluded[^stonehouse]:
 
 ## Joseph Hopper (1921–1992)
 
-[My grandfather](https://ulsterworldly.com/tags/joe-b.-hopper/) served the Lord as a PCUS missionary to Korea for 38 years (1948-1986). He was reared a missionary kid in Korea where his also served the PCUS. [In his memoir](https://ulsterworldly.com/hoppers/joe-b/mission-to-korea/, he recounts his parents' faithful instruction in the home:
+[My grandfather](https://ulsterworldly.com/people/joe-b.-hopper/) served the Lord as a PCUS missionary to Korea for 38 years (1948-1986). He was reared a missionary kid in Korea where his also served the PCUS. [In his memoir](https://ulsterworldly.com/hoppers/joe-b/mission-to-korea/, he recounts his parents' faithful instruction in the home:
 
 > We always had daily prayers in our home. They were usually held at the breakfast table with read of a chapter of Hubert’s _Bible Story Book_ and prayer. If Father was home, he was the leader, but when he was away, Mother took his place. **When morning school work began, we were required to memorized some verses of Scripture and the answers in the _Westminster Shorter Catechism_. I still have the diploma given by the _Christian Observer_ for reciting the _Shorter Catechism_ in April 1932 when I was less than eleven years old.** As was the custom, I wrote a letter to the editor which was printed, as follows:
 
