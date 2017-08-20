@@ -44,16 +44,16 @@ Because of very poor eye-sight which kept him from reading as much as was necess
 
 Uncle Walter (1883-1969) married Garnett Robinson. Their children were:
 
-    * Walter, Jr. who died as a child.
-    * Virginia Reed who married George Connerat. Their children were:
-        * George
-        * Robin
+* Walter, Jr. who died as a child.
+* Virginia Reed who married George Connerat. Their children were:
+    * George
+    * Robin
 
 ### George Dunlap Hopper[^georgedunlap]
 
 Uncle George who first married Minnie Parker Durham who died in 1932. They had one daughter:
 
-    * Virginia Lee
+* Virginia Lee
 
 He then married Sue Hayes, who died in 1969, in Asheville, N.C.
 
