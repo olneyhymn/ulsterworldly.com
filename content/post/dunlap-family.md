@@ -73,3 +73,23 @@ From a newspaper clipping in my possession, we have the following obituary for m
 > Mr. Hopper was made a Mason in 1870 and was a devout member of that order which he loved next to his church. All of his boys are members of the order. He had been a member of the Presbyterian Church nearly 45 years. For eleven he served as deacon of the Stanford Church and later was ordained as an elder. He was a great church worker and a regular attendant at the services as long as his health would permit.
 
 > Many here know good old Rev. Joseph Hopper, of Perryville, whose earnest expounding of gospel truths has led so many souls to Christ. He is brother of Mr. George D. Hopper. Mr. Hopper also leaves a sister, Mrs. [Mattie Withers](https://findagrave.com/cgi-bin/fg.cgi/www.oocities.com/wildstar.family/fg.cgi?page=gr&GRid=91471063), of Stanford.
+>
+> The burial will take place this afternoon and Dr. P. L. Bruce is now
+preaching the funeral service at the late home. The sermon should be an excellent one. Certainly Dr. Bruce could have no better subject. The burial will occur in Buffalo cemetery where hundreds will gather to show their respect and love for the good man. The Masons are in charge of the
+last rites.
+>
+> May those who weep soon have their tears dried by the realization that their loss is his eternal gain; that he who suffered in the flesh now basks in the sunshine of the God who gave him. Truly a good man has gone to a rich reward, may his splendid life be an inspiration and his example a help to those of us who are left to sorrow over the loss we have just sustained.
+>
+> E. C. Walton
+
+And again:
+
+> Resolutions by Lincoln Lodge No. 60 F. & A.M.
+>
+> On Sunday night, August 17, 1913, after six years of invalidism, George D. Hopper breathed out this mortal life. Surrounded by the members of his family, holding the confidence and respect of this entire community, watched by anxious friends and ministered to by loving hands... "God's finger touched him and he slept."
+>
+> He was a loyal friend, a Christian gentleman, of staunchest faith; he was a mason devoted to the tenets of the craft; he was a charter member of Lincoln Lodge No. 60, and, as his brethren who loved and knew him best, the men of Lincoln Lodge inscribe upon its records as his epitaph, "A Charter Member Gloriously Raised."
+>
+> J. N. Saunders <br>
+> D. S. Bromley <br>
+> Shelton Saufley, Committee.
