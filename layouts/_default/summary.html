@@ -7,8 +7,8 @@
   <p class="blog-post-description mb-0">{{ .Params.description }} &ensp; <span class="read-more"><a href='{{ .Permalink }}'>Read More<i class="fa fa-fw fa-long-arrow-right"></i> </a></span></p>
 
   <!-- <p><a href='{{ .Permalink }}'>{{ i18n "readMore" }}</a></p> -->
+  {{ .Render "single.foot" }}
 
-  <footer><p class="blog-post-meta"><a href='{{ .Permalink }}'><i class="fa fa-fw fa-link"></i></a> <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> by {{ .Params.author | default .Site.Params.author }}{{ if or (.Params.categories) (.Params.tags) }} in {{ partial "meta-terms.html" . }}{{ end }}</p></footer>
 </article> <!-- /.blog-post -->
 
 {{- /* vim: set ts=2 sw=2 et: */}}

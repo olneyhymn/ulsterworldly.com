@@ -59,6 +59,7 @@
   {{ .Render "single.head" }}
   {{ .Render "single.body" }}
   {{ .Render "single.foot" }}
+  {{ if (ne .Params.comments false) }}<hr>{{ template "_internal/disqus.html" . }}{{ end }}
 </article> <!-- /.blog-post -->
 
 {{ end }}

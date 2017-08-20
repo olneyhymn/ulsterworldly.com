@@ -21,6 +21,7 @@
     {{ .Content }}
 
     {{ .Render "single.foot" }}
+    {{ if (ne .Params.comments false) }}<hr>{{ template "_internal/disqus.html" . }}{{ end }}
 {{ end }}
 {{ define "script" }}
       <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
