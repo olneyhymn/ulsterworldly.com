@@ -5,6 +5,9 @@ theme = "westminsterhist"
 Copyright = "2017 Timothy Hopper"
 DisqusShortname = 'ulsterworldly'
 Paginate = 50
+[taxonomies]
+  tag = "tags"
+  people = "people"
 
 [[menu.dropdown]]
     name = "Westminster Daily"
