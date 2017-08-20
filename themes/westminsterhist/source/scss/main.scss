@@ -41,6 +41,10 @@ p {
   }
 }
 
+article p:last-of-type {
+  margin-bottom: 0px;
+}
+
 .sans-serif {
   font-family: $font-family-sans-serif;
 }

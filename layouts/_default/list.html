@@ -3,14 +3,15 @@
 {{ end }}
 
 {{ define "main" }}
-
 {{ $paginator := .Paginate .Data.Pages }}
 {{ range $paginator.Pages }}
+<div class="mb-4">
 {{ if and (not .Params.short) .Params.description }}
 {{ .Render "summary" }}
 {{ else }}
 {{ .Render "content" }}
 {{ end }}
+</div>
 {{ end }}
 
 {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
