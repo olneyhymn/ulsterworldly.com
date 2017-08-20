@@ -5,7 +5,9 @@
     <h2 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
   </header>
   {{ .Content }}
-  {{ .Render "single.foot" }}
+  <footer>
+    {{ partial "posted-on.html" . }}
+  </footer>
 </article> <!-- /.blog-post -->
 
 {{- /* vim: set ts=2 sw=2 et: */}}

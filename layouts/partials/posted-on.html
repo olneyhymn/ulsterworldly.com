@@ -1,0 +1,4 @@
+{{ $dateFormat := default "Mon Jan 2, 2006" (index .Site.Params "date_format") }}
+      <p class="text-muted small sans-serif mb-1">
+        Posted on <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> by {{ .Params.author | default .Site.Params.author }}
+      </p>
