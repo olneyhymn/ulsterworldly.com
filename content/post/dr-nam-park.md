@@ -10,7 +10,6 @@ people:
 tags:
  - Korea
  - Family
- - Joseph Hopper
 ---
 
 _My grandfather recorded this little anecdote in a preface to his memoir._

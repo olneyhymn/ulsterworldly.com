@@ -12,6 +12,7 @@ people:
  - George Dunlap Hopper
  - Margaret Higgins Hopper
 tags:
+ - Family
  - PCUS
 ---
 
