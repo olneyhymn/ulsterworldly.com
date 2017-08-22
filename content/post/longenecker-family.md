@@ -10,6 +10,7 @@ people:
  - Hershey Longenecker
  - Minnie Hauhart Longenecker
  - Dot Hopper
+ - William Higgins Hopper
  - Edward O. Guerrant
 tags:
  - Longenecker Family
