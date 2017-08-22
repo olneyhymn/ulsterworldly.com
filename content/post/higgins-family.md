@@ -18,7 +18,7 @@ _My grandfather collected the following information about his maternal grandmoth
 We also have additional data on the ancestry of my paternal grandmother, Katherine Elizabeth Higgins. The Higgins family came from Ireland, and was known as O'Higgins in the old country.
 
 **"Father Higgins"** (a paternal great, great, grandfather) was a Baptist
-preacher. He had a large family. One of his sons was William M. Higgins who lived in Lincoln County
+preacher. He had a large family. One of his sons was William M. Higgins who lived in Lincoln County.
 
 **William M. Higgins** (a paternal great grandfather) first married Katherine McRoberts (who came from Scotland). Their children were:
 
