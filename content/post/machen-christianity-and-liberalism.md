@@ -1,6 +1,6 @@
 ---
 title: "Christianity vs. Modern Liberalism"
-description: "Full text of Machen's 1923 address at the Moody Institute Founders Conference"
+description: "Full text of Machen's 1923 address at the Moody Institute Founders Conference."
 date: 2017-08-23
 draft: false
 short: false

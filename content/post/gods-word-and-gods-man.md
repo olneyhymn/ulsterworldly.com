@@ -14,7 +14,7 @@ images:
  - /images/gods-word-and-gods-man.png
 ---
 
-_My great grandfather Joseph Hopper (1982-1971) was a Southern Presbyterian missionary to Kentucky. He was a faithful evangelist and defender of the faith. I found this undated manuscript among papers he left behind. You an see a scan of the original manuscript [here](https://ulsterworldly.com/hoppers/joseph/gods-word-and-gods-man/)._
+_My great grandfather Joseph Hopper (1982-1971) was a Southern Presbyterian missionary to Kentucky. He was a faithful evangelist and defender of the faith. I found this undated manuscript among papers he left behind. You can see a scan of the original manuscript [here](https://ulsterworldly.com/hoppers/joseph/gods-word-and-gods-man/)._
 
 > Do you believe the Scriptures of the Old and New Testament to be the Word of God, the only infallible rule of faith and practice?
 
