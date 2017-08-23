@@ -51,7 +51,7 @@ Songs and Yells Under the Stars
 >
 >The biggest night thus far on the Y.M.C.A. roof garden was "college night" last night, when over three hundred people enjoyed a program of college songs, yells, stunts, athletic events and pranks.
 >
-> he participants represented the following eleven colleges: Purdue, Indiana, Wabash, Kentucky State, Central University, Washington and Lee, University of Tennessee, Transylvania University, Virginia Polytechnic. About forty college young men took part....
+> The participants represented the following eleven colleges: Purdue, Indiana, Wabash, Kentucky State, Central University, Washington and Lee, University of Tennessee, Transylvania University, Virginia Polytechnic. About forty college young men took part....
 >
 >The third event was...called "continuous glum" in which the participants endeavored to excel in retaining a gloomy Gus expression. It provoked uproarious hilarity and one after another each of the hard working contestants was obliged to relax his features from latitudinal to longitudinal dimensions... It was won by Hopper in eleven minutes.
 >
