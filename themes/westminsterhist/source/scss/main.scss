@@ -161,7 +161,8 @@ section + #disqus_thread {
 // see: node_modules/bootstrap/scss/_type.scss
 article blockquote {
   padding: 0 $spacer;
-  margin-bottom: $spacer / 2;
+  margin-bottom: $spacer;
+  margin-top: $spacer;
   font-size: $blockquote-font-size;
   border-left: $blockquote-border-width solid $blockquote-border-color;
 }
