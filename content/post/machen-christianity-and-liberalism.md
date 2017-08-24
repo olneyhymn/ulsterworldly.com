@@ -176,7 +176,7 @@ Liberalism is different from Christianity also as to salvation. What is the way 
 
 That certainly is not incomprehensible. It is mysterious in its depth of grace, but it is a thing that a child can understand. Do you want me to tell you what is difficult? It is not the simple Bible presentation of the death of Christ, but the manifold modern effort to get rid of that simple presentation of the Cross in the interests of human pride.
 
-The modern liberals pour out the vials of their scorn upon the Bible presentation of the Cross of Christ. They speak of it with disgust as involving a “trick” .ended to placate an “alienated God.” Thus they pour out their scorn upon a thing so holy that in the presence of it the Christian heart melts in gratitude too deep for words.
+The modern liberals pour out the vials of their scorn upon the Bible presentation of the Cross of Christ. They speak of it with disgust as involving a “trick” intend to placate an “alienated God.” Thus they pour out their scorn upon a thing so holy that in the presence of it the Christian heart melts in gratitude too deep for words.
 
 People talk about Christian experience. My friends, where can Christian experience be found if not at the Cross of Christ, at that blessed place where a man knows that in a great mystery the guilt of his sin was taken by the Holy One, and borne instead of him on the Cross?
 
@@ -190,7 +190,7 @@ This work of Christ is applied by the Holy Spirit of God in the new birth. You w
 
 That is the work of the Spirit of God, the application of the work of Christ. But in applying the work of Christ the Spirit makes use of faith. People who have found salvation know what it means.
 
-Liberals talk about faith in Jesus, but they mean simply admiration of Jesus. They talk about it as if the basis of the Christ life were “make Jesus Master in your life.” The Y. M. C. A., in recent years, has put the declaration of purpose to live the Christ life as somehow being on a par with the reception of the salvation which is found in the Cross of Christ. I do not see but that that is the exact opposite of faith. That means that you are trusting in your own works. Faith means not that you do something, but that you receive first the gracious gift of God. When the Lord Jesus has died for you you accept it without work of your own. You accept the gracious thing He did. And then by God’s help the good life follows.
+Liberals talk about faith in Jesus, but they mean simply admiration of Jesus. They talk about it as if the basis of the Christ life were “make Jesus Master in your life.” The Y.M.C.A., in recent years, has put the declaration of purpose to live the Christ life as somehow being on a par with the reception of the salvation which is found in the Cross of Christ. I do not see but that that is the exact opposite of faith. That means that you are trusting in your own works. Faith means not that you do something, but that you receive first the gracious gift of God. When the Lord Jesus has died for you you accept it without work of your own. You accept the gracious thing He did. And then by God’s help the good life follows.
 
 ##### Victory Assured
 
