@@ -66,7 +66,7 @@ There are a number of free ebooks on the history of Presbyterianism. Here are so
 * [archive.org](https://archive.org/details/historyofpresbyt00thom)
 * [Google Books](https://books.google.com/books?id=Ijr1xqPWv1cC)
 
-<span class="lead"><i class="fa fa-book text-warning" aria-hidden="true"></i> _The Constitutional History of the Presbyterian Church in the United States of America_ by Charles Hodge ()</span>
+<span class="lead"><i class="fa fa-book text-warning" aria-hidden="true"></i> _The Constitutional History of the Presbyterian Church in the United States of America_ by Charles Hodge</span>
 
 * [archive.org, Part 1](https://archive.org/details/constitutionalh00hodggoog)
 * [archive.org, Part 2](https://archive.org/details/constitutionalh03hodggoog)
@@ -118,4 +118,4 @@ by Ezra Hall Gillett (1823-1875)</span>
 * [Google Books](https://books.google.com/books?id=0Xw9AAAAYAAJ)
 
 
-If you know of other good volumes, please leave a comment below.
+If you know of other good volumes, please leave a comment below. 
