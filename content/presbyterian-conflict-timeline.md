@@ -10,6 +10,7 @@ images:
 menu:
     navbar:
         name: "Presbyterian Conflict Timeline"
+        weight: 1
 ---
 
 #### Learn More about the Presbyterian Conflict
