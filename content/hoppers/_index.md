@@ -3,6 +3,7 @@ title: Hoppers in Korea
 menu:
     navbar:
         name: "Hoppers in Korea"
+        weight: 50
 ---
 
 # The Works of Joseph Hopper and Joe B. Hopper
