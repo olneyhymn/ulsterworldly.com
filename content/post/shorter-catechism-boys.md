@@ -11,6 +11,7 @@ people:
  - John Newton
  - J. Gresham Machen
  - Tim Challies
+ - Stuart Robinson
 tags:
  - Westminster Shorter Catechism
  - Tim Challies
@@ -56,6 +57,17 @@ The great love for Christ and His Word that shaped Hodge's life and teaching sta
 Hodge biographer Paul Gutjahr wrote,[^gutjahr]
 
 > Learning and reciting the catechism was an intensely religious ordeal, but those who had mastered it in their youth often proudly recited its contents well into old age. It was a highly formalized and structured way of teaching that Presbyterians made great use of throughout the eighteenth and early nineteenth centuries. **Hodge learned his lessons well, and the doctrines he memorized as a boy provided the foundation for the theological views he held his entire life.**
+
+## Stuart Robinson (1814–1881)
+
+In _[Southern Presbyterian leaders](https://archive.org/details/southernpresbyte00whit)_, Henry White writes of Stuart Robinson:
+
+> Among the Scots of North Ireland, in the month of November, 1814, Stuart Robinson was born. Soon after this event, his father, a linen merchant, brought the family across the Atlantic and established a home in the lower part of the Valley of Virginia. There, not far from the Potomac River, Stuart’s boyhood was spent.
+>
+> Every Sunday for several years he walked six miles to Falling Water Church to receive instruction in the Sunday-school which his own mother organized and there to listen to the words of grace that fell from the lips of the pastor, one of the most effective preachers of that day, John Blair Hoge. **During the week, under the mother’s guidance, he stored up in his memory the words of the catechism and various selections from the Bible.**
+
+Robinson would go on to pastor many churches, including Second Presbyterian Church in Louisville and Central Presbyterian Church in Maryland; he trained men for gospel ministry at Danville Theological Seminary in Kentucky. In 1869, he would serve as moderator of the Presbyterian Church in the United States General Assembly. His lasting legacy is in his writings. [The Church of God as an Essential Element of the Gospel by Stuart Robinson](https://www.opc.org/os.html?article_id=247) articulately defends the doctrine of the church as an outworking of Jesus Christ's kingship over his people. His [Discourses of Redemption](https://www.logcollegepress.com/blog/2017/7/21/there-was-a-book-on-biblical-theology-in-the-19th-c-presbyterian-church-before-vos) outline the story of God's covenants with His people in a proto-[Vossian](https://en.wikipedia.org/wiki/Geerhardus_Vos) fashion.
+
 
 ## B.B. Warfield (1851–1921)
 
