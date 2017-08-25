@@ -117,5 +117,10 @@ by Ezra Hall Gillett (1823-1875)</span>
 * [archive.org](https://archive.org/details/historyofpresbyt1915reed)
 * [Google Books](https://books.google.com/books?id=0Xw9AAAAYAAJ)
 
+<span class="lead"><i class="fa fa-book text-warning" aria-hidden="true"></i> _Southern Presbyterian leaders_ by Henry Alexander White (1861-1926)
 
-If you know of other good volumes, please leave a comment below. 
+* [archive.org](https://archive.org/details/southernpresbyte00whit)
+* [Google Books](https://books.google.com/books?id=Sb44AAAAMAAJ)
+
+
+If you know of other good volumes, please leave a comment below.
