@@ -27,5 +27,7 @@ His introduction is helpful in setting the stage:
 >
 > If they embodied drives for temperance and Sabbatarianism, they also included distillers and employers of Sunday laborers among their number; many Presbyterians also worked on Sunday.
 >
-> If hosts of [Kentucky Shakers](https://en.wikipedia.org/wiki/Shakers) and [Christians (Disciples of Christ)](https://en.wikipedia.org/wiki/Restoration_Movement) came from the Presbyterians, many others joined Reformed communions from Baptist or Catholic backgrounds. Thus the Presbyterians in Kentucky would apparently defy classification.
+> If hosts of [Kentucky Shakers](https://en.wikipedia.org/wiki/Shakers) and [Christians (Disciples of Christ)](https://en.wikipedia.org/wiki/Restoration_Movement) came from the Presbyterians, many others joined Reformed communions from Baptist or Catholic backgrounds.
+>
+> **Thus the Presbyterians in Kentucky would apparently defy classification.**
 
