@@ -9,6 +9,7 @@ people:
  - John Knox
  - James Barron
  - Joseph Hopper
+ - Annis Barron Hopper
 tags:
  - Scotland
  - South Carolina
