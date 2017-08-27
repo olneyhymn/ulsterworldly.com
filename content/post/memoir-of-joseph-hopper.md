@@ -10,6 +10,7 @@ people:
  - Uncle Joe Hopper
  - Edward O. Guerrant
  - William Higgins Hopper
+ - Annis Barron Hopper
 tags:
  - Korea
  - Kentucky
