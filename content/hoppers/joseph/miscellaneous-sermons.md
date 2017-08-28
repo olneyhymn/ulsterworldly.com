@@ -1,5 +1,8 @@
-    +++
-author = "Joseph Hopper"
+   +++
+author = "Tim Hopper"
+original_author = "Joseph Hopper"
+people = ["Joseph Hopper"]
+date = "2013-12-26"
 description = """Several manuscripts from sermons preached by Joseph."""
 title = "Miscellaneous Sermons"
 

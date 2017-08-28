@@ -1,5 +1,8 @@
 +++
-author = "Joe B. Hopper"
+author = "Tim Hopper"
+original_author = "Joe B. Hopper"
+people = ["Joe B. Hopper"]
+date = "2013-12-26"
 description = """Several outlines or manuscripts from a folder entitled "Missionary Talks"."""
 title = "Missionary Talks"
 [files]
