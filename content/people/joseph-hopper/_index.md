@@ -1,5 +1,6 @@
 ---
-title: "Joseph Hopper (1892-1971)"
+name: "Joseph Hopper"
+years: 1892-1971
 spouse:
  - Joseph Hopper
 findagrave: https://findagrave.com/cgi-bin/fg.cgi/http%22/http/fg.cgi?page=gr&GRid=42636471

@@ -1,0 +1,23 @@
+{{ define "schema-dot-org" }}
+  {{ partial "schemadotorg.html" . }}
+{{ end }}
+
+{{ define "main" }}
+
+<h1>{{ .Params.name }} ({{ .Params.years }})</h1>
+
+{{ .Content }}
+
+<h2> Posts about {{ .Params.name }}</h2>
+
+{{ range .Data.Pages }}
+<div class="mb-4">
+
+  {{ .Render "summary" }}
+
+</div>
+{{ end }}
+
+{{ end }}
+
+{{- /* vim: set ts=2 sw=2 et: */}}
