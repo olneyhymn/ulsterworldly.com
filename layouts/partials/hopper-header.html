@@ -1,4 +1,4 @@
     {{ $year := .Params.year }}
     <h3 class="pt-2 blog-post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h3>
     {{ with .Params.subtitle }}<h5 class="text-muted">{{ . }}</h5>{{ end }}
-    {{ with .Params.author }}<h6>by {{ . }} {{ with $year }} ({{.}}){{ end }}</h6>{{ end }}
+    {{ with .Params.original_author }}<h6>by {{ . }} {{ with $year }} ({{.}}){{ end }}</h6>{{ end }}
