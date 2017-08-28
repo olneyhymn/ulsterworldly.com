@@ -1,5 +1,6 @@
 ---
-title: "Annis Barron Hopper (1893-1979)"
+name: "Annis Barron Hopper"
+years: 1893-1979
 spouse:
  - Joseph Hopper
 findagrave: https://findagrave.com/cgi-bin/fg.cgi/http%22/http/fg.cgi?page=gr&GRid=42636490
