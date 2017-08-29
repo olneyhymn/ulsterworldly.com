@@ -12,7 +12,7 @@ images:
  - /images/machen-moody.png
 ---
 
-J. Gresham Machen was invited to speak at the [Moody Institute](https://en.wikipedia.org/wiki/Moody_Bible_Institute) Founders Conference, held February 5-9, 1923. [R. A. Torrey](https://en.wikipedia.org/wiki/R._A._Torrey) also spoke. Machen's book Christianity and Liberalism would be released two weeks later.
+J. Gresham Machen was invited to speak at the [Moody Institute](https://en.wikipedia.org/wiki/Moody_Bible_Institute) Founders Conference, held February 5-9, 1923. [R. A. Torrey](https://en.wikipedia.org/wiki/R._A._Torrey) also spoke. Machen's book [Christianity and Liberalism](http://amzn.to/2wO5Jlv) would be released two weeks later.
 
 Joseph Bowles, writing for the Moody Institute's monthly newspaper, wrote:
 
@@ -52,13 +52,13 @@ Will read a few verses from the First Epistle to the Corinthians, fifteenth chap
 >
 > Therefore whether it were I or they, so we preach, and so ye believed.
 
-In the time allotted me this afternoon all not try to settle the religious issue the day, but try to be bold enough to present that issue as briefly and clearly can, that you may be aided in settling it for yourself.
+In the time allotted me this afternoon I site.html_pages not try to settle the religious issue the day, but try to be bold enough to present that issue as briefly and clearly can, that you may be aided in settling it for yourself.
 
 But presenting the issue sharply and clearly is by no means a popular business at present. There are many people at present time who, as Dr. Francis L. Patton on has aptly put it, prefer to fight intellectual battles in what may be called a condition of "low visibility".
 
-Presenting the issue sharply is regarded hem as an impious proceeding. May it discourage contributions to mission boards? May it not prevent church consolidation and cause a poor showing in church statistics?
+Presenting the issue sharply is regarded by them as an impious proceeding. May it not discourage contributions to mission boards? May it not prevent church consolidation and cause a poor showing in church statistics?
 
-But for my part I am glad to tell you my sympathies are with those men, whether conservatives or radicals, who a passion for light. The type of religion which delights in the pious sound traditional phrases regardless of their meaning and shrinks from controversial matters, will never stand amid the of of life.
+But for my part I am glad to tell you my sympathies are with those men, whether conservatives or radicals, who have a passion for light. The type of religion which delights in the pious sound traditional phrases regardless of their meaning and shrinks from controversial matters, will never stand amid the shocks of life.
 
 ##### Liberalism a Misnomer
 
@@ -114,7 +114,7 @@ But before you can understand that gospel, that account of something that happen
 
 It is opposed to Christianity in its view of God, and in its attitude toward God. Now in the Christian view of God there are many elements, but one element is absolutely fundamental, and gives consistency to all the rest. It is the awful transcendence of God, the awful separateness of God; and it is that element in the Christian presentation of God upon which despite is being cast everywhere in the modern liberal church, because it regards God as fundamentally just another name for the great process of nature as it is. We find ourselves in the midst of a vast process, and to that vast process is applied the name of God. That is what people mean by the immanence of God.
 
-Now do not misunderstand me. God according to the Christian view is immanent in the world. God is everywhere—"closer to us than breathing," but immanent in the world not because He is identified with the world but because He is the Creator of it and upholds the things which He has made. The fundamental thing in the Christian notion of God is the sharp distinction between all created things and the Creator who is the explanation of all mysteries.
+Now do not misunderstand me. God according to the Christian view is immanent in the world. God is everywhere— "closer to us than breathing," but immanent in the world not because He is identified with the world but because He is the Creator of it and upholds the things which He has made. The fundamental thing in the Christian notion of God is the sharp distinction between all created things and the Creator who is the explanation of all mysteries.
 
 It is strange that men can call that a new vision of God which obscures the distinction between God and man, and involves God even in the sin of the world! How men can call such a view of God a new revelation is strange, because pantheism as it is called, is just as old as the hills, and has always been with us to blight the religious life of man. Modern Liberalism even when not consistently pantheistic, is at any rate pantheizing since it seeks to obliterate the sharp distinction between God and man, and involves God in the sin of mankind. Very different is the holy and living God of the Bible and of Christian faith!
 
@@ -130,7 +130,7 @@ Jesus said more awful things about the terribleness of sin and the retributive j
 
 Do you want me to tell you what the fundamental fault with the church today is? It is this—the modern preacher, whether in the Sunday-school class, or in the home or in the pulpit, is feverishly engaged in an absolutely impossible task. He is engaged in calling the “righteous” to repentance, in trying to bring men into the church, and at the same time permit them to retain their pride in their own goodness. Even our Lord did not succeed in calling the righteous to repentance, in trying to bring men to the church, and at the same time permit them to retain their pride in their am goodness. Even our Lord did not succeed in calling the righteous to repentance, and probably we shall be no more successful than He. At the very basis of Christian preaching is the mystery of the consciousness of sin and that is produced by the Holy Spirit, and when a man comes under the conviction of sin his whole attitude is changed.
 
-These are the two presuppositions of the Christian message—the Christian view of the awful holiness of God and the Christian view of the terrible guilt of sin. God could only bring sinful man into His presence through the atoning death of Jesus Christ our Lord, but' the account of that gospel is found in the Bible and with regard to the Bible modern Liberalism differs fundamentally from Christianity.
+These are the two presuppositions of the Christian message—the Christian view of the awful holiness of God and the Christian view of the terrible guilt of sin. God could only bring sinful man into His presence through the atoning death of Jesus Christ our Lord, but the account of that gospel is found in the Bible and with regard to the Bible modern Liberalism differs fundamentally from Christianity.
 
 ##### The Bible Absolutely Unique
 
@@ -160,7 +160,7 @@ When you come to the contents of the Bible everything points to the central figu
 
 At this point a further perplexity arises, for ask the modern liberal preacher his view of Christ, and he will say with great conviction, "I believe in the deity of Christ, I believe that Jesus is God."
 
-We hear much like that today. People say, "Why, after all, this great preacher is most orthodox because he believes in the deity of Christ, and those who are objecting to his presence as a leader in the church,, are mere uncharitable heresy hunters.
+We hear much like that today. People say, "Why, after all, this great preacher is most orthodox because he believes in the deity of Christ, and those who are objecting to his presence as a leader in the church, are mere uncharitable heresy hunters.""
 
 Do you not see, my friends, that, when they say Jesus is God, the value of that utterance depends upon what they mean by God? That little word "God" is not a bit more beautiful than any other English word. The value of it depends altogether upon what you mean by it, and when the modern liberal preacher says he believes Christ is God, he may mean God exists in all the world, God exists wherever life pulsates through humanity, and only appears fuller and plainer than any other place in the life of Jesus.
 
