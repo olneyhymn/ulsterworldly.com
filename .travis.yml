@@ -12,7 +12,8 @@ script:
   - cd themes/westminsterhist && npm install && cd ../..
   - cd themes/westminsterhist && npm run build && cd ../..
   - hugo --enableGitInfo
-  - s3cmd sync --delete-removed --acl-public --guess-mime-type --recursive public/ s3://ulsterworldly.com/
+  - s3cmd sync --acl-public --delete-removed --guess-mime-type public/ s3://ulsterworldly.com/
+  - s3cmd put --acl-public --mime-type="text/css" -f public/css/*.css s3://ulsterworldly.com/css/
   - aws configure set preview.cloudfront true
   - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths "/*"
 notifications:
