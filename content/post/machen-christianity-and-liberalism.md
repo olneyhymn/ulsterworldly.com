@@ -160,7 +160,7 @@ When you come to the contents of the Bible everything points to the central figu
 
 At this point a further perplexity arises, for ask the modern liberal preacher his view of Christ, and he will say with great conviction, "I believe in the deity of Christ, I believe that Jesus is God."
 
-We hear much like that today. People say, "Why, after all, this great preacher is most orthodox because he believes in the deity of Christ, and those who are objecting to his presence as a leader in the church, are mere uncharitable heresy hunters.""
+We hear much like that today. People say, "Why, after all, this great preacher is most orthodox because he believes in the deity of Christ, and those who are objecting to his presence as a leader in the church, are mere uncharitable heresy hunters."
 
 Do you not see, my friends, that, when they say Jesus is God, the value of that utterance depends upon what they mean by God? That little word "God" is not a bit more beautiful than any other English word. The value of it depends altogether upon what you mean by it, and when the modern liberal preacher says he believes Christ is God, he may mean God exists in all the world, God exists wherever life pulsates through humanity, and only appears fuller and plainer than any other place in the life of Jesus.
 
