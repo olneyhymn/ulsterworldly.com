@@ -19,7 +19,6 @@
   "author": "Alan Orth",
   "license": "GPL-3.0",
   "devDependencies": {
-    "bootstrap": "4.0.0-beta",
     "clean-css-cli": "^4.1.3",
     "cookieconsent": "^3.0.4",
     "font-awesome": "^4.7.0",
@@ -28,6 +27,7 @@
     "popper.js": "^1.12.4"
   },
   "dependencies": {
+    "bootstrap": "4.0.0-beta",
     "sri": "^1.1.0"
   }
 }
