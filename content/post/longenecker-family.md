@@ -9,6 +9,7 @@ people:
  - Joe B. Hopper
  - Hershey Longenecker
  - Minnie Hauhart Longenecker
+  - Ruth Margaret Engler Longenecker
  - Dot Hopper
  - William Higgins Hopper
  - Edward O. Guerrant
