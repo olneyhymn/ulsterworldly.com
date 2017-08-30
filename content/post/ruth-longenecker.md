@@ -12,7 +12,7 @@ tags:
   - Congo
 ---
 
-_My great grandfather, J. Hershey Longenecker (1889–1978), retired Morristown, TN with his wife Minnie (1887–1966). Minnie died in 1966 after 51 years of marriage. About a year later, Hershey proposed to Ruth Margaret Engler (1903–2004), Minnie's niece. My great-grandfather died before I was born, but I remember many visits to my step-great grandmother in Maryville, TN where she lived until she died in 2004. What follows is a brief memoir "Grandma Ruth" wrote in 1995.
+<em>My great grandfather, J. Hershey Longenecker (1889–1978), retired Morristown, TN with his wife Minnie (1887–1966). Minnie died in 1966 after 51 years of marriage. About a year later, Hershey proposed to Ruth Margaret Engler (1903–2004), Minnie's niece. My great-grandfather died before I was born, but I remember many visits to my step-great grandmother in Maryville, TN where she lived until she died in 2004. What follows is a brief memoir "Grandma Ruth" wrote in 1995.</em>
 
 "God gave us memories so that we may have roses in December" — author unknown
 
