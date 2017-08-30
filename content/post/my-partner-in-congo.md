@@ -5,6 +5,7 @@ date: "2011-03-08"
 slug: "my-partner-in-congo"
 people:
   - Hershey Longenecker
+  - Minnie Hauhart Longenecker
 tags:
   - Congo
   - Romance
