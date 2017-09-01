@@ -1,4 +1,4 @@
-F{{ define "schema-dot-org" }}
+{{ define "schema-dot-org" }}
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
@@ -30,7 +30,7 @@ F{{ define "schema-dot-org" }}
 {{ define "main" }}
 
 {{ .Content }}
-{{ range .Data.Pages.GroupByParam "original_author" }}
+{{ range .Data.Pages.GroupByParam "author" }}
   <h2 class="pt-2">Works of {{ .Key }}</h2>
   {{ range .Pages }}
     {{ partial "hopper-header.html" . }}
