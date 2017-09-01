@@ -1,6 +1,31 @@
-**DAUGHTERS OF PRISCILLA**
+---
+title: "Daughters of Priscilla"
+description: "A talk my grandfather gave about God-fearing women on the Korean mission field."
+date: "2017-08-02"
+short: false
+people:
+ - Joe B. Hopper
+ - Nellie Rankin
+ - Annis Barron Hopper
+ - Willie Bernice Greene
+ - Margaret Pritchard
+ - Mattie Ingold
+tags:
+ - Korea
+ - PCUS
+ - Korea
+ - Family
+images:
+ - /images/taiku-womens-bible-class.jpg
+---
 
-"And Paul, having remained many days long, took leave of the brethren and put out to sea for Syria, and with him were Priscilla and Aquila." (Acts 18:18)
+<em>My grandfather gave talk about the God-fearing women of the Korean mission field.</em>
+
+<blockquote class="blockquote">
+  <p class="mb-0">And Paul, having remained many days long, took leave of the brethren and put out to sea for Syria, and with him were Priscilla and Aquila.</p>
+  <footer class="blockquote-footer">Acts 18:18</footer>
+</blockquote>
+
 
 Approximately two-thirds of all missionaries in modern times could be called "Daughters of Priscilla," the first lady to travel to foreign lands witnessing to Jesus Christ. She and her husband, Aquila, were tent-makers by profession, living as Jewish refugees from Rome in Corinth when they heard the Gospel from the Apostle Paul. The epistles (Rom. 16:3; I Cor. 16:19) mention "the church that is in their house" when they lived later in Ephesus and in Rome, and Paul says that "all the churches of the Gentiles" were grateful to them. Priscilla, usually named before her husband, could be called the "mother of missions," Today let us recognize the service and example of some of her little known daughters who labored in Korea and deserve far more credit than most of them have received. A century ago when there were few opportunities at home for women to serve professionally in church work, these missionaries, about half of them married and the other half singly, braved stormy seas, primitive living conditions, and hostile cultures to add their testimony to the saving power of Jesus as "the way, the truth, and the life."
 
@@ -18,7 +43,7 @@ Nellie Rankin could have been the belle of Savannah, but this is how she obeyed 
 
 ### Mattie Ingold
 
-In 1895, only three years after the first "Southern" Presbyterian missionaries reached Korea, Dr. Mattie Ingold arrived. Entering the medical profession was not easy for a woman in those days, yet records show that some 100 women physicians were serving as missionaries abroad. Great interest and support for their work came from numerous mission societies of the elect ladies, forerunners of our modern "Women of the Church" organizations, founders of Montreat and other conference grounds, and financiers who generated much of the support for world evangelization.
+In 1895, only three years after the first "Southern" Presbyterian missionaries reached Korea, Dr. [Mattie Ingold arrived](https://books.google.com/books?id=fKgRAAAAYAAJ&pg=PA245&lpg=PA245&dq=Mattie+Ingold+korea&source=bl&ots=mct-3Cv1GB&sig=IZyt1Rug4nLU8Tz4o9TTsPnb310&hl=en&sa=X&ved=0ahUKEwiA4KiOk4XWAhWL7IMKHUInDwoQ6AEINjAD#v=onepage&q&f=false). Entering the medical profession was not easy for a woman in those days, yet records show that some 100 women physicians were serving as missionaries abroad. Great interest and support for their work came from numerous mission societies of the elect ladies, forerunners of our modern "Women of the Church" organizations, founders of Montreat and other conference grounds, and financiers who generated much of the support for world evangelization.
 
 After language study, Dr. Ingold arrived in Chonju in 1897 "and began immediately to repair a native house which could be used as a medical dispensary for women. The work of this dispensary was to be of tremendous influence in breaking down suspicion and prejudice. During the dispensary's first five months, Dr. Ingold treated four hundred patients. The first building to be constructed as a dispensary was erected for her on a new site in 1902... land! consisted of a dispensary proper (32 by 28 feet) and a contagious ward &lt;32 by 8 feet. But during the next several years the clinic was open only intermittently, since Dr. Ingold was the only doctor on the field and there were many interruptions. Often, she was called to the other stations to give aid. Despite the interruptions, during 1903 she treated more than fifteen hundred cases. And Dr. Ingold had evangelistic skills as well. She made the first translation of the Child's Catechism into Korean. The catechism was published by the Tract Society and used throughout Korea for many years. In 1905 Dr. Ingold was married to the Rev. L. B. Tate, and after that time did not engage in medical practice except on a temporary or emergency basis." (G. T. Brown, "Mission to Korea" pp 40-41)
 
@@ -28,7 +53,7 @@ And from that tiny beginning evolved a medical institution which ever since has 
 
 ### Margaret Pritchard
 
-Margaret Pritchard was born the first day of this century and went to her heavenly home Feb. 14, 1988. She came to Korea in 1929 and my first memories of her come from when I was a little boy and my mother was desperately ill... in fact nearly died. Margaret was a newly arrived trained nurse, assigned to a mission hospital fifty miles away, and in this emergency came to live in our home and care for mother.
+[Margaret Pritchard](https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=75131370) was born the first day of this century and went to her heavenly home Feb. 14, 1988. She came to Korea in 1929 and my first memories of her come from when I was a little boy and my mother was desperately ill... in fact nearly died. Margaret was a newly arrived trained nurse, assigned to a mission hospital fifty miles away, and in this emergency came to live in our home and care for mother.
 
 She too was devoted to her Lord and dedicated to her calling. Like most missionaries, man or woman, she had to be a "jack-of-all-trade." Bedside nursing was practiced, of course, but it was also taught to scores of Korean girls who quickly took over most routine duties. Once when Dr. Levie, the mission dentist, held "teeth extraction day" at the women's Bible conference, "Miss Pritchard told of how she assisted... in pulling 189 teeth in about two and a half hours! The women, wrote Miss Pritchard, 'walked in as if they were going to a picnic.'" (GTB Op. cit, p. 128) One night in 1933 the Kwangju hospital burned to the ground. The doctors and "Miss Pritchard and other members of the staff worked through the night to evacuate the patients and save as much equipment as possible. All the drugs, most of the operating equipment, half the beds and linens, the X-ray and dental equipment were lost. And yet by mid-morning the next day, signs and posters had been put up in the street announcing that the hospital was open and receiving patients! That same evening Dr. Brand performed an emergency operation, using instruments salvaged from the ashes and a homemade lamp." (GTB, Op cit, p. 145) You may be sure that much of that feat was due to the heroic leadership of "General" Margaret Pritchard!
 
