@@ -1,7 +1,7 @@
 ---
 title: "Daughters of Priscilla"
 description: "A talk my grandfather gave about God-fearing women on the Korean mission field."
-date: "2017-08-02"
+date: "2017-09-01"
 short: false
 people:
  - Joe B. Hopper
