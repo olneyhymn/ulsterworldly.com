@@ -8,8 +8,8 @@ quote = """As indicated by the title of this book, it is a Biblical, not a criti
 title = "A Biblical Commentary on the Book of Isaiah"
 
 [files]
-"01 Intro to Chapter 12 (pdf)" = "data/joseph-barron-hopper/isaiah01-intro-ch12.pdf"
-"02 Chapter 13 to Chapter 30 (pdf)" = "data/joseph-barron-hopper/isaiah02-ch13-ch30.pdf"
-"03 Chapter 31 to Chapter 44 (pdf)" = "data/joseph-barron-hopper/isaiah03-ch31-ch44.pdf"
-"04 Chapter 45 to Chapter 66 (pdf)" = "data/joseph-barron-hopper/isaiah04-ch45-ch66.pdf"
+"01 Intro to Chapter 12 (pdf)" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/isaiah01-intro-ch12.pdf"
+"02 Chapter 13 to Chapter 30 (pdf)" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/isaiah02-ch13-ch30.pdf"
+"03 Chapter 31 to Chapter 44 (pdf)" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/isaiah03-ch31-ch44.pdf"
+"04 Chapter 45 to Chapter 66 (pdf)" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/isaiah04-ch45-ch66.pdf"
 +++

@@ -8,5 +8,6 @@ quote = """Today let us recognize the service and example of some of her little 
 title = "Daughters of Priscilla"
 
 [files]
-"pdf" = "data/joseph-barron-hopper/daughters-of-priscilla.pdf"
+"pdf" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/daughters-of-priscilla.pdf"
+"html" = "https://ulsterworldly.com/post/daughters-of-priscilla/"
 +++

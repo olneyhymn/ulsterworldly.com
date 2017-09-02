@@ -9,6 +9,6 @@ subtitle = "Introductory Study and Expositions"
 title = "Studies in the Parables of Jesus"
 
 [files]
-"pdf" = "data/joseph-barron-hopper/studies-in-the-parables-of-jesus.pdf"
+"pdf" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/studies-in-the-parables-of-jesus.pdf"
 
 +++

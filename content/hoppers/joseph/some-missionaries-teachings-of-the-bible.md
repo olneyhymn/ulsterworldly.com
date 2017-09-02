@@ -8,6 +8,6 @@ quote = """So it isn't a question of whether I feel like sending the Gospel to t
 title = "Some Missionaries Teachings of the Bible"
 
 [files]
-"pdf" = "data/joseph-hopper/some-missionary-teachings-of-the-bible.pdf"
+"pdf" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-hopper/some-missionary-teachings-of-the-bible.pdf"
 
 +++

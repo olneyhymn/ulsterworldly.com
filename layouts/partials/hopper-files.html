@@ -1,7 +1,7 @@
 <h6 class="text-muted">Download:</h6>
-<ul>
+<ul class="download_links">
     {{ range $key, $value := . }}
-    <li><a href="http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/{{ $value }}">{{ if (in $key "html") }}<i class="fa fa-file-text-o" aria-hidden="true"></i> {{ end }}{{ if (in $key "pdf")}}<i class="fa fa-file-pdf-o" aria-hidden="true"></i> {{ end }}{{ if eq $key "mp3" }}<i class="fa fa-file-audio-o" aria-hidden="true"></i> {{ end }}
+    <li><a href="{{ $value }}">{{ if (in $key "html") }}<i class="fa fa-file-text-o" aria-hidden="true"></i> {{ end }}{{ if (in $key "pdf")}}<i class="fa fa-file-pdf-o" aria-hidden="true"></i> {{ end }}{{ if eq $key "mp3" }}<i class="fa fa-file-audio-o" aria-hidden="true"></i> {{ end }}
 {{ $key }}</a> </li>
     {{ end }}
 </ul>

@@ -9,7 +9,7 @@ subtitle = "Thirty-Eight Years Below the Thirty-Eighth"
 title = "Mission to Korea"
 
 [files]
-"pdf (full quality)" = "data/joseph-barron-hopper/mission-to-korea-by-joseph-b-hopper.pdf"
-"pdf (iPad optimized)" = "data/joseph-barron-hopper/mission-to-korea-by-joseph-b-hopper-ipad.pdf"
+"pdf (full quality)" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/mission-to-korea-by-joseph-b-hopper.pdf"
+"pdf (iPad optimized)" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/mission-to-korea-by-joseph-b-hopper-ipad.pdf"
 
 +++

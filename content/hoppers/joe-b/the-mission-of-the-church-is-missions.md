@@ -8,6 +8,6 @@ quote = """A five page outline arguing Joe's contention that "The Mission of the
 title = "The Mission of the Church is Missions"
 
 [files]
-"pdf" = "data/joseph-barron-hopper/the-mission-of-the-church-is-missions-by-joseph-b-hopper.pdf"
+"pdf" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/the-mission-of-the-church-is-missions-by-joseph-b-hopper.pdf"
 
 +++

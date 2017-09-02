@@ -10,6 +10,6 @@ title = "Concurring Witnesses"
 year = "1945"
 
 [files]
-"pdf" = "data/joseph-hopper/concurring-witness-looking-unto-jesus-1945.pdf"
+"pdf" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-hopper/concurring-witness-looking-unto-jesus-1945.pdf"
 
 +++
