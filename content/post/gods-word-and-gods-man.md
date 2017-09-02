@@ -2,7 +2,7 @@
 title: "God's Word and God's Man: 2 Timothy 3:14-17"
 description: "A missionary's appeal to his fellow ministers to stay faithful to the Word of God."
 date: 2017-08-23
-short: false
+short: true
 people:
  - Joseph Hopper
 tags:
