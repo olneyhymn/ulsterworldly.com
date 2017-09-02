@@ -110,7 +110,9 @@ Stonehouse concluded[^stonehouse]:
 
 > Your little friend, Joseph Barron Hopper
 
-My great grandmother was reared in a [Associate Reformed Presbyterian](https://en.wikipedia.org/wiki/Associate_Reformed_Presbyterian_Church) home outside of Rock Hill, SC. She likely received the same catechesis as a child.
+My great grandmother was reared in a [Associate Reformed Presbyterian](https://en.wikipedia.org/wiki/Associate_Reformed_Presbyterian_Church) home outside of Rock Hill, SC. My grandfather [wrote specifically of his mother's instruction](https://ulsterworldly.com/post/daughters-of-priscilla/):
+
+> She was a thorough and strict teacher but a good one... and along with the three "Rs" we were taught the Bible from beginning to end, memorizing many chapters, and also the **Westminster Shorter catechism... by far the best theological training I ever received**.
 
 At age 12, my grandfather went before the provisional session (elder board) of missionaries to be examined for communicant membership:
 
