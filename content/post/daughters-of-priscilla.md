@@ -19,7 +19,7 @@ images:
  - /images/taiku-womens-bible-class.jpg
 ---
 
-<em>My grandfather gave talk about the God-fearing women of the Korean mission field.</em>
+<em>My grandfather gave this talk about the God-fearing women of the Korean mission field.</em>
 
 <blockquote class="blockquote">
   <p class="mb-0">And Paul, having remained many days long, took leave of the brethren and put out to sea for Syria, and with him were Priscilla and Aquila.</p>
