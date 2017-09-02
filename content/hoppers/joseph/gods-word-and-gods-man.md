@@ -9,5 +9,5 @@ title = "God's Word and God's Man"
 
 [files]
 "pdf" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-hopper/gods-word-and-gods-man.pdf"
-
+"html" = "https://ulsterworldly.com/post/gods-word-and-gods-man/"
 +++
