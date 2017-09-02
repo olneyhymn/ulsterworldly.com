@@ -8,7 +8,7 @@ quote = """The more Christians grow and are united in this fellowship the less a
 title = "The Holy Spirit and Five New Testament Doctrines"
 
 [files]
-"Chapter 1-2 (pdf)" = "data/joseph-barron-hopper/the-holy-spirit-and-five-new-testament-doctrines-1.pdf"
-"Chapter 3-5 (pdf)" = "data/joseph-barron-hopper/the-holy-spirit-and-five-new-testament-doctrines-2.pdf"
+"Chapter 1-2 (pdf)" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/the-holy-spirit-and-five-new-testament-doctrines-1.pdf"
+"Chapter 3-5 (pdf)" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/the-holy-spirit-and-five-new-testament-doctrines-2.pdf"
 
 +++

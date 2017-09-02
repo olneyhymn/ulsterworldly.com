@@ -10,6 +10,6 @@ title = "Influence of the Clan upon Church Growth in Korea"
 year = "1964"
 
 [files]
-"pdf" = "data/joseph-barron-hopper/influence-of-the-clan-upon-church-growth-in-korea-by-joseph-b-hopper.pdf"
+"pdf" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/influence-of-the-clan-upon-church-growth-in-korea-by-joseph-b-hopper.pdf"
 
 +++

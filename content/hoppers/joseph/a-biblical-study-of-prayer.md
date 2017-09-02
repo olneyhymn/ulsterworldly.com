@@ -7,6 +7,6 @@ quote = """God is well-pleased with unselfish praying. There is the hungry frien
 title = "A Biblical Study of Prayer"
 
 [files]
-"pdf" = "data/joseph-hopper/a-biblical-study-of-prayer.pdf"
+"pdf" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-hopper/a-biblical-study-of-prayer.pdf"
 
 +++

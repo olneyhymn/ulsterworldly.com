@@ -9,6 +9,6 @@ subtitle = "A Study of the Book of Revelation"
 title = "Victory Through Our Lord Jesus Christ"
 
 [files]
-"pdf" = "data/joseph-hopper/victory-through-our-lord-jesus-christ-a-study-in-the-book-of-revelation.pdf"
+"pdf" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-hopper/victory-through-our-lord-jesus-christ-a-study-in-the-book-of-revelation.pdf"
 
 +++

@@ -8,6 +8,6 @@ quote = """John Huss eloquently championed the cause of truth, and purity, and d
 title = "Protestant Reformation Leaders"
 
 [files]
-"pdf" = "data/joseph-barron-hopper/protestant-reformation-leaders.pdf"
+"pdf" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/protestant-reformation-leaders.pdf"
 
 +++

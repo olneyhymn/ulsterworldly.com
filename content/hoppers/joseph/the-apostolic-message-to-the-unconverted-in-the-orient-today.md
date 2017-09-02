@@ -9,6 +9,6 @@ subtitle = "Th.M. Thesis from Union Presbyterian Seminary"
 title = "The Apostolic Message to the Unconverted in the Orient Today"
 
 [files]
-"pdf" = "data/joseph-hopper/the-apostolic-message-to-the-unconverted-in-the-orient-today.pdf"
+"pdf" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-hopper/the-apostolic-message-to-the-unconverted-in-the-orient-today.pdf"
 
 +++

@@ -8,6 +8,6 @@ quote = """The Bible is not only divinely inspired, but it is also Christ-center
 title = "God's Word and God's Man"
 
 [files]
-"pdf" = "data/joseph-hopper/gods-word-and-gods-man.pdf"
+"pdf" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-hopper/gods-word-and-gods-man.pdf"
 
 +++

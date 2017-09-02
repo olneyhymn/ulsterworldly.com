@@ -9,6 +9,6 @@ title = "Sermon Preached at Montreat Presbyterian Church"
 year = "1984"
 
 [files]
-"mp3" = "data/joseph-barron-hopper/joe-hopper-montreat-pres-052084.mp3"
+"mp3" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/joe-hopper-montreat-pres-052084.mp3"
 
 +++

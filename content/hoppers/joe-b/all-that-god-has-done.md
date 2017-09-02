@@ -10,6 +10,6 @@ title = "All That God Has Done"
 year = "1973"
 
 [files]
-"pdf" = "data/joseph-barron-hopper/all-that-god-has-done.pdf"
+"pdf" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/all-that-god-has-done.pdf"
 
 +++
