@@ -8,6 +8,7 @@ people:
  - Joseph Hopper
  - Hershey Longenecker
  - Edward O. Guerrant
+ - Soul Winners Society
 tags:
  - Kentucky
  - PCUS

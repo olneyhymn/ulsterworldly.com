@@ -17,6 +17,7 @@ tags:
  - PCUS
  - Transylvania presbytery
  - Family
+ - Soul Winners Society
 images:
  - /images/hopper-revelation.png
 ---
