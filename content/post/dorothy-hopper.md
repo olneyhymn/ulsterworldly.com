@@ -7,7 +7,7 @@ people:
   - Mary Seel
   - Hershey Longenecker
   - Minnie Hauhart
-  - Dorothy Hopper
+  - Dot Hopper
 tags:
   - Korea
   - Congo

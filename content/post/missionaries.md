@@ -4,7 +4,7 @@ description: "My grandmother reflections on her life and ministry in Korea."
 date: "2013-06-03"
 slug: "missionaries-by-dot-hopper"
 people:
-  - Dorothy Hopper
+  - Dot Hopper
 tags:
   - Korea
   - Family
