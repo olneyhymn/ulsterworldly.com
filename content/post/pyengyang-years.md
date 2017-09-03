@@ -93,7 +93,5 @@ Commencement exercises were (I believe) on June 7, 1938. Father preached the bac
 
 My sister Mardia graduated from PYFS the following year. My brother George's education there was cut short in the fall of 1940 when almost all of the missionaries were forced to evacuate... about a year before the Japanese attack on Pearl Harbor. During the first winter of the Korean War a few missionaries were able to enter Pyeng-yang briefly. They found that most of the mission property, including our school, had become the headquarters of the communist regime of dictator [Kim Il-seung](https://en.wikipedia.org/wiki/Kim_Il-sung), and that is very likely still the case today. But the impact of that school on scores of missionary children, and subsequently through them upon the work of our Lord in many lands around the world can never be measured!
 
-[^harper]: One of these was a high school boy named Harper Beal who was later a year or so at Davidson College. He now lives in Lenoir, N.C.
-[^baalbek]: Baalbek has been the center around which much of the fighting between various factions in Lebanon has taken place in recent years up until now (1991).
 [^miller]: Donald Miller would later become the [president of Pittsburg Theological Seminary](https://books.google.com/books?id=hWRmqKJsOpwC). —Tim Hopper
 [^pyengyang]: The Hoppers had lived in Pyengyang for a semester when my grandfather was in 5th grade when his father, Joseph Hopper, was asked to teach at Union Theological Seminary.
