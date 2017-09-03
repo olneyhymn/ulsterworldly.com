@@ -17,6 +17,7 @@ title = "Missionary Talks"
 "Rural Evangelism Work in North Chulla (pdf)" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/rural_evangelism_in_north_chulla.pdf"
 "The American Christian as Seen by Koreans (pdf)" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/the_american_christian_as_seen_by_the_korean.pdf"
 "The Role of the American Missionary in Korea (1967) (pdf)" = "http://joseph-hopper.com.s3-website-us-east-1.amazonaws.com/data/joseph-barron-hopper/the_role_of_the_american_missionary_in_korea.pdf"
+"Various Missionary Sermons (pdf)" = "https://s3.amazonaws.com/joseph-hopper.com/data/joseph-barron-hopper/various-missionary-sermons.pdf"
 +++
 
 asdf
