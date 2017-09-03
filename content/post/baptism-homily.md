@@ -1,5 +1,5 @@
 ---
-title: "A baptism homily"
+title: "A Baptism Homily"
 description: "Joe B. Hopper's baptism homily for the baptism of his grandson in 1986."
 date: 2017-09-03
 short: false
