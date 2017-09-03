@@ -20,6 +20,7 @@ tags:
  - PCUS
  - Kentucky
  - PCA
+ - Soul Winners Society
 images:
  - /images/hlongenecker.jpg
 ---

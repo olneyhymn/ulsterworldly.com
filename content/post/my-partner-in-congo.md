@@ -10,6 +10,7 @@ tags:
   - Congo
   - Romance
   - Family
+  - Soul Winners Society
 images:
   - /images/longenecker-wedding.jpg
 ---

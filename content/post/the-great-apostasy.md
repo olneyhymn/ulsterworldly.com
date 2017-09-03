@@ -9,6 +9,7 @@ people:
 tags:
   - PCUS
   - Family
+  - Soul Winners Society
 images:
   - /images/hershey-longenecker.png
 ---
