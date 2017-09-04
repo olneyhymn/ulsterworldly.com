@@ -1,6 +1,6 @@
 ﻿---
 title: "Brief Biography of R.A. Webb (1856-1919) by John Richardson"
-description: "American missionaries recount their joy-filled service to Korean lepers."
+description: "Biography of Robert Alexander Webb, professor of theology at Louisville Presbyterian Seminary."
 date: 2017-09-03
 people:
   - Robert Alexander Webb
