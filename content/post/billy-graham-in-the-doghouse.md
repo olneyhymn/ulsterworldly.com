@@ -2,7 +2,7 @@
 title: "Billy Graham in the Dog House"
 description: "The time Billy Graham's wife put her husband in the dog house."
 date: "2017-09-05"
-short: true
+short: false
 people:
  - Billy Graham
  - Joe B. Hopper
