@@ -2,7 +2,7 @@
 title: "Council on Organic Union of Evangelical Churches in the United States"
 description: "In 1920, the PCUSA almost joined a nation-wide union denomination of Methodists, Episcopals, Moravian, baptists, and more"
 date: 2017-09-07
-draft: true
+draft: false
 short: false
 people:
  - J. Gresham Machen
@@ -22,7 +22,7 @@ That Assembly was the first that J. Gresham Machen attended (having been ordaine
 
 > Machen opposed the 1920 plan for church union not so much because he favoured the bogeymen of Anglo-American Protestants but rather because such co-operation disregarded theological conviction in favour of a politicised Christianity.
 
-While the plan was ultimately rejected by the PCUSA, 100 presbyteries, out of 302, voted in support of the plan.[^100presbyteries]
+While the plan, known as _The Philadelphia Plan_, was ultimately rejected by the PCUSA, 100 presbyteries, out of 302, voted in support of the plan.[^100presbyteries]
 
 -----------
 
