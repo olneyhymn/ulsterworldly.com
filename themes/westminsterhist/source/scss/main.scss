@@ -190,3 +190,11 @@ article div.highlight {
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
+
+li {
+  font-size: $font-size-base;
+}
+li.foot {
+    font-size: $font-size-xs;
+  }
+
