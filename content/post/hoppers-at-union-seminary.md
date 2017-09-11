@@ -15,7 +15,7 @@ tags:
  - Louisville Presbyterian Theological Seminary
  - Kentucky
 images:
- - /iamges/union-seminary.jpg
+ - /images/union-seminary.jpg
 ---
 
 <figure class="figure">
