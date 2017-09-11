@@ -3,7 +3,7 @@ title: "Hoppers at Union Theological Seminary in Richmond"
 description: "Brief overview of my grandfather and great-grandfather's studies at Union Presbyterian Seminary"
 date: 2017-09-10
 short: false
-draft: true
+draft: false
 people:
  - Joseph Hopper
  - Joe B. Hopper
