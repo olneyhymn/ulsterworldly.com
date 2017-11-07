@@ -1,6 +1,6 @@
 ---
 title: "Obituary for Archibald Alexander Barron (1851-1909)"
-description: ""
+description: "Obituary for my great-great grandfather, a farmer and ARP ruling elder from Rock Hill, SC."
 date: 2017-11-06
 short: false
 draft: false
