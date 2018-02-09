@@ -21,7 +21,7 @@ clean:
 
 deploy: build
 	# Deploy site to heroku
-	s3cmd sync --acl-public --delete-removed --guess-mime-type public/ s3://$(S3_BUCKET)
+	aws --profile personal s3 sync --delete --acl public-read public/ s3://$(S3_BUCKET)
 	python3 build_scripts/invalidate_cloudfront.py
 
 push:
