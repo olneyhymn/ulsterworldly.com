@@ -32,13 +32,13 @@ A. — "I will study the peace, unity and _purity_ of the Church."
 
 Q. — "Will you promise to be subject to your brethren?"
 
-A. — "I will be subject to my brethren '_in the Lord_.' "
+A. — "I will be subject to my brethren '_in the Lord_.'"
 
 Q. — "If you become a minister and have charge of a Church will you inform the people that you think the Church is disloyal?"
 
 A. — "We are not Romanists, we do not keep the people in ignorance."
 
-Q. — "Do you think the Professors of the Seminary [San Anselmo] are not sincere and honest men ?"
+Q. — "Do you think the Professors of the Seminary [San Anselmo] are not sincere and honest men?"
 
 A. — "I think they are sincere, but I think some of them are sincerely wrong."
 
