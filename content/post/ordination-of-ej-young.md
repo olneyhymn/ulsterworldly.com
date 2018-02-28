@@ -11,7 +11,7 @@ tags:
   - OPC
   - Presbyterian Guardian
 images:
-  - images/ordination-of-ej-young.png
+  - /images/ordination-of-ej-young.png
 ---
 
 _The following article comes from the [inaugural issue of the Presbyterian Guardian magazine](https://www.opc.org/guardian.html) published in 1935.

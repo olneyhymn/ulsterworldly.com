@@ -6,7 +6,7 @@ draft: false
 short: false
 type: timeline
 images:
- - images/pearl-buck-quote.png
+ - /images/pearl-buck-quote.png
 menu:
     navbar:
         name: "Presbyterian Conflict Timeline"

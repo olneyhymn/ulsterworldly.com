@@ -14,7 +14,7 @@ tags:
  - Transylvania presbytery
  - Family
 images:
- - images/marion-presbyterian-ky.jpg
+ - /images/marion-presbyterian-ky.jpg
 ---
 
 

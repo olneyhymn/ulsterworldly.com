@@ -21,7 +21,7 @@ tags:
  - Presbyterian Journal
  - OPC
 images:
- - images/memories-of-machen.png
+ - /images/memories-of-machen.png
 source: http://www.pcahistory.org/documents/machen-conflict.pdf
 ---
 

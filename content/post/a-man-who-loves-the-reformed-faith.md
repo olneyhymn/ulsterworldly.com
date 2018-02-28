@@ -7,7 +7,7 @@ short: true
 people:
   - J. Gresham Machen
 images:
- - images/machen-moody.png
+ - /images/machen-moody.png
 ---
 
 <blockquote class="blockquote">
