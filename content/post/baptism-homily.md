@@ -13,9 +13,9 @@ tags:
  - Family
  - Montreat
 images:
- - images/hopper-baptism1.png
- - images/hopper-baptism2.png
- - images/hopper-baptism3.png
+ - /images/hopper-baptism1.png
+ - /images/hopper-baptism2.png
+ - /images/hopper-baptism3.png
 ---
 
 <em>I was baptized by [my grandfather](/people/joe-b.-hopper/) in August of 1986. My grandparents had just retired from 38 years of work in Chonju, Korea and were living in Montreat, NC. The church I grew up in did not baptize infants, so my parents had me baptized at Montreat Presbyterian Church, where my grandparents attended in their retirement.</em>

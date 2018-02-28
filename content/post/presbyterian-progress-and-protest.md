@@ -11,7 +11,7 @@ tags:
   - The Presbyterian Conflict
   - OPC
 images:
- - images/van-dixhoorn.png
+ - /images/van-dixhoorn.png
 ---
 
 Dr. Chad Van Dixhoorn has [recently been appointed](https://faculty.wts.edu/posts/van-dixhoorn/) _Professor of Church History and Director of the Craig Center for the Study of the Westminster Standards_ at Westminster Theological Seminary. Dr. Van Dixhoorn is an OPC minister and a leading expert on the Westminster Assembly.

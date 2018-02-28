@@ -7,7 +7,7 @@ short: false
 people:
   - J. Gresham Machen
 images:
- - images/princeton-theological-review.png
+ - /images/princeton-theological-review.png
 ---
 
 _An address on "The Scientific Preparation of the Minister", delivered by J. Gresham Machen on September 20, 1912, at the opening of the one hundred and first session of Princeton Theological Seminary, and in substance (previously) at a meeting of the Presbyterian Ministers' Association of Philadelphia, May 20, 1912. Published in Volume XI of the Princeton Theological Review in 1913._

@@ -15,7 +15,7 @@ tags:
  - Transylvania presbytery
  - Family
 images:
- - images/marion-presbyterian-ky.jpg
+ - /images/marion-presbyterian-ky.jpg
 ---
 
 _In the late 1800s, a Civil War officer turned physician turned Southern Presbyterian minister left First Presbyterian Church of Louisville to become a traveling evangelist. According to Louis Weeks,[^weeks] this Edward O. Guerrant "enlisted others, such as 'Uncle' Joe Hopper, an elder from Perryville [KY], and began to hold revivals, health clinics, and organizational meetings to establish Presbyterian churches in the mountains."_
