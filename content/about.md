@@ -12,4 +12,6 @@ I am fascinated by American religious history broadly, and I am also particularl
 
 I have [a number of other websites](http://ulsterworldly.com/resources) for building up the body of Christ.
 
+The name "Ulster Worldly" is a silly combination of "other worldly" (in recognition that this world is not our home) and Ulster (for the Ulster Plantation in northern Ireland where many of my ancestors came from).
+
 <p class="sans-serif small pr-md-2" style="text-align: right;"><a href="http://ulsterworldly.com/about">Tim Hopper</a><br/>Raleigh, NC</p>
