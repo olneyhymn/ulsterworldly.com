@@ -80,7 +80,7 @@ In an attempt to better understand the theonomy/Christian Reconstruction movemen
 [^kline]: [Galaxie.com](http://www.galaxie.com/article/wtj41-1-11)
 [^obit]: [Obituary](http://www.vantil.info/articles/obituary.html)
 [^78ga]: [6th General Assembly of the PCA at PCAHistory.org](http://www.pcahistory.org/ga/6th_pcaga_1978.pdf)
-[^terminated](https://americanvision.org/11827/greg-bahnsen-what-really-happened-at-reformed-theological-seminary-rts/)
+[^terminated]: ["What Really Happened at Reformed Theological Seminary" by Dr. Greg L. Bahnsen](https://americanvision.org/11827/greg-bahnsen-what-really-happened-at-reformed-theological-seminary-rts/)
 [^79ga]:  [7th General Assembly of the PCA at PCAHistory.org](http://pcahistory.org/pca/2-555.html)
 [^83ga]:  [11th General Assembly of the PCA at PCAHistory.org](http://www.pcahistory.org/ga/11th_pcaga_1983.pdf)
 [^wsc]: [History of Westminster Seminary California](https://www.wscal.edu/about-wsc/history)
