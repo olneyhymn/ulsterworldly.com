@@ -2,7 +2,7 @@
 title: "Timeline of Modern Theonomy Movement"
 description: "A snapshot of the events of the theonomy and Christian Reconstruction movement from 1947 to 2001."
 date: 2017-08-26
-draft: true
+draft: false
 short: false
 tags:
  - Theonomy
@@ -12,51 +12,58 @@ people:
  - Cornelius Van Til
  - Gary North
  - Vern Poythress
+ - James Jordan
+ - Joe Morecraft
+ - John Frame
+ - Meredith Kline
+ - Vern Poythress
 images:
   - /images/gary-north.jpg
 ---
 
-* 1947: R.J. Rushdoony, PCUSA missionary at the Duck Valley Indian Reservation, reads his first Cornelius Van Til Book: _The New Modernism_.[^new-modernism]
-* May 12, 1958: Rushdoony received into the OPC.[^opc] He ministers to an OP congregation in Santa Cruz, CA until 1962.[^opc-directory]
-* 1959: Rushdoony publishes [_By What Standard_](https://chalcedon.edu/store/39973-by-what-standard) Presbyterian and Reformed Publishers.
-* 1965: Rushdoony forms Chalcedon Foundation in Los Angeles.[^chalcedon] Greg Bahnsen starts writing for Chalcedon while a student at Westmont College.
-* 1966: [Reformed Theological Seminary](https://en.wikipedia.org/wiki/Reformed_Theological_Seminary) founded by conservatives in the Southern Presbyterian Church (PCUS).
-* October 1, 1970: Rushdoony leaves the OPC.[^watson]
-* 1972: Cornelius Van Til retires as professor of Apologetics at WTS.[^os]
-* 1973: Rushdoony’s “The Institutes of Biblical Law” published.[^institutes]
-* 1973: Bahnsen graduates with M.Div and ThM from Westminster Theological Seminary. ThM Thesis published in 1977 as “Theonomy in Christian Ethics”.[^westminsters-confession]
-* 1973: Gary North (Rushdoony’s future son-in-law) and Greg Bahnsen join staff of Chalcedon Foundation.[^christian-reconstruction]
-* May 19, 1973: Joe Morecraft received into the Westminster Presbytery, an independent presbytery of former PCUS congregations that would later join the PCA.[^pcahistory]
-* December 4-7, 1973: First general assembly of the PCA.[^firstga]
-* 1974: Rushdoony received by the Anglican Church of America.[^opc-directory]
-* July 20, 1975: Bahnsen ordained by Presbytery of Southern California of the OPC (OPC Ministerial Directory) after 2 years of working towards it.[^christian-reconstruction]
-* 1975: Gary North starts Institute for Christian Economics.
+In an attempt to better understand the theonomy/Christian Reconstruction movements of conservative presbyterianism in the second half of the last century, I started putting together this timeline of major events.
+
+* __1947__: R.J. Rushdoony, PCUSA missionary at the Duck Valley Indian Reservation, reads his first Cornelius Van Til Book: _The New Modernism_.[^new-modernism]
+* __May 12, 1958__: Rushdoony received into the OPC.[^opc] He ministers to an OP congregation in Santa Cruz, CA until 1962.[^opc-directory]
+* __1959__: Rushdoony publishes [_By What Standard_](https://chalcedon.edu/store/39973-by-what-standard) Presbyterian and Reformed Publishers.
+* __1965__: Rushdoony forms Chalcedon Foundation in Los Angeles.[^chalcedon] Greg Bahnsen starts writing for Chalcedon while a student at Westmont College.
+* __1966__: [Reformed Theological Seminary](https://en.wikipedia.org/wiki/Reformed_Theological_Seminary) founded by conservatives in the Southern Presbyterian Church (PCUS).
+* __October 1, 1970__: Rushdoony leaves the OPC.[^watson]
+* __1972__: Cornelius Van Til retires as professor of Apologetics at WTS.[^os]
+* __1973__: Rushdoony’s “The Institutes of Biblical Law” published.[^institutes]
+* __1973__: Bahnsen graduates with M.Div and ThM from Westminster Theological Seminary. ThM Thesis published in 1977 as “Theonomy in Christian Ethics”.[^westminsters-confession]
+* __1973__: Gary North (Rushdoony’s future son-in-law) and Greg Bahnsen join staff of Chalcedon Foundation.[^christian-reconstruction]
+* __May 19, 1973__: Joe Morecraft received into the Westminster Presbytery, an independent presbytery of former PCUS congregations that would later join the PCA.[^pcahistory]
+* __December 4-7, 1973__: First general assembly of the PCA.[^firstga]
+* __1974__: Rushdoony received by the Anglican Church of America.[^opc-directory]
+* __July 20, 1975__: Bahnsen ordained by Presbytery of Southern California of the OPC (OPC Ministerial Directory) after 2 years of working towards it.[^christian-reconstruction]
+* __1975__: Gary North starts Institute for Christian Economics.
 [^christian-reconstruction]
-* 1976: Twenty-eight year old Greg Bahnsen joins faculty at RTS Jackson while working on his PhD. Students over the next three years include James Jordan, Gary Demar, and Kenneth Gentry.[^76]
-* 1976: John Frame offers a critical review of Institutes of Biblical Law in the Westminster Theological Journal.[^journal]
-* June 1978: Greg Bahnsen graduates from University of Southern California with a Ph.D. in Philosophy.[^phd]
-* 1978: Meredith Kline’s “Comments on a New-Old Error: A Review of Greg Bahnsen, Theonomy in Christian Ethics” appears in the Westminster theological journal.[^kline]
-* June 21, 1978: PCA General Assembly asks Committee on Christian Education and Publications to define "theonomy" and make a recommendation as to a request for a committee to study the topic.[^78ga]
-* February 8, 1979: Greg Bahnsen terminated from RTS Jackson faculty.[^terminated]
-* June 18, 1979: PCA Committee on Christian Education and Publications committee recommends a simple definition and no further study.[^79ga]
-* 1980: Greg Bahnsen becomes pastor of Covenant Community OPC in southern California. He minsters in the OPC in SoCal until his death.[^opc-directory]
-* 1980: Westminster Seminary California welcomes its first class of seminarians. Meredith Kline joins the faculty the following year.[^wsc]
-* Feb 2, 1981: Two weeks after Ronald Regan is inaugurated, Newsweek publishes an issue on the Religious Right and calls Chalcedon Foundation the “Think Tank of the Religious Right”[^newsweek]
-* 1981: James Jordan moves to Tyler, TX (where North had lived since 1979) to pastor Westminster PCA. Disagreement between North and Rushdoony over article written by Jordan for the Chalcedon Foundation’s _Journal of Christian Reconstruction_ results in Rushdoony never speaking to his son-in-law again.[^mcvicar]
-* June 13, 1983: PCA General Assembly's Permanent Sub-committee on Judicial Business responds to a "CONSTITUTIONAL INQUIRY ON WCF 19-4". 11th General Assembly of the PCA adopts its recommendations on theonomy and ordination, saying "no particular view of the application of the judicial law for today should be made a basis for orthodoxy or excluded as heresy".[^83ga]
-* 1983: Joe Morecraft leads Chalcedon Presbyterian Church out of the PCA to form the RPCUS after formal complain of theonomic views being required for holding office at CPC.[^watson]
-* November 4, 1986: Rev. Joe Morecraft loses to Democrat George Darden for a Georgia seat in the House of Representatives.[^darden]
-* April 18, 1987: Death of Cornelius Van Til.[^obit]
-* June 14, 1988: Pat Robertson loses to George H.W. Bush in the Republican presidential primaries.[^1988primary]
-* November 1, 1990: _Theonomy: A Reformed Critique_ published  by WTS faculty.[^wtsbooks]
-* 1991: Three out of four of the RPCUS presbyteries depart from the denomination. One becomes the Reformed Presbyterian Church – Hanover Presbytery[^hanover], one becomes RPCGA[^rpcga], and the 3rd dissolves.
-* Bahnsen publishes “No Other Standard: Theonomy and its Critics”.[^noother]
-* January 31, 1991: Vern Poythress publishes “Shadow of Christ in the Law of Moses”.[^shadow]
-* December 1, 1991: "Theonomy: An Informed Response", edited by Gary North, published by North's organization.[^informed]
-* December 11, 1995: Greg Bahnsen dies at age 47.[^bahnsendeath]
-* 2001: PCA's Westminster Presbytery votes to leave PCA; some members hope to realign with RPCUS.[^2001]
-* February 8, 2001: Rushdoony dies at age 84.
-* 2002: Westminster Presbytery reverses decision to leave the PCA; it's Tazewell, VA congregation leaves for the RPCUS.[^2002]
+* __1976__: Twenty-eight year old Greg Bahnsen joins faculty at RTS Jackson while working on his PhD. Students over the next three years include James Jordan, Gary Demar, and Kenneth Gentry.[^76]
+* __1976__: John Frame offers a critical review of Institutes of Biblical Law in the Westminster Theological Journal.[^journal]
+* __June 1978__: Greg Bahnsen graduates from University of Southern California with a Ph.D. in Philosophy.[^phd]
+* __1978__: Meredith Kline’s “Comments on a New-Old Error: A Review of Greg Bahnsen, Theonomy in Christian Ethics” appears in the Westminster theological journal.[^kline]
+* __June 21, 1978__: PCA General Assembly asks Committee on Christian Education and Publications to define "theonomy" and make a recommendation as to a request for a committee to study the topic.[^78ga]
+* __February 8, 1979__: Greg Bahnsen terminated from RTS Jackson faculty.[^terminated]
+* __June 18, 1979__: PCA Committee on Christian Education and Publications committee recommends a simple definition and no further study.[^79ga]
+* __1980__: Greg Bahnsen becomes pastor of Covenant Community OPC in southern California. He minsters in the OPC in SoCal until his death.[^opc-directory]
+* __1980__: Westminster Seminary California welcomes its first class of seminarians. Meredith Kline joins the faculty the following year.[^wsc]
+* __Feb 2, 1981__: Two weeks after Ronald Regan is inaugurated, Newsweek publishes an issue on the Religious Right and calls Chalcedon Foundation the “Think Tank of the Religious Right”[^newsweek]
+* __1981__: James Jordan moves to Tyler, TX (where North had lived since 1979) to pastor Westminster PCA. Disagreement between North and Rushdoony over article written by Jordan for the Chalcedon Foundation’s _Journal of Christian Reconstruction_ results in Rushdoony never speaking to his son-in-law again.[^mcvicar]
+* __June 13, 1983__: PCA General Assembly's Permanent Sub-committee on Judicial Business responds to a "CONSTITUTIONAL INQUIRY ON WCF 19-4". 11th General Assembly of the PCA adopts its recommendations on theonomy and ordination, saying "no particular view of the application of the judicial law for today should be made a basis for orthodoxy or excluded as heresy".[^83ga]
+* __1983__: Joe Morecraft leads Chalcedon Presbyterian Church out of the PCA to form the RPCUS after formal complain of theonomic views being required for holding office at CPC.[^watson]
+* __November 4, 1986__: Rev. Joe Morecraft loses to Democrat George Darden for a Georgia seat in the House of Representatives.[^darden]
+* __April 18, 1987__: Death of Cornelius Van Til.[^obit]
+* __June 14, 1988__: Pat Robertson loses to George H.W. Bush in the Republican presidential primaries.[^1988primary]
+* __November 1, 1990__: _Theonomy: A Reformed Critique_ published  by WTS faculty.[^wtsbooks]
+* __1991__: Three out of four of the RPCUS presbyteries depart from the denomination. One becomes the Reformed Presbyterian Church – Hanover Presbytery[^hanover], one becomes RPCGA[^rpcga], and the 3rd dissolves.
+* __Bahnsen publishes “No Other Standard__: Theonomy and its Critics”.[^noother]
+* __January 31, 1991__: Vern Poythress publishes “Shadow of Christ in the Law of Moses”.[^shadow]
+* __December 1, 1991__: "Theonomy: An Informed Response", edited by Gary North, published by North's organization.[^informed]
+* __December 11, 1995__: Greg Bahnsen dies at age 47.[^bahnsendeath]
+* __2001__: PCA's Westminster Presbytery votes to leave PCA; some members hope to realign with RPCUS.[^2001]
+* __February 8, 2001__: Rushdoony dies at age 84.
+* __2002__: Westminster Presbytery reverses decision to leave the PCA; it's Tazewell, VA congregation leaves for the RPCUS.[^2002]
 
 [^new-modernism]: ["Understanding R.J. Rushdoony", Mark Rushdoony](https://www.youtube.com/watch?v=BQfK_5L82IQ)
 [^opc]: [July 1958 Presbyterian Guardian](https://www.opc.org/cfh/guardian/Volume_27/1958-07-15.pdf)
@@ -100,8 +107,8 @@ Theonomy movement](http://www.christianstudylibrary.org/files/pub/20150811%20-%2
 
 ### Sources on Theonomy and Christian Reconstruction
 
-* [The Christian Reconstruction/
-Theonomy movement](http://www.christianstudylibrary.org/files/pub/20150811%20-%20WatsonDK_The%20Christian%20Reconstruction%20-%20Theonomy%20Movement.pdf)
+* [_The Christian Reconstruction/
+Theonomy movement_](http://www.christianstudylibrary.org/files/pub/20150811%20-%20WatsonDK_The%20Christian%20Reconstruction%20-%20Theonomy%20Movement.pdf)
 * [_Building God's Kingdom: Inside the World of Christian Reconstruction_ by Julie Ingersoll](https://amzn.to/2IavxOD)
 * [_Christian Reconstruction: R. J. Rushdoony and American Religious Conservatism_ by Michael McVicar](https://amzn.to/2KgylXf)
 * [Chalcedon Foundation](https://chalcedon.edu/about/who-was-r-j-rushdoony)
