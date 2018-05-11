@@ -65,11 +65,9 @@ In an attempt to better understand the theonomy/Christian Reconstruction movemen
 
 [^new-modernism]: ["Understanding R.J. Rushdoony", Mark Rushdoony](https://www.youtube.com/watch?v=BQfK_5L82IQ)
 [^opc]: [July 1958 Presbyterian Guardian](https://www.opc.org/cfh/guardian/Volume_27/1958-07-15.pdf)
-[^opc-directory]: [A Ministerial and Congregational Register of the OPC, 1936–2016
-](https://store.opc.org/ProductDetails.asp?ProductCode=H-Ministerial-Register)
+[^opc-directory]: [A Ministerial and Congregational Register of the OPC, 1936–2016](https://store.opc.org/ProductDetails.asp?ProductCode=H-Ministerial-Register)
 [^chalcedon]: [Who Was R.J. Rushdoony?](https://chalcedon.edu/about/who-was-r-j-rushdoony)
-[^watson]: [The Christian Reconstruction/
-Theonomy movement](http://www.christianstudylibrary.org/files/pub/20150811%20-%20WatsonDK_The%20Christian%20Reconstruction%20-%20Theonomy%20Movement.pdf)
+[^watson]: [The Christian Reconstruction/Theonomy movement](http://www.christianstudylibrary.org/files/pub/20150811%20-%20WatsonDK_The%20Christian%20Reconstruction%20-%20Theonomy%20Movement.pdf)
 [^os]: [_The Rev. Dr. Richard B. Gaffin Jr.: Sancti Libri Theologicus Magnus Westmonasteriensis_ by Peter A. Lillback](http://www.opc.org/os.html?article_id=273&pfriendly=Y)
 [^institutes]: [Wikipedia](https://en.wikipedia.org/wiki/The_Institutes_of_Biblical_Law)
 [^westminsters-confession]: [_Westminster's Confession_ by Gary North](https://www.garynorth.com/freebooks/docs/pdf/westministers_confession.pdf)
@@ -88,8 +86,7 @@ Theonomy movement](http://www.christianstudylibrary.org/files/pub/20150811%20-%2
 [^wsc]: [History of Westminster Seminary California](https://www.wscal.edu/about-wsc/history)
 [^1988primary]: [Republican Party presidential primaries, 1988](https://en.wikipedia.org/wiki/Republican_Party_presidential_primaries,_1988)
 [^newsweek]: [_Building God's Kingdom: Inside the World of Christian Reconstruction_ by Julie Ingersoll](https://amzn.to/2IavxOD)
-[^wtsbooks]: ["Theonomy: A Reformed Critique" at WTSBooks.com
-](https://www.wtsbooks.com/theonomy-barker-9780310521716)
+[^wtsbooks]: ["Theonomy: A Reformed Critique" at WTSBooks.com](https://www.wtsbooks.com/theonomy-barker-9780310521716)
 [^darden]: [United States House of Representatives elections, 1986](https://en.wikipedia.org/wiki/United_States_House_of_Representatives_elections,_1986)
 [^hanover]: [Hanover Presbytery on Wikipedia](https://en.wikipedia.org/wiki/Reformed_Presbyterian_Church_%E2%80%93_Hanover_Presbytery)
 [^rpcga]: [RPCGA on Wikipedia](https://en.wikipedia.org/wiki/Reformed_Presbyterian_Church_General_Assembly)
