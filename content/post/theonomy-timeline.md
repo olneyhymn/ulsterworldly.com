@@ -2,7 +2,6 @@
 title: "Timeline of Modern Theonomy Movement"
 description: "A snapshot of the events of the theonomy and Christian Reconstruction movement from 1947 to 2001."
 date: 2018-05-11
-
 draft: false
 short: false
 tags:
@@ -58,9 +57,7 @@ In an attempt to better understand the theonomy/Christian Reconstruction movemen
 * __June 14, 1988__: Pat Robertson loses to George H.W. Bush in the Republican presidential primaries.[^1988primary]
 * __November 1, 1990__: _Theonomy: A Reformed Critique_ published  by WTS faculty.[^wtsbooks]
 * __1991__: Three out of four of the RPCUS presbyteries depart from the denomination. One becomes the Reformed Presbyterian Church – Hanover Presbytery[^hanover], one becomes RPCGA[^rpcga], and the 3rd dissolves.
-* __Bahnsen publishes “No Other Standard__: Theonomy and its Critics”.[^noother]
-* __January 31, 1991__: Vern Poythress publishes “Shadow of Christ in the Law of Moses”.[^shadow]
-* __December 1, 1991__: "Theonomy: An Informed Response", edited by Gary North, published by North's organization.[^informed]
+* __1991__: Bahnsen publishes “No Other Standard: Theonomy and its Critics”[^noother]; Vern Poythress publishes “Shadow of Christ in the Law of Moses” the same year[^shadow]; "Theonomy: An Informed Response", edited by Gary North, published by North's organization.[^informed]
 * __December 11, 1995__: Greg Bahnsen dies at age 47.[^bahnsendeath]
 * __2001__: PCA's Westminster Presbytery votes to leave PCA; some members hope to realign with RPCUS.[^2001]
 * __February 8, 2001__: Rushdoony dies at age 84.
