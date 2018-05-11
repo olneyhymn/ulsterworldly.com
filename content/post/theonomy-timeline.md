@@ -51,7 +51,7 @@ In an attempt to better understand the theonomy/Christian Reconstruction movemen
 * __Feb 2, 1981__: Two weeks after Ronald Regan is inaugurated, Newsweek publishes an issue on the Religious Right and calls Chalcedon Foundation the “Think Tank of the Religious Right”[^newsweek]
 * __1981__: James Jordan moves to Tyler, TX (where North had lived since 1979) to pastor Westminster PCA. Disagreement between North and Rushdoony over article written by Jordan for the Chalcedon Foundation’s _Journal of Christian Reconstruction_ results in Rushdoony never speaking to his son-in-law again.[^mcvicar]
 * __June 13, 1983__: PCA General Assembly's Permanent Sub-committee on Judicial Business responds to a "CONSTITUTIONAL INQUIRY ON WCF 19-4". 11th General Assembly of the PCA adopts its recommendations on theonomy and ordination, saying "no particular view of the application of the judicial law for today should be made a basis for orthodoxy or excluded as heresy".[^83ga]
-* __1983__: Joe Morecraft leads Chalcedon Presbyterian Church out of the PCA to form the RPCUS after formal complain of theonomic views being required for holding office at CPC.[^watson]
+* __1983__: Joe Morecraft leads Chalcedon Presbyterian Church out of the PCA to form the RPCUS after formal complaint of theonomic views being required for holding office at CPC.[^watson]
 * __November 4, 1986__: Rev. Joe Morecraft loses to Democrat George Darden for a Georgia seat in the House of Representatives.[^darden]
 * __April 18, 1987__: Death of Cornelius Van Til.[^obit]
 * __June 14, 1988__: Pat Robertson loses to George H.W. Bush in the Republican presidential primaries.[^1988primary]
