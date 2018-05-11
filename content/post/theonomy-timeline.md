@@ -61,7 +61,7 @@ In an attempt to better understand the theonomy/Christian Reconstruction movemen
 * __December 11, 1995__: Greg Bahnsen dies at age 47.[^bahnsendeath]
 * __2001__: PCA's Westminster Presbytery votes to leave PCA; some members hope to realign with RPCUS.[^2001]
 * __February 8, 2001__: Rushdoony dies at age 84.
-* __2002__: Westminster Presbytery reverses decision to leave the PCA; it's Tazewell, VA congregation leaves for the RPCUS.[^2002]
+* __2002__: Westminster Presbytery reverses decision to leave the PCA; its Tazewell, VA congregation leaves for the RPCUS.[^2002]
 
 [^new-modernism]: ["Understanding R.J. Rushdoony", Mark Rushdoony](https://www.youtube.com/watch?v=BQfK_5L82IQ)
 [^opc]: [July 1958 Presbyterian Guardian](https://www.opc.org/cfh/guardian/Volume_27/1958-07-15.pdf)
