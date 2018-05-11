@@ -1,7 +1,8 @@
 ---
 title: "Timeline of Modern Theonomy Movement"
 description: "A snapshot of the events of the theonomy and Christian Reconstruction movement from 1947 to 2001."
-date: 2017-08-26
+date: 2018-05-11
+
 draft: false
 short: false
 tags:
