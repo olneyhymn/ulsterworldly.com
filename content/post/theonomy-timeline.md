@@ -36,7 +36,7 @@ In an attempt to better understand the theonomy/Christian Reconstruction movemen
 * __May 19, 1973__: Joe Morecraft received into the Westminster Presbytery, an independent presbytery of former PCUS congregations that would later join the PCA.[^pcahistory]
 * __December 4-7, 1973__: First general assembly of the PCA.[^firstga]
 * __1974__: Rushdoony received by the Anglican Church of America.[^opc-directory]
-* __July 20, 1975__: Bahnsen ordained by Presbytery of Southern California of the OPC (OPC Ministerial Directory) after 2 years of working towards it.[^christian-reconstruction]
+* __July 20, 1975__: Bahnsen ordained by Presbytery of Southern California of the OPC (OPC Ministerial Directory) after receiving some resistance.[^christian-reconstruction]
 * __1975__: Gary North starts Institute for Christian Economics.
 [^christian-reconstruction]
 * __1976__: Twenty-eight year old Greg Bahnsen joins faculty at RTS Jackson while working on his PhD. Students over the next three years include James Jordan, Gary Demar, and Kenneth Gentry.[^76]
