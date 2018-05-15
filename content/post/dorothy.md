@@ -14,10 +14,8 @@ images:
 slug: "ditty-to-dot"
 ---
 
-_When my grandparents retired as Presbyterian missionaries to Korea in 1986, their fellow missionaries in Chonju, Korea threw a "Hopper Celebration" at the Christian Medical Research Center. Merrill Grubbs and Marylyn Decamp sang this "Ditty to Dot" while Alma Grubbs played the organ._
+_When my grandparents, Joe and Dot Hopper, retired as Presbyterian missionaries to Korea in 1986, their fellow missionaries in Chonju, Korea threw a "Hopper Celebration" at the Christian Medical Research Center. Merrill Grubbs and Marylyn Decamp sang this "Ditty to [Dot](https://ulsterworldly.com/people/dot-hopper)" while Alma Grubbs played the organ._
 
-### DITTY TO DOT
-​
 We sing of our neighbor, co-worker and friend,<br />
 Whose work for her Master has known no end.<br />
 Orphans, and mish kids, and prisoners grim<br />
