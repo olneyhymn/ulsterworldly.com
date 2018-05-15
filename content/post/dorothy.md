@@ -20,7 +20,7 @@ We sing of our neighbor, co-worker and friend,<br />
 Whose work for her Master has known no end.<br />
 Orphans, and mish kids, and prisoners grim<br />
 Give thanks for this friend who cares so for them.<br />
-Dor-o-thy...Dor-o-thy...​<br />
+Dor-o-thy...Dor-o-thy...<br />
 
 Tho' memories of Congo, her home, beckoned warm,<br />
 A mish-kid type preacher with persuasive charm <br />
@@ -64,7 +64,7 @@ And for special occasions wrote poems and rhymes.<br />
 Dor-o-thy... Dor-o-thy...<br />
 And for special occasions wrote poems and rhymes.<br />
 
-From Dragon's Head Ridge to [Montreat]()https://en.wikipedia.org/wiki/Montreat,_North_Carolina's mountains blue<br />
+From Dragon's Head Ridge to [Montreat](https://en.wikipedia.org/wiki/Montreat,_North_Carolina)'s mountains blue<br />
 Now goes our dear Dorothy and Bishop Joe, too.<br />
 Tho' those of us here'll be bereft of her charms,<br />
 Her gran'chillun will welcome her with wide open arms.<br />
