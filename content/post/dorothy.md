@@ -48,7 +48,7 @@ Her legacy to them, tho' much else they forgot.<br />
 Oh, many's the floor upon which she has sot,<br />
 In churches, and manses, some cold and some hot.<br />
 She's counseled young wives, and taught their young,<br />
-And told countless ajumas of Jesus, God's Son.<br />
+And told countless ajumas[^ajumas] of Jesus, God's Son.<br />
 Dor-o-thy...Dor-o-thy...<br />
 And told countless ajumas of Jesus, God's Son.<br />
 
@@ -66,11 +66,12 @@ And for special occasions wrote poems and rhymes.<br />
 Dor-o-thy... Dor-o-thy...<br />
 And for special occasions wrote poems and rhymes.<br />
 
-From Dragon's Head Ridge to Montreat's mountains blue<br />
+From Dragon's Head Ridge to [Montreat]()https://en.wikipedia.org/wiki/Montreat,_North_Carolina's mountains blue<br />
 Now goes our dear Dorothy and Bishop Joe, too.<br />
 Tho' those of us here'll be bereft of her charms,<br />
 Her gran'chillun will welcome her with wide open arms.<br />
 Dor-o-thy...Dor-o-thy...<br />
 Her gran'chillun will welcome her with wide open arms.<br />
 
-[^moska]: Moska is Korean for Minister.
+[^moska]: Moska (목사) is Korean for Minister.
+[^ajumas]: Married women (아줌마).
