@@ -1,6 +1,6 @@
 ---
-title: 'Christianity Today Fear of Anti-Ecumenicism'
-description: Listen to Dr. Darryl Hart's lectures on J. Gresham Machen and the founding of the Orthodox Presbyterian Church.
+title: 'Carl Henry's Fear of Anti-Ecumenicism'
+description: Why Henry wanted writers from mainline denominations for Christianity Today.
 date: "2018-06-04"
 draft: false
 short: true
