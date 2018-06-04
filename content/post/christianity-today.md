@@ -1,5 +1,5 @@
 ---
-title: 'Carl Henry's Fear of Anti-Ecumenicism'
+title: "Carl Henry's Fear of Anti-Ecumenicism"
 description: Why Henry wanted writers from mainline denominations for Christianity Today.
 date: "2018-06-04"
 draft: false
