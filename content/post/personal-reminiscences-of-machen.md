@@ -17,6 +17,7 @@ people:
  - John M. L. Young
  - Harold S. Laird
  - Lewis J. Grotenhuis
+ - Ned B. Stonehouse
 tags:
  - Presbyterian Journal
  - OPC
