@@ -8,6 +8,8 @@ draft = false
 images = ["/images/mooresville-arp.jpg"]
 +++
 
+![Mooresville ARP](/images/mooresville-arp.jpg)
+
 Presbyterianism in America comes from two primary strains. The American tradition starting with the independent Presbytery of Philadelphia in 1706 (a tradition continued today by the PCUSA, PCA, EPC, and OPC) and the Scottish tradition, with connections to Seceder and Covenanter Scottish churches, starting in various forms throughout the 18th century. The Scottish tradition remains today in the [Reformed Presbyterian Church of North America](https://en.wikipedia.org/wiki/Reformed_Presbyterian_Church_of_North_America) and the Associate Reformed Presbyterian Church (ARP); of the two, the RPCNA has the most similarity to the Scottish Presbyterian form of worship and covenanting principles.
 
 However, the history of Scottish Presbyterianism in America is more complex than these two denominations. The modern PCUSA and PCA merged, at some point, with significant portions of the Scottish denominations. The RPCNA and ARP have rich and tangled histories that lead to the denominations we have today.
@@ -18,7 +20,7 @@ The first the Reformed Presbytery was started by [Scottish Covenanters](https://
 
 In 1798, a remnant of the Covenanters re-organized their presbytery and in 1809 formed a Synod.
 
-In 1833, the Reformed Presbyterian Church split into [“New Light” and “Old Light”](https://en.wikipedia.org/wiki/Old_and_New_Light) synods. The “New Light” [Reformed Presbyterian Church, General Synod](https://en.wikipedia.org/wiki/Reformed_Presbyterian_Church,_General_Synod) was more open to voting and holding public office (despite the USA not recognizing the kingship of Jesus). In 1965, they would merge with the Evangelical Presbyterian Church (the renamed Bible Presbyterian Church—Columbus Synod) to form the [RPCES](https://en.wikipedia.org/wiki/Reformed_Presbyterian_Church,_Evangelical_Synod); the RPCES was, in turn, received into the [PCA](https://en.wikipedia.org/wiki/Presbyterian_Church_in_America in 1982.
+In 1833, the Reformed Presbyterian Church split into [“New Light” and “Old Light”](https://en.wikipedia.org/wiki/Old_and_New_Light) synods. The “New Light” [Reformed Presbyterian Church, General Synod](https://en.wikipedia.org/wiki/Reformed_Presbyterian_Church,_General_Synod) was more open to voting and holding public office (despite the USA not recognizing the kingship of Jesus). In 1965, they would merge with the Evangelical Presbyterian Church (the renamed Bible Presbyterian Church—Columbus Synod) to form the [RPCES](https://en.wikipedia.org/wiki/Reformed_Presbyterian_Church,_Evangelical_Synod); the RPCES was, in turn, received into the [PCA](https://en.wikipedia.org/wiki/Presbyterian_Church_in_America) in 1982.
 
 The Old Light Synod would become what is now the [Reformed Presbyterian Church of North America](https://en.wikipedia.org/wiki/Reformed_Presbyterian_Church_of_North_America).
 
