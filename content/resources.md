@@ -51,4 +51,4 @@ A website to follow Dr. Joseph Pipa's [Calendar of Readings in the Westminster S
 
 #### [<i class="fa fa-external-link" aria-hidden="true"></i>  Waiting Tables podcast](http://waiting-tables.com)
 
-A biweekly look into the behind-the-scenes of the life and operation of a church. Waiting Tables exists to help ease logistical hurdles to free your church to focus on its mission.
+A podcast about the behind-the-scenes of the life and operation of a church. Waiting Tables exists to help ease logistical hurdles to free your church to focus on its mission.
