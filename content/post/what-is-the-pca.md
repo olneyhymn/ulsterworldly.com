@@ -1,7 +1,6 @@
 +++
 title = "The Big Tent of the PCA"
 date = 2018-06-22
-images = ["/2016/10/image.jpg"]
 description = "Excerpt from the report from the outgoing moderator at the 7th General Assembly of the PCA."
 tags = ["PCA"]
 people = ["Aiken Taylor"]
