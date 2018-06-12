@@ -1,7 +1,7 @@
 +++
 title = "Scottish Churches in America"
 date = 2018-06-27
-description = "Brief Timeline of the Scottish Presbyterian Churches in America"
+description = "Brief Timeline of the Scottish Presbyterian Churches in America."
 tags = ["RPCNA", "PCUSA", "PCA", "ARP"]
 slug = "scottish-churches-in-america"
 draft = false
