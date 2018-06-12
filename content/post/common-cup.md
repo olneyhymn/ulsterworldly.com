@@ -37,4 +37,4 @@ This ad was found in Volume XII, Issue 12 in the year 1922.
 >
 > NOTE--In many States the law now forbids the use of the single cup at the communion service. It should not be necessary to await this in your own locality. The old style is unclean and unsanitary. Many thoroughly good Christians have refrained from partaking of communion for this very reason. If you have not yet adopted the modern, sanitary communion cup, let this be one of your first forward steps in 1922.
 
-![](/images/common-cup-large.png)
+[![](/images/common-cup-small.png)](/images/common-cup-large.png)
