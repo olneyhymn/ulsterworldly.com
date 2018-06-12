@@ -11,9 +11,9 @@ images:
  - /images/common-cup-small.png
 ---
 
-_The Missionary Survey_ was published by the PCUS (Southern Presbyterian) Committee of Publication.
+_The Missionary Survey_ was published by the PCUS (Southern Presbyterian) Committee of Publication. This ad ran in Volume XII, Issue 12 published in December of 1922.
 
-This ad was found in Volume XII, Issue 12 in the year 1922.
+[![](/images/common-cup-small.png)](/images/common-cup-large.png)
 
 > ## Cleanliness Linked With Godliness
 >
@@ -36,5 +36,3 @@ This ad was found in Volume XII, Issue 12 in the year 1922.
 > Send for free descriptive booklet with catalogue and prices.
 >
 > NOTE--In many States the law now forbids the use of the single cup at the communion service. It should not be necessary to await this in your own locality. The old style is unclean and unsanitary. Many thoroughly good Christians have refrained from partaking of communion for this very reason. If you have not yet adopted the modern, sanitary communion cup, let this be one of your first forward steps in 1922.
-
-[![](/images/common-cup-small.png)](/images/common-cup-large.png)
