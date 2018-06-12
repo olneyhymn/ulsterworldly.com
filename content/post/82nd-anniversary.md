@@ -1,4 +1,4 @@
-+++
+---
 title: "82nd Anniversary of the OPC"
 description: Resources for learning about the history of the Orthodox Presbyterian Church.
 date: 2018-06-21
@@ -14,7 +14,7 @@ tags:
   - OPC
 images:
  - /images/first-ga.png
-+++
+---
 
 ![Minutes of the First General Assembly of the OPC](/images/first-ga.png)
 
