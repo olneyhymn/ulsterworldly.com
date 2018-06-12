@@ -5,11 +5,11 @@
   <header>
     <h3 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h3>
   </header>
-  {{ with .Params.images }}
+  {{ if .Params.images}}{{ with (index .Params.images 0) }}
   <figure class="figure mb-0">
-    <a href="{{ $link }}"><img src="{{ index . 0 }}" class="figure-img img-fluid rounded" alt="{{ $description }}"></a>
+    <a href="{{ $link }}"><img src="{{ . }}" class="figure-img img-fluid rounded" alt="{{ $description }}"></a>
   </figure>
-  {{ end }}
+  {{ end }}{{ end }}
   <p class="blog-post-description mb-0">{{ .Params.description }} &ensp; <span class="read-more"><a href='{{ .Permalink }}'>Read More<i class="fa fa-fw fa-long-arrow-right"></i> </a></span></p>
 
   <footer>
