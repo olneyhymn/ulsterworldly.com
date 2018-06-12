@@ -7,7 +7,7 @@
   </header>
   {{ with .Params.images }}
   <figure class="figure mb-0">
-    <a href="{{ $link }}"><img src="{{ index . 0 }}" class="figure-img img-fluid rounded" alt="$description"></a>
+    <a href="{{ $link }}"><img src="{{ index . 0 }}" class="figure-img img-fluid rounded" alt="{{ $description }}"></a>
   </figure>
   {{ end }}
   <p class="blog-post-description mb-0">{{ .Params.description }} &ensp; <span class="read-more"><a href='{{ .Permalink }}'>Read More<i class="fa fa-fw fa-long-arrow-right"></i> </a></span></p>
