@@ -12,10 +12,28 @@ images:
  - /images/rock-hill.png
 ---
 
+
 _The modern Associate Reformed Presbyterian Church [was formed](https://ulsterworldly.com/post/scottish-churches-in-america/) in 1903. In their centenial year, the Synod published a [history of the denomination](https://books.google.com/books?id=eco5AQAAMAAJ). Included in this volume is sketches of each of the congregations of the ARP. I have copied here the descriptions of the churches of York County, S.C._
 
 <div class="map-responsive">
 <iframe src="https://www.google.com/maps/d/embed?mid=1Vp0fJbd4qp1Mkrq0zGB7bQ9DJS6fpUGd" width="530" height="400"></iframe></div>
+
+<!-- TOC -->
+
+- [Bethany](#bethany)
+- [Carmel](#carmel)
+- [Clover](#clover)
+- [Ebenezer](#ebenezer)
+- [Hickory Grove](#hickory-grove)
+- [Neely’s Creek](#neelys-creek)
+- [Olivet](#olivet)
+- [Rock Hill](#rock-hill)
+- [Sharon](#sharon)
+- [Smyrna](#smyrna)
+- [Tizrah](#tizrah)
+- [York](#york)
+
+<!-- /TOC -->
 
 
 ## Bethany
