@@ -7,6 +7,7 @@ people:
   - Ebenezer Hunter
 tags:
   - ARP
+  - Sharon ARP
 slug: "uncle-ebenezer-hunter"
 ---
 

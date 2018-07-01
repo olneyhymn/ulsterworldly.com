@@ -8,6 +8,7 @@ slug: york-co-1903
 tags:
  - South Carolina
  - ARP
+ - Sharon ARP
 images:
  - /images/rock-hill.png
 ---
