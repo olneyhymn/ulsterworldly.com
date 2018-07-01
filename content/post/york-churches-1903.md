@@ -130,7 +130,9 @@ It was formally organized in 1843, by Rev. R. C. Grier
 
 In the same year it united with [Sharon](#sharon) and [Olivet](#olivet), in a call to Rev. R. A. Ross, and he was installed in Dec., 1843. In 1852, Dr. Ross resigned, and soon after Smyrna united with Sardis, in Union Co., in a call to Rev. J. R. Castles, and he was installed in 1854. During the pastorate of Mr. Castles, a larger and more substantial building was erected. Mr. Castles demitted his charge in 1862, on account of ill health, demitted this charge in 1868, and removed to Arkansas by Revs. Robt. Lathan and R. A. Ross.
 
-In 1863, Rev. Monroe Oates was installed, and deFrom 1868 to 1871, the church was supplied chiefly.
+In 1863, Rev. Monroe Oates was installed, and demitted this charge in 1868, and removed to Arkansas.
+
+From 1868 to 1871, the church was supplied chiefly by Rev. Robt. Lathan and R. A. Ross.
 
 In 1871, Rev. R. A. Ross was installed for half his time, and continued pastor until the latter part of 1890 or early part of 1891, when on account of age and infirmity, he resigned.
 
