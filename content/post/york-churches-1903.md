@@ -112,7 +112,7 @@ In 1826 it united with Tirzah and [Carmel](#carmel) in a call to Rev. Wm. M. McE
 
 During the latter part of his pastorate the church was much vexed and torn by the controversy on slavery and Free Masonry, and Mr. McElwee, feeling that his ministry here was unfruitful, demitted his charges and removed to Pennsylvania, and became a minister of the U. P. Church, where he died a few years ago.
 
-About 1835 Sharon was again organized into an A R. Church, tradition says by Rev. Thos. Ketchin, who had recentlv come over from the Associate Church. The church was supplied with preaching by various ministers until Rev. R. A. Ross was called by Sharon, in connection with [Smyrna](#smyrna) and Olivet, both in York Co. He was ordained and installed in Dec., 1843, and continued pastor until 1893. This was a long and remarkable pastorate of fifty years.
+About 1835 Sharon was again organized into an A R. Church, tradition says by Rev. Thos. Ketchin, who had recentlv come over from the Associate Church. The church was supplied with preaching by various ministers until Rev. R. A. Ross was called by Sharon, in connection with [Smyrna](#smyrna) and [Olivet](#olivet), both in York Co. He was ordained and installed in Dec., 1843, and continued pastor until 1893. This was a long and remarkable pastorate of fifty years.
 
 The Synod met with this church in Oct., 1893, and joined with the congregation in celebrating with appropriate exercises the semi-centennial of this long and useful pastorate. Dr. Ross was too feeble to attend these exercises, and died shortly after, on Nov. 25th, 1893.
 
@@ -122,7 +122,7 @@ The congregation was vacant until 1896, being supplied principally by Revs. W. S
 
 About the year 1832, William McGill, Esq., removed from Crowder’s Creek, York Co., to King’s Creek, York Co. About the same time three brothers, by the name of Black, moved into the same neighborhood from Diamond Hill, Abbeville Co.
 
-Mr. McGill had been a member of the Associate Church of [Bethany](#bethany), S. C., and the Blacks of the Associate Reformed Church at Diamond Hill, and they agreed to join forces and procure some preaching. At the request of these men, Rev. Thos. Ketchin preached at the home of Mr. McGill some time in the year 1834. This was the first movement toward the organization of a church. Soon afterwards, seven families living in the northern outskirts of[Sharon](#sharon) congregation, united with Mr. McGill and the Blacks, and built a stand near where the present church stands, probably in 1834, and there preaching was held.
+Mr. McGill had been a member of the Associate Church of [Bethany](#bethany), S. C., and the Blacks of the Associate Reformed Church at Diamond Hill, and they agreed to join forces and procure some preaching. At the request of these men, Rev. Thos. Ketchin preached at the home of Mr. McGill some time in the year 1834. This was the first movement toward the organization of a church. Soon afterwards, seven families living in the northern outskirts of [Sharon](#sharon) congregation, united with Mr. McGill and the Blacks, and built a stand near where the present church stands, probably in 1834, and there preaching was held.
 
 In the year 1835, Mr. John Darwin, a generous member of the Presbyterian church, donated the land orn which the present church now stands, and a small build ing was erected. During the early years of this church it was supplied with preaching by Revs. Thos Ketchin Eleazer Harris, John and David Pressly, Joseph McCreary, L. C. Martin, R. C. Grier and J. H. Boyce.
 
