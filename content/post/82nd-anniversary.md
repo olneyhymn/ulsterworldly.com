@@ -16,7 +16,8 @@ images:
  - /images/first-ga.png
 ---
 
-![Minutes of the First General Assembly of the OPC](/images/first-ga.png)
+{{< figure src="/images/first-ga.png" title="Minutes of the First General Assembly of the OPC" caption="Minutes of the First General Assembly of the OPC" >}}
+
 
 On June 11, the [Orthodox Presbyterian Church](http://www.opc.org) turned 82. On that day, the [Presbyterian Constitutional Covenant Union](http://www.thisday.pcahistory.org/2013/06/june-27-the-presbyterian-constitutional-covenant-union/), which had been formed the year before by a small group of PCUSA members who desired a biblically reformed church, met for the last time.[^pccu]
 
