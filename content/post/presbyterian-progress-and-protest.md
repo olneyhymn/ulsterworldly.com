@@ -20,9 +20,4 @@ He spoke at a WTS chapel last fall on "Presbyterian Progress & Protest in the La
 
 The talk is worth your time.
 
-<div class="embed-responsive embed-responsive-16by9">
-
-<iframe src="https://player.vimeo.com/video/235953316?byline=0&portrait=0" width="640" height="338" frameborder="0" class="embed-responsive-item" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-<p><a href="https://vimeo.com/235953316">Presbyterian Progress &amp; Protest in the Late 19th and Early 20th Centuries</a> from <a href="https://vimeo.com/westminsterts">Westminster Theological Seminary</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+{{< vimeo 235953316>}}
