@@ -12,6 +12,8 @@ tags:
  - South Carolina
  - Family
  - ARP
+ - Rock Hill Hardware Company
+ - Barron Family
 images:
     - /images/aa-barron-obit.png
 ---
@@ -26,7 +28,7 @@ The sympathy of the entire community goes out to the sorrowing ones in their aff
 
 Alexander A. Barron was born in the Clay Hill section of York county, May 26, 1851, and was at the time of his death about 58 years old. He was the son of James Leroy Barron and Amanda (Barnett) Barron, and, until his removal to Ebenezer, lived all his life in his native section - Clay Hill. Mr. Barron has for years been one of the most successful planters in his vicinity and until two years ago, was actively engaged in operating his large farm at Ebenezer.
 
-Several years ago he and two of his sons, Messrs. R. E. and W. L. Barron, organized the Rock HIll Hardware Company, of this city, of which he was president at the time of his death.
+Several years ago he and two of his sons, Messrs. R. E. and W. L. Barron, organized the Rock Hill Hardware Company, of this city, of which he was president at the time of his death.[^hardware]
 
 About thirty years ago, he was happily married to Miss Mary Robert Partlow, of Wright's Ferry. To them were born eight children, all of whom are living, as follows: W. L., R. E., Dr. Archibald, John and Earl, Mrs. E. B. Hunter, of Arkansas, Misses Lottie and Anice [Annis].  These, with a loving wife are left to mourn his loss.
 
@@ -39,3 +41,5 @@ Active—T. L. Johnston, John A. Black, R. T. Fewell, Alex. B. Fewell, J. H. Mil
 Honorary—W. H. Mitchell, John White, Dr. J. R. Miller, R. T. Wright, J. H. B. Jenkins.
 
 In the death of Mr. Barron Rock Hill and this community has lost one of its best citizens, the Associate Reformed Church a most loyal member and officer, and The Record one of its staunchest friends.
+
+[^hardware]: Per the [Winthrop University Library](https://digitalcommons.winthrop.edu/manuscriptcollection_findingaids/287/), "The Rock Hill Hardware Company was organized on June 4, 1893 by A.R. Smith and John Gelzer, A.A. Barron and his sons R.E. and W.L. bought Smith out in 1896 and by 1907 had acquired the whole firm. The Barron family owned and operated it until it closed in 1978."

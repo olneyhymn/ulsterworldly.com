@@ -14,6 +14,7 @@ tags:
  - Korea
  - PCUS
  - Korea
+ - Barron Family
  - Family
 images:
  - /images/taiku-womens-bible-class.jpg

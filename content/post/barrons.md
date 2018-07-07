@@ -15,6 +15,7 @@ tags:
  - South Carolina
  - Family
  - ARP
+ - Barron Family
 images:
  - /images/first-general-assembly.png
 ---

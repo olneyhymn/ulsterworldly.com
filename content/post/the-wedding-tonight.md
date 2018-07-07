@@ -14,6 +14,7 @@ tags:
  - Kentucky
  - PCUS
  - Family
+ - Barron Family
  - ARP
 images:
     - /images/the-marriage-tonight.png
