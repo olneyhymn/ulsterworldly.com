@@ -32,7 +32,7 @@ My grandfather, Joe B. Hopper, became a missionary to Korea in 1948. He wrote:
 
 Elsewhere he wrote of the great love of the lepers for the Word of God:
 
-> In Korea it has "been my privilege to help start churches in about a half dozen villages where all the people have the dread disease of leprosy. Because few others dare help them or love them, the appreciation and response of these lepers is beyond description. A couple of years ago, while visiting one such colony, a blind leper besought me: "Cho Moksa, hear my petition. Get me some Braille scriptures so I can learn to read the Word of God."
+> In Korea it has been my privilege to help start churches in about a half dozen villages where all the people have the dread disease of leprosy. Because few others dare help them or love them, the appreciation and response of these lepers is beyond description. A couple of years ago, while visiting one such colony, a blind leper besought me: "Cho Moksa, hear my petition. Get me some Braille scriptures so I can learn to read the Word of God."
 >
 > The Bible Society supplied the Braille Scriptures in Korean. We were able to get a young student in a school for the blind about 15 miles away to come and spend his summer vacation teaching Braille to the blind leper. Now that blind leper can read the Bible, and then in turn is teaching other blind lepers whose fingers are in such condition that they can learn to read. Isn’t this a case of "the blind leading the blind?"
 >
