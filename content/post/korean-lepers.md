@@ -14,13 +14,13 @@ tags:
 My Hopper great grandparents became missionaries in Korea in 1920. Joseph Hopper's first sermon preached in Korea was to a congregation of 250 in a leper colony:
 
 > As the service began, a strange and wonderful feeling came over me. I had never seen that many people at a preparatory communion service before—and they were Korean lepers! What an inspiration to hear them sing.
-
+> 
 > O, for a thousand tongues to sing,<br>
 > My great Redeemer's praise,<br>
 > The glories of my Lord and King,<br>
 > The triumphs of his grace.
-
-The words were foreign to me, but not the tune, nor the spirit in which they sang it.
+> 
+> The words were foreign to me, but not the tune, nor the spirit in which they sang it.
 
 My grandfather, Joe B. Hopper, became a missionary to Korea in 1948. He wrote:
 
