@@ -122,5 +122,13 @@ by Ezra Hall Gillett (1823-1875)</span>
 * [archive.org](https://archive.org/details/southernpresbyte00whit)
 * [Google Books](https://books.google.com/books?id=Sb44AAAAMAAJ)
 
+<span class="lead"><i class="fa fa-book text-warning" aria-hidden="true"></i> _A History of the Reformed Presbyterian Church_ by Nancy Elizabeth Clark (pub. 1966)
+
+* [logcollegepress.com](https://www.logcollegepress.com/dissertations-and-theses)
+
+<span class="lead"><i class="fa fa-book text-warning" aria-hidden="true"></i> _Benjamin Morgan Palmer: Southern Presbyterian Divine_ by Christopher M. Duncnan (pub. 1988)
+
+* [logcollegepress.com](https://www.logcollegepress.com/dissertations-and-theses)
+
 
 If you know of other good volumes, please leave a comment below.

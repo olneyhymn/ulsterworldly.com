@@ -11,6 +11,7 @@ people:
  - John Newton
  - J. Gresham Machen
  - Tim Challies
+ - Ned B. Stonehouse
  - Stuart Robinson
 tags:
  - Westminster Shorter Catechism

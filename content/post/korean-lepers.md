@@ -44,4 +44,4 @@ Elsewhere he wrote of the great love of the lepers for the Word of God:
 >
 > "We have memorized all of the book of Revelation, all of one of the Gospels, all of the johannine letters, and the Shorter Catechisms."
 >
-> These people have learned the word of God not only for their own spiritual nourishment but so they may share it with others.>
+> These people have learned the word of God not only for their own spiritual nourishment but so they may share it with others.

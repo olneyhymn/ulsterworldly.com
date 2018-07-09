@@ -12,7 +12,7 @@ tags:
  - Dunlap Family
  - Family
 images:
- - images/george-d-hopper-grave.jpg
+ - /images/george-d-hopper-grave.jpg
 sources:
  - http://www.mydunlap.net/Major%20William%20Dunlap.html
 ---

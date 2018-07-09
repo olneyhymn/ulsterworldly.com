@@ -15,8 +15,9 @@ tags:
  - South Carolina
  - Family
  - ARP
+ - Barron Family
 images:
- - images/first-general-assembly.png
+ - /images/first-general-assembly.png
 ---
 
 The great Scottish reformer [John Knox](https://en.wikipedia.org/wiki/John_Knox "John Knox - Wikipedia") was born in 1514, three years before [Martin Luther](https://en.wikipedia.org/wiki/Martin_Luther "Martin Luther - Wikipedia") would publish his [Ninety Five Theses](https://en.wikipedia.org/wiki/Ninety-five_Theses "Martin Luther's 95 Theses"), in [Haddington](https://en.wikipedia.org/wiki/Haddington,_East_Lothian "Haddington, East Lothian - Wikipedia"). After being ordained a Roman Catholic priest, he embraced the reforms of protestantism and became a minister in 1546.

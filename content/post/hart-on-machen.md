@@ -12,7 +12,7 @@ tags:
   - OPC
 slug: "hart-on-machen"
 images:
- - images/true-presbyterian-at-last.png
+ - /images/true-presbyterian-at-last.png
 ---
 
 In 2010, Dr. Darryl Hart (OPC assistant historian and Machen scholar) taught a Sunday school series at Glenside Presbyterian Church on J. Gresham Machen about J. Gresham Machen and the founding of the Orthodox Presbyterian Church. Camden Bucey of the [Reformed Forum](http://reformedforum.org) kindly recorded the whole series for posterity.[^recordquality]

@@ -11,8 +11,8 @@ tags:
 source:
   - The Presbyterian Guardian
 images:
-  - images/true-presbyterian-at-last.png
-  - images/pres-guardian-1936-06-22.png
+  - /images/true-presbyterian-at-last.png
+  - /images/pres-guardian-1936-06-22.png
 slug: "a-true-presbyterian-church-at-last"
 ---
 

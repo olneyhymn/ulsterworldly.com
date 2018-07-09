@@ -1,3 +1,5 @@
+{{ define "title" }}{{ .Params.name | markdownify }} | {{ .Site.Title }}{{ end }}
+
 {{ define "schema-dot-org" }}
   {{ partial "schemadotorg.html" . }}
 {{ end }}

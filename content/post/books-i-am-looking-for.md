@@ -4,7 +4,7 @@ description: "Can you help me find these out of print books?"
 date: 2017-08-26
 short: true
 draft: false
-slug: scottish-barrons
+slug: books
 tags:
  - Kentucky
  - South Carolina
