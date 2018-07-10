@@ -6,11 +6,11 @@
 
 {{ define "main" }}
 
-<h1>{{ .Params.name }} {{ with .Params.years }}({{ . }}){{ end }}</h1>
+<h1>{{ .Params.name }}</h1>
 
 {{ .Content }}
 
-<h2> More Posts{{ with .Params.name }} About {{ . }}{{ end }}</h2>
+<h2> More Posts {{ with .Params.name }}About {{ . }}{{ end }}</h2>
 
 {{ range .Data.Pages }}
 <div class="mb-4">
