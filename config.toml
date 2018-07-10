@@ -8,6 +8,7 @@ Paginate = 50
 [taxonomies]
   tag = "tags"
   people = "people"
+  church = "churches"
 
 [[menu.dropdown]]
     name = "Westminster Daily"
