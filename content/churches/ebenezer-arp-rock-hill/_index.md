@@ -24,3 +24,5 @@ From the 1903 [Centenial History of the ARP](https://books.google.com/books?id=e
 > Rev. William Blackstocks was installed May 8th, 1794, in connection with [Neely’s Creek](/posts/york-co-1903/#neely-s-creek), and demitted [sic] his charge in 1804. The records also show that he was again pastor from 1811 until July 12th, 1815. On April 3rd, 1820, Rev. Eleazer Harris was appointed stated supply at [Neely’s Creek](/posts/york-co-1903/#neely-s-creek) and Ebenezer, and must have continued to supply the church for a good many years Mr. Harris conducted a very successful High School at Ebenezer, which was largely patronized.
 > 
 > This church appears on the minutes in 1822, as having twenty families and thirty-two members, and the record says it was disorganized about 1828.
+
+[The church published a history](https://www.worldcat.org/title/history-of-ebenezer-presbyterian-church-including-a-history-of-ebenezer-academy-and-the-town-of-ebenezer/oclc/16438663&referer=brief_results) some years ago.

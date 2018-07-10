@@ -36,3 +36,5 @@ From the 1903 [Centenial History of the ARP](https://books.google.com/books?id=e
 > They were succeeded by Thomas Wylie, John Campbell, William Campbell and Jackson Spencer. Since the organization in 1847 the following persons have been inducted into the office of ruling elders in Neely’s Creek congregation: In 1847, Thos. Boyd, John Roddy, William Wylie and Samuel Wylie. In 1849, A. Templeton Black, David Roddy and Jonathan McFadden. In 1857, Matthew S. Lynn. In 1861, David C. Roddy. In 1868, D. T. Leslie and John T. Boyd. In 1874, J. R. Patton, W. W. White and A. J. Walker.
 >
 > The following constitute the eldership at the writing, 1903: Rev. Oliver Johnson, pastor. Elders, D. T. Leslie, W. White, A. J. Walker, J. T. Ferguson, T. M. Allen, W. S. Leslie, G. A. Gettys, W. S. Boyd, D. F. Leslie.
+
+In 1987, the church published [a volume on its history](http://pailssc.org/search~S5?/Xhistory+associate+reformed&SORT=D&searchscope=5/Xhistory+associate+reformed&SORT=D&searchscope=5&SUBKEY=history+associate+reformed/1%2C187%2C187%2CB/frameset&FF=Xhistory+associate+reformed&SORT=D&searchscope=5&24%2C24%2C).

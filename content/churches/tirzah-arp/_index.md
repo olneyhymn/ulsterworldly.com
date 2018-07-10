@@ -43,5 +43,7 @@ From the 1903 [Centenial History of the ARP](https://books.google.com/books?id=e
 > Rev. Laughlin McDonald was pastor from Dec., 1839, until Oct., 1851. Rev. S. C. Millen was pastor from 1852 until 1855. In 1857, the church was moved to a more central location, two miles north of where it stood, and was located where the present church now stands.
 > 
 > In 1859, Rev. Robert Lathan, D. D., was installed over Tirzah and [Yorkville](/posts/york-co-1903/#york), and continued until 1884, when he was called to a chair in Erskine Seminary. Rev. J. C. Galloway, D. D., was installed in 1884, and demitted [sic] his charge in 1893. Rev. B. H. Grier was installed in 1894, and resigned in 1901.
+> 
+> A few years ago, a beautiful and modern church building was erected, which is an ornament to the community. Tirzah, like many of our country congregations, has been very much weakened by the removal of many of its members to the towns and cities, but it is still a hale and vigorous congregation. Since Rev. B. H. Grier left, in 1901, this church has been vacant.
 
-A few years ago, a beautiful and modern church building was erected, which is an ornament to the community. Tirzah, like many of our country congregations, has been very much weakened by the removal of many of its members to the towns and cities, but it is still a hale and vigorous congregation. Since Rev. B. H. Grier left, in 1901, this church has been vacant.
+[The church has published its history in a book.](http://pailssc.org/search~S5/a?searchtype=X&SORT=D&searcharg=tirzah+york#)
