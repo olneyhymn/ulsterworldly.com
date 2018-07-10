@@ -8,7 +8,7 @@
 
 <h1>{{ .Params.title }}</h1>
 
-{{ .Content }}
+{{ .Content | markdownify }}
 
 <h2> More Posts {{ with .Params.title }}About {{ . }}{{ end }}</h2>
 
