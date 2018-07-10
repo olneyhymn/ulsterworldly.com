@@ -10,7 +10,7 @@ tags:
 
 York County, South Carolina sits just to the southwest of Charlotte, North Carolina. The destination of many Scots-Irish immigrants in the late 18th century, York County is the "most presbyterian" county in South Carolina.
 
-York County holds a prominate place in the history of [Scottish presbyterianism](/posts/scottish-churches-in-america/) in the United States and many Associate Reformed Presbyterian Churches remain there today. 
+York County holds a prominate place in the history of [Scottish presbyterianism](/post/scottish-churches-in-america/) in the United States and many Associate Reformed Presbyterian Churches remain there today. 
 
 York County is significant in my own family's presbyterian history as it was the homeplace of my great-grandmother [Annis Barron Hopper](/people/annis-barron-hopper/).
 
