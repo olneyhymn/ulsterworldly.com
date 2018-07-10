@@ -147,7 +147,7 @@ The elders at Smyrna at present are: Thomas McGill, R. M. Plaxco, J. B. Whitesid
 
 ## Tizrah
 
-TSome time previous to 1800, there was a preaching station at Joseph Miller’s, several miles west of where Tirzah church now stands, and there was also an A. R. church at [Ebenezer](#ebenezer). The attempt to introduce Watts Hymns into the [Ebenezer](#ebenezer) church caused trouble, and those members in [Ebenezer](#ebenezer) who would have nothing but the Psalms, united with these Associates who worshipped at Joseph Miller’s, and organized Tirzah congregation, and located it seven miles south east of Yorkville, on the Yorkville and Landsford road.
+Some time previous to 1800, there was a preaching station at Joseph Miller’s, several miles west of where Tirzah church now stands, and there was also an A. R. church at [Ebenezer](#ebenezer). The attempt to introduce Watts Hymns into the [Ebenezer](#ebenezer) church caused trouble, and those members in [Ebenezer](#ebenezer) who would have nothing but the Psalms, united with these Associates who worshipped at Joseph Miller’s, and organized Tirzah congregation, and located it seven miles south east of Yorkville, on the Yorkville and Landsford road.
 
 The organization was effected about 1803. Rev. Peter McMullen is said to have presided at the organization, and the first elders were: Joseph Miller, Thos. Barron, Samuel Barron and Charles McElwain.
 
