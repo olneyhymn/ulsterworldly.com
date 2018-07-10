@@ -1,5 +1,5 @@
 ---
-name: "Olivet Associate Reformed Presbyterian Church"
+title: "Olivet Associate Reformed Presbyterian Church"
 short: true
 people:
  - R.A. Ross

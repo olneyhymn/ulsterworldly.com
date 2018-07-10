@@ -1,5 +1,5 @@
 ---
-name: "Clover Associate Reformed Presbyterian Church"
+title: "Clover Associate Reformed Presbyterian Church"
 short: true
 people:
  - R.M. Stevenson

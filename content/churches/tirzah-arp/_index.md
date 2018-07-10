@@ -1,5 +1,5 @@
 ---
-name: "Tirzah Associate Reformed Presbyterian Church"
+title: "Tirzah Associate Reformed Presbyterian Church"
 short: true
 people:
  - Joseph Miller

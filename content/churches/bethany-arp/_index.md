@@ -1,5 +1,5 @@
 ---
-name: "Sharon Associate Reformed Presbyterian Church"
+title: "Sharon Associate Reformed Presbyterian Church"
 short: true
 people:
  - James Rogers

@@ -1,5 +1,5 @@
 ---
-name: "Ebenezer Associate Reformed Presbyterian Church"
+title: "Ebenezer Associate Reformed Presbyterian Church"
 short: true
 people:
  - William Blackstocks

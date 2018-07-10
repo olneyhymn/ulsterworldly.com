@@ -1,5 +1,5 @@
 ---
-name: "Carmel Associate Reformed Presbyterian Church"
+title: "Carmel Associate Reformed Presbyterian Church"
 short: true
 people:
  - William Dixon

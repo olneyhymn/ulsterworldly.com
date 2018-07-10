@@ -1,5 +1,5 @@
 ---
-name: "First Associate Reformed Presbyterian Church"
+title: "First Associate Reformed Presbyterian Church"
 short: true
 people:
  - A.S. Rogers

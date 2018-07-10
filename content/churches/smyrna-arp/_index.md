@@ -1,5 +1,5 @@
 ---
-name: "Smyrna Associate Reformed Presbyterian Church"
+title: "Smyrna Associate Reformed Presbyterian Church"
 short: true
 people:
  - William McGill

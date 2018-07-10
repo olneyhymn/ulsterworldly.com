@@ -1,5 +1,5 @@
 ---
-name: "@ Associate Reformed Presbyterian Church"
+title: "Hickory Grove Associate Reformed Presbyterian Church"
 short: true
 people:
  - J.C. Galloway

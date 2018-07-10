@@ -1,5 +1,5 @@
 ---
-name: "Neely's Creek Associate Reformed Presbyterian Church"
+title: "Neely's Creek Associate Reformed Presbyterian Church"
 short: true
 people:
  - William Blackstock
