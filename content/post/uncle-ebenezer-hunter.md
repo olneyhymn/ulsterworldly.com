@@ -4,6 +4,7 @@ description: "A tobacco-chewing, southern Presbyterian pastor solves a crime."
 date: "2010-08-21"
 people:
   - Joe B. Hopper
+  - Ola Barron Hunter
   - Ebenezer Hunter
 tags:
   - ARP

@@ -9,6 +9,19 @@ tags:
  - South Carolina
  - ARP
  - Sharon ARP
+churches: 
+ - Bethany ARP
+ - Carmel ARP
+ - Clover ARP
+ - Ebenezer ARP Rock Hill
+ - Hickory Grove ARP
+ - Neely's Creek ARP
+ - Olivet ARP
+ - First ARP Rock Hill
+ - Sharon ARP
+ - Smyrna ARP
+ - Tirzah ARP
+ - First ARP York
 images:
  - /images/rock-hill.png
 ---
@@ -31,7 +44,7 @@ _The modern Associate Reformed Presbyterian Church [was formed](https://ulsterwo
 - [Rock Hill](#rock-hill)
 - [Sharon](#sharon)
 - [Smyrna](#smyrna)
-- [Tizrah](#tizrah)
+- [Tirzah](#tirzah)
 - [York](#york)
 
 <!-- /TOC -->
@@ -47,7 +60,7 @@ Bethany proper was organized at a stand near the place where the present church 
 
 The next pastor of Bethany was Rev. R. C. Grier, D D., who was ordained and installed in June, 1841, and this pleasant and profitable relation continued for seven years. At which time Dr. Grier was called to the Presidency of Erskine College. In 1849 Rev. E. E. Boyce, D D., became pastor and this continued until 1885. During the long pastorate of Dr. Boyce, the church grew and prospered, and continued to be a great force for good in the community.
 
-After Dr. Boyce resigned the church remained vacant for about two years, being regularly supplied with preaching by the Presbytery. In 1887 Rev. R. M. Stevenson, the present pastor, took charge of the church,
+After Dr. Boyce resigned the church remained vacant for about two years, being regularly supplied with preaching by the Presbytery. In 1887 Rev. R. M. Stevenson, the present pastor, took charge of the church.
 
 ## Carmel
 
@@ -63,7 +76,7 @@ Ebenezer Church was situated about three miles west of the present city of Rock 
 
 Dr. Thos. Clark preached there some time as stated supply.
 
-Rev. William Blackstocks was installed May 8th, 1794, in connection with [Neely’s Creek](#neely-s-creek), and demitted [sic] his charge in 1804. The records also show that he was again pastor from 1811 until July 12th, 1815. On April 3rd, 1820, Rev. Eleazer Harris was appointed stated supply at [Neely’s Creek](neely-s-creek) and Ebenezer, and must have continued to supply the church for a good many years Mr. Harris conducted a very successful High School at Ebenezer, which was largely patronized.
+Rev. William Blackstocks was installed May 8th, 1794, in connection with [Neely’s Creek](#neely-s-creek), and demitted [sic] his charge in 1804. The records also show that he was again pastor from 1811 until July 12th, 1815. On April 3rd, 1820, Rev. Eleazer Harris was appointed stated supply at [Neely’s Creek](#neely-s-creek) and Ebenezer, and must have continued to supply the church for a good many years Mr. Harris conducted a very successful High School at Ebenezer, which was largely patronized.
 
 This church appears on the minutes in 1822, as having twenty families and thirty-two members, and the record says it was disorganized about 1828.
 
@@ -113,9 +126,9 @@ In 1826 it united with Tirzah and [Carmel](#carmel) in a call to Rev. Wm. M. McE
 
 During the latter part of his pastorate the church was much vexed and torn by the controversy on slavery and Free Masonry, and Mr. McElwee, feeling that his ministry here was unfruitful, demitted his charges and removed to Pennsylvania, and became a minister of the U. P. Church, where he died a few years ago.
 
-About 1835 Sharon was again organized into an A R. Church, tradition says by Rev. Thos. Ketchin, who had recentlv come over from the Associate Church. The church was supplied with preaching by various ministers until Rev. R. A. Ross was called by Sharon, in connection with [Smyrna](#smyrna) and [Olivet](#olivet), both in York Co. He was ordained and installed in Dec., 1843, and continued pastor until 1893. This was a long and remarkable pastorate of fifty years.
+About 1835 Sharon was again organized into an A R. Church, tradition says by Rev. Thos. Ketchin, who had recently come over from the Associate Church. The church was supplied with preaching by various ministers until Rev. R. A. Ross was called by Sharon, in connection with [Smyrna](#smyrna) and [Olivet](#olivet), both in York Co. He was ordained and installed in Dec., 1843, and continued pastor until 1893. This was a long and remarkable pastorate of fifty years.
 
-The Synod met with this church in Oct., 1893, and joined with the congregation in celebrating with appropriate exercises the semi-centennial of this long and useful pastorate. Dr. Ross was too feeble to attend these exercises, and died shortly after, on Nov. 25th, 1893.
+The Synod met with this church in Oct. 1893, and joined with the congregation in celebrating with appropriate exercises the semi-centennial of this long and useful pastorate. Dr. Ross was too feeble to attend these exercises, and died shortly after, on Nov. 25th, 1893.
 
 The congregation was vacant until 1896, being supplied principally by Revs. W. S. Castles, W. A. M. Plaxco and J. E. Johnson On July 23rd, 1896, Rev. J. S. Grier was installed, and continues pastor at the present time. The session of Sharon, at the present time, consists of Samuel Blair, J. P. Blair, R. A. Gilfillan, W. M. Ross, W. S. Love, R H. G. Caldwell, S. A. Mitchell, J. H. Shever, S. A. Gilfillan, W. A. Maloney and J. L. Rainey.
 
@@ -127,7 +140,7 @@ Mr. McGill had been a member of the Associate Church of [Bethany](#bethany), S. 
 
 In the year 1835, Mr. John Darwin, a generous member of the Presbyterian church, donated the land orn which the present church now stands, and a small build ing was erected. During the early years of this church it was supplied with preaching by Revs. Thos Ketchin Eleazer Harris, John and David Pressly, Joseph McCreary, L. C. Martin, R. C. Grier and J. H. Boyce.
 
-It was formally organized in 1843, by Rev. R. C. Grier
+It was formally organized in 1843, by Rev. R. C. Grier.
 
 In the same year it united with [Sharon](#sharon) and [Olivet](#olivet), in a call to Rev. R. A. Ross, and he was installed in Dec., 1843. In 1852, Dr. Ross resigned, and soon after Smyrna united with Sardis, in Union Co., in a call to Rev. J. R. Castles, and he was installed in 1854. During the pastorate of Mr. Castles, a larger and more substantial building was erected. Mr. Castles demitted his charge in 1862, on account of ill health, demitted this charge in 1868, and removed to Arkansas by Revs. Robt. Lathan and R. A. Ross.
 
@@ -145,14 +158,13 @@ During the lifetime of Smyrna, it has had a steady growth; its members are liber
 
 The elders at Smyrna at present are: Thomas McGill, R. M. Plaxco, J. B. Whitesides, W. M. Whitesides, J. A. McGill, J. E. Castles, and J. W. Quinn.
 
-## Tizrah
+## Tirzah
 
 Some time previous to 1800, there was a preaching station at Joseph Miller’s, several miles west of where Tirzah church now stands, and there was also an A. R. church at [Ebenezer](#ebenezer). The attempt to introduce Watts Hymns into the [Ebenezer](#ebenezer) church caused trouble, and those members in [Ebenezer](#ebenezer) who would have nothing but the Psalms, united with these Associates who worshipped at Joseph Miller’s, and organized Tirzah congregation, and located it seven miles south east of Yorkville, on the Yorkville and Landsford road.
 
 The organization was effected about 1803. Rev. Peter McMullen is said to have presided at the organization, and the first elders were: Joseph Miller, Thos. Barron, Samuel Barron and Charles McElwain.
 
-The first church was built of logs. Revs. Wm. Dixon, Eleazer Harris, John Cree, and Isaac Grier, preached as supplies at Tirzah. In 1827, Rev. Wm. M. McElwee was installed pastor of Tirzah and [Sharon](#sharon)
-, and continued until 1832, when he demitted his charge and went North on account of the slavery question. A new house of worship was erected in 1827.
+The first church was built of logs. Revs. Wm. Dixon, Eleazer Harris, John Cree, and Isaac Grier, preached as supplies at Tirzah. In 1827, Rev. Wm. M. McElwee was installed pastor of Tirzah and [Sharon](#sharon), and continued until 1832, when he demitted his charge and went North on account of the slavery question. A new house of worship was erected in 1827.
 
 Rev. Thos. Ketchin preached there after Mr. McElwee left. It continued to be an Associate Church until 1834, at which time it came into the A. R. Presbytery of thie Carolinas and Georgia.
 
