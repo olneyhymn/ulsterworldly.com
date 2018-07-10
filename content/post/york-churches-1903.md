@@ -82,9 +82,9 @@ This church appears on the minutes in 1822, as having twenty families and thirty
 
 ## Hickory Grove
 
-For many years previous to the organization of a church at this place, there had been occasional preaching by A. R. P. ministers at Unity, an undenominational chapel, one mile west of the place where the A. R. P. church now stands. With the building of a new railroad through York Co., a village sprang up, which was called Hickory Grove, and with the coming of this railroad came the organization of an A. R. P. church, on Dec. 6th, 1888. The church was organized by Rev. J. C. Galloway in the home of Mr. J. N. McDill, with twenty-nine members, all of them having been transferred from [Smyrna](#smyrna). In time a large and handsome church was built. The church was supplied with preaching by Revs. J. H. Peoples, J. B. Cochran and H. R. McAulay. In the fall of 1891, it united with [Smyrna](#smyrna) in a call for the pastoral services of Rev. J. P. Knox, and he was installed in Dec., 1891 continuing pastor until May, 1899. In March, 1900, Rev. J. L. Oates was installed pastor of Hickory Grove and [Smyrna](#smyrna) and still continues as pastor. At this time it has grown to be a large and flourishing congregation.
+For many years previous to the organization of a church at this place, there had been occasional preaching by A. R. P. ministers at Unity, an undenominational chapel, one mile west of the place where the A. R. P. church now stands. With the building of a new railroad through York Co., a village sprang up, which was called Hickory Grove, and with the coming of this railroad came the organization of an A. R. P. church, on Dec. 6th, 1888. The church was organized by Rev. J. C. Galloway in the home of Mr. J. N. McDill, with twenty-nine members, all of them having been transferred from [Smyrna](#smyrna). In time a large and handsome church was built. The church was supplied with preaching by Revs. J. H. Peoples, J. B. Cochran and H. R. McAulay. In the fall of 1891, it united with [Smyrna](#smyrna) in a call for the pastoral services of Rev. J. P. Knox, and he was installed in Dec. 1891 continuing pastor until May, 1899. In March, 1900, Rev. J. L. Oates was installed pastor of Hickory Grove and [Smyrna](#smyrna) and still continues as pastor. At this time it has grown to be a large and flourishing congregation.
 
-Within a year from this The elders of this church are: J. N. McDill, Moses White, J. W. Castles, J. C. Wylie, J. N. McGill and J. R Mitchell.
+Within a year from this the elders of this church are: J. N. McDill, Moses White, J. W. Castles, J. C. Wylie, J. N. McGill and J. R Mitchell.
 
 ## Neely’s Creek
 
@@ -126,7 +126,7 @@ In 1826 it united with Tirzah and [Carmel](#carmel) in a call to Rev. Wm. M. McE
 
 During the latter part of his pastorate the church was much vexed and torn by the controversy on slavery and Free Masonry, and Mr. McElwee, feeling that his ministry here was unfruitful, demitted his charges and removed to Pennsylvania, and became a minister of the U. P. Church, where he died a few years ago.
 
-About 1835 Sharon was again organized into an A R. Church, tradition says by Rev. Thos. Ketchin, who had recently come over from the Associate Church. The church was supplied with preaching by various ministers until Rev. R. A. Ross was called by Sharon, in connection with [Smyrna](#smyrna) and [Olivet](#olivet), both in York Co. He was ordained and installed in Dec., 1843, and continued pastor until 1893. This was a long and remarkable pastorate of fifty years.
+About 1835 Sharon was again organized into an A R. Church, tradition says by Rev. Thos. Ketchin, who had recently come over from the Associate Church. The church was supplied with preaching by various ministers until Rev. R. A. Ross was called by Sharon, in connection with [Smyrna](#smyrna) and [Olivet](#olivet), both in York Co. He was ordained and installed in Dec. 1843, and continued pastor until 1893. This was a long and remarkable pastorate of fifty years.
 
 The Synod met with this church in Oct. 1893, and joined with the congregation in celebrating with appropriate exercises the semi-centennial of this long and useful pastorate. Dr. Ross was too feeble to attend these exercises, and died shortly after, on Nov. 25th, 1893.
 
@@ -138,11 +138,11 @@ About the year 1832, William McGill, Esq., removed from Crowder’s Creek, York 
 
 Mr. McGill had been a member of the Associate Church of [Bethany](#bethany), S. C., and the Blacks of the Associate Reformed Church at Diamond Hill, and they agreed to join forces and procure some preaching. At the request of these men, Rev. Thos. Ketchin preached at the home of Mr. McGill some time in the year 1834. This was the first movement toward the organization of a church. Soon afterwards, seven families living in the northern outskirts of [Sharon](#sharon) congregation, united with Mr. McGill and the Blacks, and built a stand near where the present church stands, probably in 1834, and there preaching was held.
 
-In the year 1835, Mr. John Darwin, a generous member of the Presbyterian church, donated the land orn which the present church now stands, and a small build ing was erected. During the early years of this church it was supplied with preaching by Revs. Thos Ketchin Eleazer Harris, John and David Pressly, Joseph McCreary, L. C. Martin, R. C. Grier and J. H. Boyce.
+In the year 1835, Mr. John Darwin, a generous member of the Presbyterian church, donated the land or which the present church now stands, and a small building was erected. During the early years of this church it was supplied with preaching by Revs. Thos Ketchin, Eleazer Harris, John and David Pressly, Joseph McCreary, L. C. Martin, R. C. Grier and J. H. Boyce.
 
 It was formally organized in 1843, by Rev. R. C. Grier.
 
-In the same year it united with [Sharon](#sharon) and [Olivet](#olivet), in a call to Rev. R. A. Ross, and he was installed in Dec., 1843. In 1852, Dr. Ross resigned, and soon after Smyrna united with Sardis, in Union Co., in a call to Rev. J. R. Castles, and he was installed in 1854. During the pastorate of Mr. Castles, a larger and more substantial building was erected. Mr. Castles demitted his charge in 1862, on account of ill health, demitted this charge in 1868, and removed to Arkansas by Revs. Robt. Lathan and R. A. Ross.
+In the same year it united with [Sharon](#sharon) and [Olivet](#olivet), in a call to Rev. R. A. Ross, and he was installed in Dec. 1843. In 1852, Dr. Ross resigned, and soon after Smyrna united with Sardis, in Union Co., in a call to Rev. J. R. Castles, and he was installed in 1854. During the pastorate of Mr. Castles, a larger and more substantial building was erected. Mr. Castles demitted his charge in 1862, on account of ill health, demitted this charge in 1868, and removed to Arkansas by Revs. Robt. Lathan and R. A. Ross.
 
 In 1863, Rev. Monroe Oates was installed, and demitted this charge in 1868, and removed to Arkansas.
 
@@ -150,9 +150,9 @@ From 1868 to 1871, the church was supplied chiefly by Rev. Robt. Lathan and R. A
 
 In 1871, Rev. R. A. Ross was installed for half his time, and continued pastor until the latter part of 1890 or early part of 1891, when on account of age and infirmity, he resigned.
 
-In 1873, the church was burned by an incendiary, and another church was built on the same site. During the pastorate of Dr. Ross, [Hickory Grove](#hicktory-grove) congregation was organized out of a part of the membership of Smyrna.
+In 1873, the church was burned by an incendiary, and another church was built on the same site. During the pastorate of Dr. Ross, [Hickory Grove](#hickory-grove) congregation was organized out of a part of the membership of Smyrna.
 
-Rev. J. P. Knox was installed pastor of Smyrna and [Hickory Grove](#hicktory-grove) Dec. 3rd, 1891, and continued pastor until May, 1899. Rev. J. L. Oates was installed over the united charge of Smyrna and [Hickory Grove](#hicktory-grove) in March, 1900, and still continues the pastor.
+Rev. J. P. Knox was installed pastor of Smyrna and [Hickory Grove](#hickory-grove) Dec. 3rd, 1891, and continued pastor until May, 1899. Rev. J. L. Oates was installed over the united charge of Smyrna and [Hickory Grove](#hickory-grove) in March, 1900, and still continues the pastor.
 
 During the lifetime of Smyrna, it has had a steady growth; its members are liberal and well grounded in the faith, and while it has lost a great many by removals at various times, yet it still ranks as one of the best country congregations in the Synod.
 
@@ -168,7 +168,7 @@ The first church was built of logs. Revs. Wm. Dixon, Eleazer Harris, John Cree, 
 
 Rev. Thos. Ketchin preached there after Mr. McElwee left. It continued to be an Associate Church until 1834, at which time it came into the A. R. Presbytery of thie Carolinas and Georgia.
 
-Rev. Laughlin McDonald was pastor from Dec., 1839, until Oct., 1851. Rev. S. C. Millen was pastor from 1852 until 1855. In 1857, the church was moved to a more central location, two miles north of where it stood, and was located where the present church now stands.
+Rev. Laughlin McDonald was pastor from Dec. 1839, until Oct., 1851. Rev. S. C. Millen was pastor from 1852 until 1855. In 1857, the church was moved to a more central location, two miles north of where it stood, and was located where the present church now stands.
 
 In 1859, Rev. Robert Lathan, D. D., was installed over Tirzah and [Yorkville](#york), and continued until 1884, when he was called to a chair in Erskine Seminary. Rev. J. C. Galloway, D. D., was installed in 1884, and demitted [sic] his charge in 1893. Rev. B. H. Grier was installed in 1894, and resigned in 1901.
 
