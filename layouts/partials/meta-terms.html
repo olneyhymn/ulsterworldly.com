@@ -8,8 +8,7 @@
 {{ if .Params.churches }}
 <li class="foot">
     <i class="fas fa-church" aria-hidden="true"></i>&nbsp;Tags: {{ range $index, $tag := .Params.churches }}{{ if gt $index 0 }}, {{ end }}
-    <a href="{{ " /tags/
-        " | relLangURL }}{{ . | urlize }}" rel="tag">{{ . }}</a>{{ end }}</li>
+    <a href="{{ "/churches/" | relLangURL }}{{ . | urlize }}" rel="tag">{{ . }}</a>{{ end }}</li>
 {{ end }}
 {{ if .Params.people }}
     <li class="foot"><i class="fa fa-user" aria-hidden="true"></i>&nbsp;Mentions: {{ range $index, $tag := .Params.people }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/people/" | relLangURL }}{{ . | urlize }}" rel="tag">{{ . }}</a>{{ end }}</li>

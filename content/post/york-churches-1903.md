@@ -8,8 +8,7 @@ slug: york-co-1903
 tags:
  - South Carolina
  - ARP
- - Sharon ARP
-churches: 
+churches:
  - Bethany ARP
  - Carmel ARP
  - Clover ARP
@@ -39,7 +38,7 @@ _The modern Associate Reformed Presbyterian Church [was formed](https://ulsterwo
 - [Clover](#clover)
 - [Ebenezer](#ebenezer)
 - [Hickory Grove](#hickory-grove)
-- [Neely’s Creek](#neelys-creek)
+- [Neely’s Creek](#neely%E2%80%99s-creek)
 - [Olivet](#olivet)
 - [Rock Hill](#rock-hill)
 - [Sharon](#sharon)
