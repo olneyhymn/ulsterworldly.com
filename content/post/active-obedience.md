@@ -43,7 +43,7 @@ It is surely surpassingly appropriate that exactly that truth should occupy the 
 Dr. Machen fought the good fight: he finished the course: he kept the faith. As he was about to cross the line into the unseen beyond, no doubt his mind Would fain reiterate to those who remain behind, the charge of Paul to Timothy: "Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all long- suffering and doctrine." (II Tim.4:2). And apparently there was one thing in particular he would have us constantly raise aloft before the eyes of a sin- dead world: It is the perfect obedience and righteousness of Christ, his Saviour and Lord. "I will go in the strength of the Lord God: I will make mention of thy righteousness, even of thine only" (Ps. 71: 16).
 
 
-{{< figure src="/images/telegram.jpg" caption="Conceptualization of Machen's telegram by PCA elder Brad Isbell" >}}
+{{< figure src="/images/telegram.jpg" caption="Conceptualization of Machen's telegram by PCA elder Brad Isbell" link="https://twitter.com/ChortlesWeakly/status/1023002771275034624" >}}
 
 
 [^edwards]: Works. New York, 1881. Vol. IV. p 91.
