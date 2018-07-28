@@ -11,6 +11,8 @@ tags:
  - Theology
  - Presbyterian Guardian
  - OPC
+images:
+ - /images/telegram.jpg
 ---
 
 <em>Dr. J. Gresham Machen died unexpectedly on January 1, 1937, soon after the second General Assembly of the OPC. His final known words were a brief telegram to Professor John Murray. In the [January 23, 1937](https://www.opc.org/cfh/guardian/Volume_3/1937-01-23.pdf) edition of the Presbyterian Guardian, Dr. Machen explained Machen's famous words.</em>
@@ -39,5 +41,9 @@ It is surely surpassingly appropriate that exactly that truth should occupy the 
 ### A Charge to Those Who Follow
 
 Dr. Machen fought the good fight: he finished the course: he kept the faith. As he was about to cross the line into the unseen beyond, no doubt his mind Would fain reiterate to those who remain behind, the charge of Paul to Timothy: "Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all long- suffering and doctrine." (II Tim.4:2). And apparently there was one thing in particular he would have us constantly raise aloft before the eyes of a sin- dead world: It is the perfect obedience and righteousness of Christ, his Saviour and Lord. "I will go in the strength of the Lord God: I will make mention of thy righteousness, even of thine only" (Ps. 71: 16).
+
+
+{{< figure src="/images/telegram.jpg" caption="Conceptualization of Machen's telegram by PCA elder Brad Isbell" >}}
+
 
 [^edwards]: Works. New York, 1881. Vol. IV. p 91.
