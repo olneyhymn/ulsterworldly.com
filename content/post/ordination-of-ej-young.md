@@ -9,6 +9,7 @@ people:
   - E.J. Young
 tags:
   - OPC
+  - Presbyterian Controversy
   - Presbyterian Guardian
 images:
   - /images/ordination-of-ej-young.png
