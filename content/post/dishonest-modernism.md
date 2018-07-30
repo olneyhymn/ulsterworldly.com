@@ -20,3 +20,5 @@ images:
   <p class="mb-0"></p>
   <footer class="blockquote-footer"><a href="https://store.opc.org/ProductDetails.asp?ProductCode=H%2DLest%2Dwe%2Dforget">Lest We Forget: A Personal Reflection on the Formation of the Orthodox Presbyterian Church</a> by Robert Churchill </footer>
 </blockquote>
+
+<small>Photograph by [Another Believer/Seattle](https://commons.wikimedia.org/wiki/File:Mark_Matthews_bust,_Denny_Park,_Seattle_(2014).jpg), distributed under CC BY-SA 3.0</small>
