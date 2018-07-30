@@ -1,7 +1,7 @@
 ---
 title: "Introduction to the Trinity Psalter Hymnal"
 description: "Historical context and development of the OPC and URNCA's new hymnal."
-date: 2018-08-29
+date: 2018-07-29
 draft: false
 short: true
 tags:
