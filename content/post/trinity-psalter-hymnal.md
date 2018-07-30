@@ -1,19 +1,23 @@
 ---
 title: "Introduction to the Trinity Psalter Hymnal"
-description: ""
+description: "Historical context and development of the OPC and URNCA's new hymnal."
 date: 2018-08-29
-draft: true
-short: false
+draft: false
+short: true
 tags:
  - Hymnody
 people:
  - Isaac Watts
  - J. Gresham Machen
 images:
-  - 
+  - /images/watts.jpg
 ---
 
-My church just replaced our copies of the _Book of Psalms for Singing_ with the new [_Trinity Psalter Hymnal_](https://www.wtsbooks.com/trinity-psalter-hymnal-great-commission-publications-gcp-tph1010) published by the OPC and URCNA. I was asked to present an introduction to this new song book in our Sunday school class. 
+My church just replaced our copies of the _Book of Psalms for Singing_ with the new [_Trinity Psalter Hymnal_](https://www.wtsbooks.com/trinity-psalter-hymnal-great-commission-publications-gcp-tph1010) published by the OPC and URCNA. I was asked to present an introduction to this new song book in our Sunday school class. It turned into a brief history of hymnody and psalmody in American Presbyterians along with looking at some distinctives of this wonder new hymnal.
+
+You can listen on [SermonAudio](https://www.sermonaudio.com/sermoninfo.asp?SID=9972918145400).
+
+<iframe tabindex="-1" width="100%" height="150" src="https://embed.sermonaudio.com/player/a/9972918145400/" style="min-width: 150px;" frameborder="0" scrolling="no"></iframe>
 
 Some resources I used in preparation: 
 
