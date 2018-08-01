@@ -3,7 +3,7 @@
 {{ $description := .Params.description }}
 <article class="mb-4">
   <header>
-    <h3 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h3>
+    <h3 class="blog-post-title"><a href="{{ .Permalink }}">{{ if .Title }}{{ .Title | markdownify }}{{ else }} {{ .Params.name }}{{ end }}</a></h3>
   </header>
   {{ if .Params.images}}{{ with (index .Params.images 0) }}
   <figure class="figure mb-0">
