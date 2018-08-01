@@ -11,7 +11,7 @@ tags:
  - PCUS
  - Family
 images:
- - /images/dot-and-joe.png
+ - /images/dot-and-joe.jpg
  - /images/dot-and-joe-2.png
 ---
 
