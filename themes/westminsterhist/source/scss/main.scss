@@ -175,22 +175,18 @@ article blockquote {
   line-height: 1.45;
   position: relative;
 
-
   :before {
-      display: block;
-      padding-left: 10px;
-      content: "\201C";
-      font-size: 80px;
-      position: absolute;
-      left: -20px;
-      top: -20px;
-      color: #7a7a7a8c;
+    display: block;
+    padding-left: 10px;
+    content: "\201C";
+    font-size: 80px;
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    color: #7a7a7a8c;
   }
 
    .blockquote-footer {
-     :before {
-       content: "\2014 \2009";
-     }
     color: #999999;
     font-size: 14px;
     display: block;
