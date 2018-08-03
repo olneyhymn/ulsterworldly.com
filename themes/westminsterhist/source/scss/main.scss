@@ -168,12 +168,39 @@ section + #disqus_thread {
 // style all blockquotes, not just Bootstrap's default of class="blockquote"
 // see: node_modules/bootstrap/scss/_type.scss
 article blockquote {
-  padding: .5*$spacer $spacer;
-  margin-bottom: $spacer;
-  margin-top: $spacer;
   font-size: $blockquote-font-size;
-  border-left: .25rem solid #eceeef;
+  width: 500px;
+  margin: $spacer 0;
+  padding: 0.35em 40px;
+  line-height: 1.45;
+  position: relative;
+
+
+  :before {
+      display: block;
+      padding-left: 10px;
+      content: "\201C";
+      font-size: 80px;
+      position: absolute;
+      left: -20px;
+      top: -20px;
+      color: #7a7a7a8c;
+  }
+
+   cite {
+      color: #999999;
+      font-size: 14px;
+      display: block;
+      margin-top: 5px;
+  }
+
+  cite:before {
+      content: "\2014 \2009";
+  }
+
 }
+
+
 
 // ensure that code text doesn't butt up against the background change
 article div.highlight {
