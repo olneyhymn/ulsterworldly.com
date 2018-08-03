@@ -187,16 +187,16 @@ article blockquote {
       color: #7a7a7a8c;
   }
 
-   cite {
-      color: #999999;
-      font-size: 14px;
-      display: block;
-      margin-top: 5px;
+   .blockquote-footer {
+     :before {
+       content: "\2014 \2009";
+     }
+    color: #999999;
+    font-size: 14px;
+    display: block;
+    margin-top: 5px;
   }
 
-  cite:before {
-      content: "\2014 \2009";
-  }
 
 }
 
