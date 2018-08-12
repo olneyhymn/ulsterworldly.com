@@ -33,7 +33,7 @@ Paginate = 50
 
 [params]
 disable_sri = true
-feedpress = "http://feedpress.me/ulsterworldly"
+feedpress = "https://feedpress.me/ulsterworldly"
 truncate = false
 description = "Stories from the history of presbyterianism in America and beyond."
 long_description = """
