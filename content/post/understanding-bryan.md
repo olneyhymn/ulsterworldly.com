@@ -1,4 +1,4 @@
- +++
++++
 title = "William Jennings Bryan and the Mission of the Church"
 date = 2018-09-06
 description = ""
