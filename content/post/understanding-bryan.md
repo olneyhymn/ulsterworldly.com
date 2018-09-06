@@ -6,6 +6,7 @@ tags = ["PCUSA", "Presbyterian Controversy"]
 mentions = ["William Jennings Bryan", "J. Gresham Machen"]
 slug = "understanding-bryan"
 draft = false
+short = false
 images = ["/images/wjbryan.png"]
 +++
 
