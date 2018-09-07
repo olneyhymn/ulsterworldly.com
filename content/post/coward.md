@@ -10,8 +10,6 @@ tags:
   - Korea
   - Romance
   - Family
-images:
-  - /images/dot-and-joe.jpg
 ---
 I'm reading a history of the Southern Presbyterian mission to Korea (of which my Hopper grandparents and great-grandparents were a part) that my [great uncle](https://en.wikipedia.org/wiki/G._Thompson_Brown) wrote. He shared a sequence of journal entries written by a young, single missionary:
 
