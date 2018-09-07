@@ -8,7 +8,7 @@ tags:
   - Romance
   - ARP
 images:
-  - /images/sa-Agnew.jpg
+  - /images/sa-agnew.jpg
 ---
 
 Another one for the [annals of Presbyterian romance](https://ulsterworldly.com/tags/romance):
@@ -19,4 +19,4 @@ Another one for the [annals of Presbyterian romance](https://ulsterworldly.com/t
 >
 > From the time of the visit, he came to believe that there was someone else involved, and the only surprise was when he learned that the person was his fellow minister Rev. R.L. (Robert Leroy) Grier, also a widower. Agnew had spent the night with Grier when he went to plead his cause with the young lady. Miss Jennie married Rev. Grier the following year, and following his death she became the third wife of Rev. David Pressly of Starkville. Agnew's judgment on her eligibility was affirmed."
 
-<small><em>From [The Second Century: A History of the Associate Reformed Presbyterian Church 1882–1982, Page 116</em></small>
+<small>Quoted from <em>The Second Century: A History of the Associate Reformed Presbyterian Church 1882–1982</em></small>
