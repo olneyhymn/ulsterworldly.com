@@ -9,6 +9,7 @@ people:
   - Minnie Hauhart Longenecker
 tags:
   - Family
+  - Romance
   - Congo
 ---
 
