@@ -11,7 +11,7 @@ images:
   - /images/sa-Agnew.jpg
 ---
 
-
+Another one for the [annals of Presbyterian romance](https://ulsterworldly.com/tags/romance):
 
 > At times the minister might plan his marriage for the benefit of his work as well as for himself. S.A. Agnew relates his own case in whch his plan failed. He had become widowed at the age of 37 with a small son. Through inquiries he found that a Miss Jennie Moffatt of Marshall County, Miss. was a most eligible prospect, so he wrote her to ask her permission to correspond with a view toward marriage. Although he had not met her, he had been told by Rev. H.H. Robison that she was "good looking, intelligent, healthy and pious." He therefore noted in his journal that "She is the most eligible person of whom I have any knowledge and it is my duty to make the effort.'"
 >
