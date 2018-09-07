@@ -1,6 +1,6 @@
 ---
-title: "Good Looking, Intelligent, Healthy and Pious"
-description: "An ARP minister goes a courtin'"
+title: "\"Good Looking, Intelligent, Healthy and Pious\""
+description: "An ARP minister goes a courtin'."
 date: "2018-09-06"
 slug: "arp-romance"
 people:
