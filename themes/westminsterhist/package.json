@@ -27,7 +27,7 @@
     "popper.js": "^1.12.4"
   },
   "dependencies": {
-    "bootstrap": "4.0.0-beta",
+    "bootstrap": "4.1.2",
     "sri": "^1.1.0"
   }
 }
