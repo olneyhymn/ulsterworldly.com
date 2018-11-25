@@ -29,7 +29,7 @@ Many of my favorite episodes have been historical:
 
 The list of historical episodes could go on and on. Moreover, _Christ the Center_ has helped me understand apologetics, union with Christ, Vos's _Biblical Theology_, ecclesiology, and more. 
 
-I look forward to the next ten years of growth through the resources provided by the _Reformed Forum_. Thank you to Camden Bucey, Jeff Waddington, Jim Cassidy, Glen Clary, Darryl Hart, Lane Tipton, and the many guests who have played an important role in my life from afar; I'm grateful for your selfless service to Christ's church. I pray the Lord continues to bless your efforts.
+I look forward to the next ten years of growth through the resources provided by the _Reformed Forum_. Thank you to Camden Bucey, Jeff Waddington, Jim Cassidy, Glen Clary, Jared Oliphint, Darryl Hart, Lane Tipton, and the many guests who have played an important role in my life from afar; I'm grateful for your selfless service to Christ's church. I pray the Lord continues to bless your efforts.
 
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">I discovered <a href="https://twitter.com/reformedforum?ref_src=twsrc%5Etfw">@reformedforum</a>’s flagship podcast Christ the Center during Thanksgiving break 2008 when Trueman blogged at Ref21 about his recent interview: <a href="https://t.co/URPk2ZYhFO">https://t.co/URPk2ZYhFO</a>. I’d graduated from college that year.</p>&mdash; Presbyterian History (@pres_history) <a href="https://twitter.com/pres_history/status/1064224463607214081?ref_src=twsrc%5Etfw">November 18, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
