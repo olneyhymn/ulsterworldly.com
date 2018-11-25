@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Ulster Worldly"
 theme = "westminsterhist"
 Copyright = "2018 Tim Hopper"
-DisqusShortname = 'ulsterworldly'
 Paginate = 50
 [taxonomies]
   tag = "tags"
