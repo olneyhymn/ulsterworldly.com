@@ -1,4 +1,5 @@
 ---
+title: "Dorothy Longenecker Hopper"
 name: "Dorothy Longenecker Hopper"
 years: "1920-2015"
 short: true
