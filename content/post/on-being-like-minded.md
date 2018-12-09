@@ -1,5 +1,5 @@
 +++
-title = "\"On Being Like\" by Richard B. Gaffin"
+title = "\"On Being Like-Minded\" by Richard B. Gaffin"
 date = 2018-12-09
 description = "Dr. Richard Gaffin on the biblical command for Christian like-mindedness."
 tags = ["OPC", "PCA"]
@@ -15,7 +15,7 @@ In 1985, the General Assembly of the Presbyterian Church in America (PCA) invite
 Dr. Richard Gaffin, professor of New Testament at Westminster Theological Seminary, gave this sermon as retiring moderator at the opening service of the 52nd General Assembly of the OPC on May 30, 1985; it was reprinted in the September 4 1985 issue of _The Presbyterian Journal_. The next year, as the OPC was celebrating 50 years since its formation, the 53rd General Assembly would fail to ratify the motion to join the PCA.
 
 
-# On Being Like-Minded
+## On Being Like-Minded
 
 Next month, on June 11th to be exact, the Orthodox Presbyterian Church begins its 50th year of existence. Plans are already well underway looking toward our semicentennial celebration a year from now. Such a milestone naturally promotes a sense of denominational awareness and reflection about ourselves and our future. But in our case this self-awareness is heightened by the fact that we are faced squarely with the question whether or not we ought to continue to exist as a separate denomination. In what may well be a unique moment in church history we are being called to celebrate and to consider cessation at one and the same time.
 
@@ -27,7 +27,7 @@ One useful way of reflecting on this emphasis is to do so in terms of certain ba
 
 Here, as always in the New Testament, indicative and imperative belong together. The imperative is not an isolated call to action, but flows out of the grand gospel indicative of God’s salvation revealed once for all in "the fulness of time" (Gal. 4:4, Eph. 1:10). Where salvation in Christ is a reality, Paul is telling us, there he expects to see the reality of Christian unity. The two are inseparable; the one is really unthinkable without the other.
 
-## Having the Mind of a Servant
+### Having the Mind of a Servant
 
 What now, more exactly is the substance of this reality, the nature of the unity to be realized? Immediately, we have to deal with a further limitation in our perception. Our initial reaction, predictably, is to think that the answer is unity in doctrine, a doctrinal uniformity to be prized and which would then be threatened by differences in understanding and formulation. No doubt doctrinal concerns are involved here; they are not to be depreciated or denied. But doctrine, at least in the conventional sense (for example, the written confession to which we subscribe), is in the background here and is not what Paul has in mind primarily. Other factors, as we shall sec, are highlighted as establishing and maintaining unity; other factors are seen to undermine unity.
 
@@ -37,13 +37,14 @@ Verse 5 tells us that believers are to have the same mind-set or attitude as Chr
 
 But if we take verses 5-11 together with what immediately precedes, then we begin to get a hold on what Paul is saying. "This mind" (verse 5) is described in what _precedes_, not by what follows. In the ordering of the text, ethics come before doctrine, Christology serves to illustrate Christian conduct. And the point is one basic to New Testament teaching on the Christian life: Just in (he glorious uniqueness of Jesus as our Savior and Lord we find the point of comparison with ourselves. Just where he is _not_ what we are and has done for us what we _can_ 7 do for ourselves, just there we find what we are to be and to do. Peter expresses this very concisely: "Christ suffered _for_ you, leaving you an _example_ for you to follow in his steps" (1 Peter 2:21). The thinking that grounds the firm, unbreakable unity of the church, Paul wants us to understand, is not, say, our doctrinal grasp and correct theological formulations, important as they are, but the kind of "thinking" that led Jesus, being in "the form of God," from heaven to the cross--that attitude which brought him, with the glory he had with the Father before the world was, to humble himself and become a servant. The thinking at issue here is the mentality or mind-set of the _servant_.
 
-## Humility is the Source of Unity
+### Humility is the Source of Unity
 
 Verses 3 and 4 are essential for deepening our grasp of this thinking. What are the mortal enemies of unity and harmony in the church?--"selfish ambition" and "vain conceit." What is the essence of the like-mindedness that promotes unity?--in one word, "humility." Our resistance to the text at this point is our inclination to let it slip away as a truism. But there is nothing self-evident about humility. Humility is not a universal human value. In fact, in Paul's day it was not a value at all. In the surrounding pagan world the word he uses here was a term of contempt, applied for the most part to slaves and suggesting mindless servility. According to Scripture, in contrast, humility is a distinctly Christian virtue, a "grace" that takes us to the heart of the gospel itself. Here Paul tells us it is the opposite of self-centeredness and pride and means "considering others better than yourselves."
 
  What is involved in this valuing of others above self? It is _not_, for instance, an insincere politeness that makes heroes of the weak or tolerates what is truly despicable; nor is it a false modesty that sees only superior gifts in others. Rather, in contrast to all forms of self-centeredness (in some instances masked by self-depreciation and feelings of inferiority, which are not humility but its very opposite), humility means being genuinely disposed to others, being able and willing to "look not only to your own interests, but also to the interests of others" (verse 4). In contrast to selfish ambition and vain conceit, humility means not setting myself up as a standard for others. It means an end in the church to all partisanship and all forms of individualism, "hearty" or otherwise. In fact, humility means valuing others with their concerns as more important, even when we know them to be weaker and less gifted. This self-renouncing humility, Paul wants us to know, more  than anything else so far as our involvement is concerned, is the source of unity in the church.
 
-## Humility and Doctrinal Orthodoxy
+### Humility and Doctrinal Orthodoxy
+
 The teaching of our text so far considered addresses all believers. But now we must see that it applies in a heightened way to elders and leaders in the church. Here we have to confront not simply another of our limited perceptions. but a massive and critical blind spot, one that can prove fatally disruptive in the life and work of the church.
 
 Let me try to anticipate a rejoinder some of you may have at this point: "The differences in this General Assembly are _doctrinal_ in nature; the divisions among us are matters of _principle_. But, as you yourself have pointed out, doctrinal error and its threat to Christian unity are not in view in Philippians 2. The text you have chosen and your remarks on it are not really to the point."
@@ -58,7 +59,7 @@ I am well aware that we are poised here, as with every central Christian truth, 
 
 Doctrinal orthodoxy (to be an _orthodox_ Presbyterian) is a legitimate and important concern. Through the centuries of its maturity the church has been brought to an appreciation of the vital and essential role of its creeds and confessions. They function to promote and maintain the doctrinal stability necessary for the peace and unity of the church. But the confessional bond, however essential, must leave room for differences in perception and expression; it must not make every issue into an issue of confessionalism that, despite an ever so impeccable doctrine of Scripture. effectively supplants Scripture.
 
-## Humility and Openness to Diversity 
+### Humility and Openness to Diversity 
 
 In an important, still timely essay on "The Future of Calvinism," written nearly a century ago, Herman Bavinck noted that an attractive feature of the Reformed tradition, one of its strengths, is the multiplicity of confessions it has produced, the diversity it allows at the confessional level. This openness to variety in doctrinal formulation, he maintained, results from the conviction that "To no individual or individual Church has it been given to assimilate truth in all its fulness. Truth is too rich and manifold for this."
 
@@ -70,7 +71,7 @@ Essentially, selfish ambition and vain conceit mean that I consider myself bette
 
 In all sorts of self-deceiving ways this self-centeredness disposes me (perhaps unknowingly) to seek authority in the church as a means to dominate others. At the level of doctrine it turns theology into an ideology which has (to have) the answer for everything. With that, since sound doctrine is left behind, theology becomes a self-centered enterprise, a sophisticated boasting over others, which can only see that my insights and formulations are on the line and others must conform to them. Openness to others and w hat they have to offer, the capacity to learn and to grow, is cut off. Perceived differences are intolerable because they challenge and threaten me and so have to be suppressed. And so, too, division and disorder in the church are just one inevitable result.
 
-## Humility Takes Us to the Heart of the Gospel
+### Humility Takes Us to the Heart of the Gospel
 
 Selflessness, patterned after Christ’s own example, promotes the unity of the church; our self-centeredness is the source of disruption and disunity. As this fundamental truth begins to dawn on us, the bankruptcy of our own resources and pretensions is relentlessly exposed, and our crying need of God’s grace, which this communion table seals to us. is brought to light.
 I have often heard it said that nothing is more difficult for the unbeliever to grasp, and for the believer to retain, than the truth that salvation is by faith and not by works, that we are saved not by our own efforts but by God’s grace. This is certainly right; the spirit of the Pharisee threatens to assert itself in each of us.
