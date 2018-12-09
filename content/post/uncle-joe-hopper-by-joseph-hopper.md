@@ -22,6 +22,9 @@ images:
 In the late 1800s, a Civil War officer turned physician turned Southern Presbyterian minister left First Presbyterian Church of Louisville to become a traveling evangelist. According to Louis Weeks,[^weeks] this Edward O. Guerrant "enlisted others, such as 'Uncle' Joe Hopper, an elder from Perryville [KY], and began to hold revivals, health clinics, and organizational meetings to establish Presbyterian churches in the mountains."
 
 In an unusual turn of Presbyterian events, The [Transylvania Presbytery](https://en.wikipedia.org/wiki/Transylvania_Presbytery) of PCUS ordained Uncle Joe (1850-1925) as a minister, despite him not having any theological training. Uncle Joe was the biological uncle of my great-grandfather [Joseph Hopper](https://ulsterworldly.com/people/joseph-hopper/). (Uncle Joe was the 4th Joseph Hopper in our family line.) My great-grandfather wrote a brief memoir of Uncle Joe Hopper in [The Apostolic Message to the Unconverted in the Orient Today](http://joseph-hopper.com/#the-apostolic-message-to-the-unconverted-in-the-orient-today), a Th.D. thesis he wrote at Union Presbyterian Seminary in 1935.
+
+[^weeks]: The Kentucky Encyclopedia, edited by John E. Kleber
+
 {{% /intro %}} 
 
 > "I am debtor--I am ready--For I am not ashamed of the gospel---." Rom. 1:14-16
@@ -46,4 +49,3 @@ Among his scent sermon notes, I found the appeal of a sermon on "Him that cometh
 
 The only explanation of this man's successful evangelism is that the Holy Spirit took possession of him, and what gifts he had, and through him spoke the heart of the apostolic message. I am convinced that this is just what the world needs today--both the Occident and the Orient.
 
-[^weeks]: The Kentucky Encyclopedia, edited by John E. Kleber
