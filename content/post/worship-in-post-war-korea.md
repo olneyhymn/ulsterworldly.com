@@ -10,7 +10,9 @@ tags:
 slug: "worship-in-post-war-korea"
 ---
 
-_My grandfather describes worship service in post-Korean war mission churches in rural South Korea._
+{{% intro %}}
+My grandfather describes worship service in post-Korean war mission churches in rural South Korea.
+{{% /intro %}}
 
 When all was ready we held the worship service. Everyone was seated on the floor, men on one side and women on the other. Mothers often brought several small children with them who ran in and out during the service. If their babies required feeding or any other attention this was cared for without embarrassment wherever they happened to be sitting. Many babies were tied to the backs of their mothers who sometimes stood at the back of the little church jiggling them up and down to keep them quiet or put them to sleep. Often the crowd had been gathering for hours beforehand and occupied themselves with singing hymns while waiting for the service to begin.
 

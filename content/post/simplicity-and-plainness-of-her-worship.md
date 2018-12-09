@@ -9,7 +9,9 @@ tags:
   - Family
 ---
 
-_From [A Preface to an Edition of the Westminster Confession, &c](https://www.amazon.com/Preface-Westminster-Confession-Publishd-Edinburgh/dp/117366193X) by the Rev. William Dunlop of the Church of Scotland, 1724. Dunlop was my great-great grandfather's great great grandfather._
+{{% intro %}}
+_From [A Preface to an Edition of the Westminster Confession, &c](https://www.amazon.com/Preface-Westminster-Confession-Publishd-Edinburgh/dp/117366193X) by the Rev. William Dunlop of the Church of Scotland, 1724. Dunlop was my great-great grandfather's great great grandfather.
+{{% /intro %}}
 
 We in the same manner celebrate the goodness of God, which carried our Reformation to such a high pitch of perfection, with respect to our Government and Worship, and delivered them from all that vain pomp which darkened the glory of the Gospel service, and the whole of those superstitious or insignificant inventions of an imaginary decency and order, which sullied the divine beauty and luster of that noble simplicity that distinguished the devotions of the apostolical times. _And our Church glories in the primitive plainness of her worship_, more than in all the foreign ornaments borrowed from this world, though these appear indeed incomparably more charming to earthly minds.
 

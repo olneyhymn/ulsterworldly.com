@@ -10,9 +10,12 @@ short = false
 images = ["/images/onbeinglikeminded.jpg"]
 +++
 
+{{% intro %}}
 In 1985, the General Assembly of the Presbyterian Church in America (PCA) invited the Orthodox Presbyterian Church (OPC) to join the young denomination. This was a hot topic in the conservative Presbyterian world, and it was discussed widely in various publications including _New Horizons_ and _The Presbyterian Journal_.
 
 Dr. Richard Gaffin, professor of New Testament at Westminster Theological Seminary, gave this sermon as retiring moderator at the opening service of the 52nd General Assembly of the OPC on May 30, 1985; it was reprinted in the September 4 1985 issue of _The Presbyterian Journal_. The next year, as the OPC was celebrating 50 years since its formation, the 53rd General Assembly would fail to ratify the motion to join the PCA.
+
+{{% /intro %}}
 
 
 ## On Being Like-Minded

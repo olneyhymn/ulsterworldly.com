@@ -7,7 +7,9 @@ people = ["Aiken Taylor"]
 draft = false
 +++
 
-The follow is an excerpt from the report from the outgoing moderator, Aiken Taylor, at the 7th General Assembly of the PCA. It was reprinted in _The Presbyterian Journal_ on July 11, 1979.
+{{% intro %}}
+The following is an excerpt from the report from the outgoing moderator, Aiken Taylor, at the 7th General Assembly of the PCA. It was reprinted in _The Presbyterian Journal_ on July 11, 1979.
+{{% /intro %}}
 
 > The Presbyterian Church in America reflects the widest conceivable spectrum of differences within a basic commitment to the Reformed faith which is common to all—ministers and elders alike.
 >
