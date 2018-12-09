@@ -14,6 +14,7 @@ images:
   - /images/hershey-longenecker.png
 ---
 
+{{% intro %}}
 My great grandfather, J. Hershey Longenecker (1889-1978), was a Southern Presbyterian Missionary (PCUS) from 1917 to 1950.
 
 “Descended from generations of Pennsylvania Dutch Mennonites, and partly under Quaker influence”, Hershey moved to Kentucky as a young man to serve the [Society of Soul Winners](http://toto.lib.unca.edu/sr_papers/history_sr/srhistory_2010/diepenbrock_caroline.pdf) founded by Confederate army officer, physician, and presbyterian minister Edward O. Guerrant. While in Kentucky and “After months of study” as to whether to become a presbyterian or methodist minister, Hershey decided he was a presbyterian. After attending Louisville Presbyterian Theological Seminary, he was ordained  by the PCUS Presbytery of Louisville in 1916.
@@ -28,7 +29,7 @@ In response, 77 year old Hershey Longenecker gave the talk below entitled “The
 
 The PCUS participation in the COCU was one of the grievances raised by [The Declaration of Commitment](http://www.pcahistory.org/documents/declaration.html) of the Presbyterian Churchmen United in 1969. This would lead to the formation of the [PCA](https://en.wikipedia.org/wiki/Presbyterian_Church_in_America) by 260 PCUS congregations in 1973.
 
-<hr>
+{{% /intro %}}
 
 ### The Great Apostasy — II Thessalonians 2:3 — J. Hershey Longenecker — 1966
 

@@ -20,7 +20,9 @@ images:
     - /images/the-marriage-tonight.png
 ---
 
-_My great grandfather Joseph Hopper was ordained a PCUS minister in Kentucky in 1917. He served as a pastor for several years before traveling to New York City to attend the Bible Teachers’ College (now New York Theological Seminary) in preparation for the mission field. There he met Annis Barron of South Carolina who was also preparing for the mission field. The following notice appeared in the Rock Hill, S.C. newspaper announcing their marriage. Joseph and Annis would move immediately to Korea to serve as missionaries._
+{{% intro %}}
+My great grandfather Joseph Hopper was ordained a PCUS minister in Kentucky in 1917. He served as a pastor for several years before traveling to New York City to attend the Bible Teachers’ College (now New York Theological Seminary) in preparation for the mission field. There he met Annis Barron of South Carolina who was also preparing for the mission field. The following notice appeared in the Rock Hill, S.C. newspaper announcing their marriage. Joseph and Annis would move immediately to Korea to serve as missionaries.
+{{% /intro %}}
 
 ## The Marriage Tonight
 

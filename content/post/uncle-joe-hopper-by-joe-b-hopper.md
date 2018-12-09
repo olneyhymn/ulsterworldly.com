@@ -18,9 +18,13 @@ images:
  - /images/marion-presbyterian-ky.jpg
 ---
 
-_In the late 1800s, a Civil War officer turned physician turned Southern Presbyterian minister left First Presbyterian Church of Louisville to become a traveling evangelist. According to Louis Weeks,[^weeks] this Edward O. Guerrant "enlisted others, such as 'Uncle' Joe Hopper, an elder from Perryville [KY], and began to hold revivals, health clinics, and organizational meetings to establish Presbyterian churches in the mountains."_
+{{% intro %}}
+In the late 1800s, a Civil War officer turned physician turned Southern Presbyterian minister left First Presbyterian Church of Louisville to become a traveling evangelist. According to Louis Weeks,[^weeks] this Edward O. Guerrant "enlisted others, such as 'Uncle' Joe Hopper, an elder from Perryville [KY], and began to hold revivals, health clinics, and organizational meetings to establish Presbyterian churches in the mountains."
 
-<em>In an unusual turn of Presbyterian events, The [Transylvania Presbytery](https://en.wikipedia.org/wiki/Transylvania_Presbytery) of PCUS ordained Uncle Joe (1850-1925) as a minister, despite him not having any theological training. Uncle Joe was the biological uncle of my great-grandfather [Joseph Hopper](https://ulsterworldly.com/people/joseph-hopper/). (Uncle Joe was the 4th Joseph Hopper in our family line.) I recently shared [a piece my great grandfather wrote on Uncle Joe](https://ulsterworldly.com/post/memoir-of-uncle-joe-hopper/) in 1935. My grandfather wrote this about his great uncle about 50 years later.</em>
+In an unusual turn of Presbyterian events, The [Transylvania Presbytery](https://en.wikipedia.org/wiki/Transylvania_Presbytery) of PCUS ordained Uncle Joe (1850-1925) as a minister, despite him not having any theological training. Uncle Joe was the biological uncle of my great-grandfather [Joseph Hopper](https://ulsterworldly.com/people/joseph-hopper/). (Uncle Joe was the 4th Joseph Hopper in our family line.) I recently shared [a piece my great grandfather wrote on Uncle Joe](https://ulsterworldly.com/post/memoir-of-uncle-joe-hopper/) in 1935. My grandfather wrote this about his great uncle about 50 years later.
+
+[^weeks]: The Kentucky Encyclopedia, edited by John E. Kleber
+{{% /intro %}}
 
 Most widely known in our family tree was my grandfather George D. Hopper's brother, Rev. Joseph Hamilton Hopper (1829-1915), known as "Uncle Joe" Hopper. He was born in [Lancaster, Ky.](https://en.wikipedia.org/wiki/Lancaster,_Kentucky), July 22, 1829, and in his early years worked as a clerk in a store. He united with the Presbyterian Church in 1843 and was made a deacon there when only sixteen years of age. His religious work dated from that time when he began to organize and conduct Sunday Schools and to do whatever work he felt called upon to do in the Master's cause. For a brief time he was a member of the [First Presbyterian Church](http://www.presbydan.org/), [Danville, Ky.](https://en.wikipedia.org/wiki/Danville,_Ky. "Wikipedia Entry: Danville, Kentucky - Wikipedia") In 1851 he became a member of the church at [Perryville, Ky.](https://en.wikipedia.org/wiki/Perryville,_Kentucky)[^perryville] to which place he had removed. He was ordained as a ruling elder in 1854 at the age of twenty-five, and in the same year was elected clerk of the session and continued in that office until 1875 when increasing duties and frequent absence from home caused him to resign.
 
@@ -83,4 +87,4 @@ On Sunday, March 28, 1915, while seated in his chair in his home at Perryville, 
 
 [^perryville]: Perryville is ten miles west of Danville.
 [^children]: The only one of these I ever knew was Dr. Walter O. Hopper, a greatly beloved physician in Perryville, Ky. When we were on furlough one time, our family spent a day with him and "Cousin Martha." Besides smothering us with hospitality, they arranged to have a horse for us children to ride. Unfortunately when I was riding, the horse suddenly stood up on its hind legs, lost its balance, and fell with me underneath. Of course our cousins were greatly alarmed, but the good doctor checked me out and no injuries were found. . .but I have not mounted a horse since!
-[^weeks]: The Kentucky Encyclopedia, edited by John E. Kleber
+
