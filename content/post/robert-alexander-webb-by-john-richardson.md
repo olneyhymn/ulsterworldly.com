@@ -21,7 +21,9 @@ images:
   <a href="/images/r-a-webb.jpg"><img src="/images/r-a-webb-sm.jpg" class="figure-img img-fluid rounded" alt="Robert Alexander Webb"></a>
 </figure>
 
-<em>The following biography of Robert Alexander Webb (1856-1919) was written by Rev. John R. Richardson, pastor of Second Presbyterian Church in Spartanburg, S.C., for the 1947 publication of Webb's [**The Reformed Doctrine of Adoption**](http://www.heritagebooks.org/products/the-reformed-doctrine-of-adoption-webb.html).</em>
+{{% intro %}}
+The following biography of Robert Alexander Webb (1856-1919) was written by Rev. John R. Richardson, pastor of Second Presbyterian Church in Spartanburg, S.C., for the 1947 publication of Webb's [**The Reformed Doctrine of Adoption**](http://www.heritagebooks.org/products/the-reformed-doctrine-of-adoption-webb.html).
+{{% /intro %}}
 
 Robert Alexander Webb, the third child of Robert Clark and and Elizabeth Eaton (Dortch) Webb, was born on the twentieth day of September, 1856, in Oxford, Mississippi. His father served as a Ruling Elder in the Presbyterian Church and his children were from infancy brought up according to the strict methods of the Presbyterian Church of their day. In 1871 the family removed to Nashville, Tennessee. The mother died in 1873 and the summer of that year Nashville was visited by a very severe epidemic of cholera. Robert had a very violent attack of this dreadful disease. He was brought near to the gates of death. Convinced that his recovery was due to the special blessing of God, be interpreted it as God's confirmation of his call to the ministry of the Gospel.
 
