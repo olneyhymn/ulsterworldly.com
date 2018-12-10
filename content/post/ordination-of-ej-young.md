@@ -15,9 +15,11 @@ images:
   - /images/ordination-of-ej-young.png
 ---
 
-_The following article comes from the [inaugural issue of the Presbyterian Guardian magazine](https://www.opc.org/guardian.html) published in 1935.
+{{% intro %}}
+The following article comes from the [inaugural issue of the Presbyterian Guardian magazine](https://www.opc.org/guardian.html) published in 1935.
 It recounts E.J. Young's ordination in the San Francisco Presbytery of the PCUSA. Young would go on to join the OPC (founded in 1936) and serve as a professor of Westminster
-Theological Seminary. You can learn more about Young in [For Me to Live is Christ: The Life of Edward J. Young](https://store.opc.org/ProductDetails.asp?ProductCode=EJ-Young-Biography)._
+Theological Seminary. You can learn more about Young in [For Me to Live is Christ: The Life of Edward J. Young](https://store.opc.org/ProductDetails.asp?ProductCode=EJ-Young-Biography).
+{{% /intro %}}
 
 ### San Francisco Presbytery Ordains Mr. Joseph Young
 
