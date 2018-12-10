@@ -18,7 +18,9 @@ images:
  - /images/hopper-baptism3.png
 ---
 
-<em>I was baptized by [my grandfather](/people/joe-b.-hopper/) in August of 1986. My grandparents had just retired from 38 years of work in Chonju, Korea and were living in Montreat, NC. The church I grew up in did not baptize infants, so my parents had me baptized at Montreat Presbyterian Church, where my grandparents attended in their retirement.</em>
+{{% intro %}}
+I was baptized by [my grandfather](/people/joe-b.-hopper/) in August of 1986. My grandparents had just retired from 38 years of work in Chonju, Korea and were living in Montreat, NC. The church I grew up in did not baptize infants, so my parents had me baptized at Montreat Presbyterian Church, where my grandparents attended in their retirement.
+{{% /intro %}}
 
 The mercy of the Lord is from everlasting to everlasting upon those that fear Him, and His righteousness unto children's children. To such as keep His covenant, and to those that remember His commandments to do them.
 
