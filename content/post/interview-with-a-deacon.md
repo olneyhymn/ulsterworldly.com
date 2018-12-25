@@ -7,7 +7,7 @@ people:
  - John G. Lorimer
 ---
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=dothopper-20&language=en_US&marketplace=amazon&region=US&placement=B07K2215NJ&asins=B07K2215NJ&linkId=d407a087baba29a140c9bb3014f99258&show_border=true&link_opens_in_new_window=true"></iframe>
+<a href="https://www.amazon.com/Deaconship-Treatise-Suggestions-Revival-Scotland-ebook/dp/B07K2215NJ/ref=as_li_ss_il?&linkCode=li2&tag=dothopper-20&linkId=b95f0d5acd1db58d5c863e29c6656cc0&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07K2215NJ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=dothopper-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=dothopper-20&language=en_US&l=li2&o=1&a=B07K2215NJ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important; float:right;" />
 
 {{% intro %}}
 Yesterday, I released a [Kindle edition of Rev. John Lorimer's 1861 book "The Deaconship"](https://amzn.to/2BDFIFr). Lorimer was a founding minister of the Free Church of Scotland and an instrument in the revival of diaconal ministry in Scotland. One of my favorite parts of the book is this excerpt from Appendix III where Rev. Lorimer interviews a veteran deacon from Glasgow about his eighteen years of service.
