@@ -22,7 +22,9 @@ images:
   <a href="/images/r-a-webb.jpg"><img src="/images/r-a-webb-sm.jpg" class="figure-img img-fluid rounded" alt="Robert Alexander Webb"></a>
 </figure>
 
-<em>The following biography of Robert Alexander Webb (1856-1919) was written by Rev. Charles R. Hemphill, professor of Hebrew & Greek at Louisville Presbyterian Seminary, for the publication of Webb's **Theology of Infant Salvation**.</em>
+{{% intro %}}
+The following biography of Robert Alexander Webb (1856-1919) was written by Rev. Charles R. Hemphill, professor of Hebrew & Greek at Louisville Presbyterian Seminary, for the publication of Webb's **Theology of Infant Salvation**.
+{{% /intro %}}
 
 
 Robert Alexander Webb, the son of Robert C. Webb and Elizabeth Dortch Webb, was born on the 20th day of September, 1856, at Oxford, Mississippi, and fell asleep in Louisville, Ky., May 23, 1919. He spent the first fifteen years of his life on the plantation of his father, and enjoyed the sports and outdoor life of a boy on a Southern plantation. He always cherished the happiest memories of his boyhood days. When he was fifteen years of age the family removed to Nashville, Tennessee, and at seventeen he became a student in the Webb School at Culleoka, Tennessee, noted for its high quality as a training school.

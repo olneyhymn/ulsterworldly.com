@@ -17,7 +17,10 @@ images:
  - /images/old-creed.png
 ---
 
-<em>The first PCA (now known as the OPC) was formed on June 11, 1936. The following article ran in the New York Times after the second General Assembly of the new denomination which occured later that year.</em>
+
+{{% intro %}}
+The first PCA (now known as the OPC) was formed on June 11, 1936. The following article ran in the New York Times after the second General Assembly of the new denomination which occured later that year.
+{{% /intro %}}
 
 ## FUNDAMENTALISTS ADOPT OLD CREED
 
