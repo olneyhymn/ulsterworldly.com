@@ -21,6 +21,6 @@ __Benefit to the poor.__ The poor will be treated not with the "coldness and har
 
 __Benefit to the church.__ When the diaconate is functioning well, the whole church will be strengthened in love for one another. The people will be better served as the minister and elders are freed to perform their calling. The church will be "crowned with the approbation of her exalted Head."
 
-<a href="https://www.amazon.com/Deaconship-Treatise-Suggestions-Revival-Scotland-ebook/dp/B07K2215NJ/ref=as_li_ss_il?&linkCode=li2&tag=dothopper-20&linkId=b95f0d5acd1db58d5c863e29c6656cc0&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07K2215NJ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=dothopper-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=dothopper-20&language=en_US&l=li2&o=1&a=B07K2215NJ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important; float:right;" />
+[![](/images/lorimer-cover.png)](https://amzn.to/2BDFIFr)
 
 Photo of the Statue of Thomas Chalmers, George Street, Edinburgh by [Carlos Delgado - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=21040904).
