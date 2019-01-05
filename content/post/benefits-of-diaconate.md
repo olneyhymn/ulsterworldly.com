@@ -9,7 +9,7 @@ images:
   - /images/chalmers.jpg
 ---
 
-I recently released a [Kindle edition of Rev. John Lorimer's 1861 book "The Deaconship"](https://amzn.to/2BDFIFr). Lorimer was a founding minister of the Free Church of Scotland and an instrument in the revival of diaconal ministry in Scotland. In Chapter Chapter IX he discusses the benefits of the diaconate to various parties.
+I recently released a [Kindle edition of Rev. John Lorimer's 1861 book "The Deaconship"](https://amzn.to/2BDFIFr). Lorimer was a founding minister of the Free Church of Scotland and an instrument in the revival of diaconal ministry in Scotland. In Chapter IX of the book,he discusses the benefits of the diaconate to various parties. In particular, he sees benefits for elders, pastors, deacons, the poor, and entire church.
 
 __Benefit to the elders.__ By having a well functioning diaconate, elders will be relieved of the responsibility of caring for the material needs of the poor. Qualified men will be more willing to become elders knowing they won't have this responsibility. Elders will more effectively be able to care for the spiritual needs of their flock without prejudices created by caring for material needs. Finally, the office of deacon provides "an excellent nursery for the eldership"; young men serving as deacons might be prepared to later serve as elders.
 
