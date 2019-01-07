@@ -13,7 +13,9 @@ images:
   - /images/bomb-bell.jpg
 ---
 
-_An amazing story from 1950s Korea that my grandfather told. My uncle says, "And you may recall he sent the story to Readers' Digest, 'Life in This Wide World'. They published it as the lead story in that section and added a drawing of a genuine Korean bus etc. and sent him $100."_
+{{% intro %}}
+An amazing story from 1950s Korea that my grandfather told. My uncle says, "And you may recall he sent the story to Readers' Digest, 'Life in This Wide World'. They published it as the lead story in that section and added a drawing of a genuine Korean bus etc. and sent him $100."
+{{% /intro %}}
 
 An earnest young Korean deacon from the country came to me one day with a problem. “We have a 500 pound bomb; can you tell us how to cut it in two to make church bells?”
 
