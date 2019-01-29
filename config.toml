@@ -9,6 +9,12 @@ Paginate = 50
   people = "people"
   church = "churches"
 
+
+[[menu.dropdown]]
+    name = "Ulster Worldly Podcast"
+    weight = 1
+    identifier = "Ulster Worldly Podcast"
+    url = "https://anchor.fm/ulsterworldly/"
 [[menu.dropdown]]
     name = "Westminster Daily"
     weight = 1
