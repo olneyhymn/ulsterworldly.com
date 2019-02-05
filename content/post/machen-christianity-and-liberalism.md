@@ -12,6 +12,7 @@ images:
  - /images/machen-moody.png
 ---
 
+{{% intro %}}
 J. Gresham Machen was invited to speak at the [Moody Institute](https://en.wikipedia.org/wiki/Moody_Bible_Institute) Founders Conference, held February 5-9, 1923. [R. A. Torrey](https://en.wikipedia.org/wiki/R._A._Torrey) also spoke. Machen's book [Christianity and Liberalism](http://amzn.to/2wO5Jlv) would be released two weeks later.
 
 Joseph Bowles, writing for the Moody Institute's monthly newspaper, wrote:
@@ -23,6 +24,8 @@ Joseph Bowles, writing for the Moody Institute's monthly newspaper, wrote:
 > His second address, Tuesday morning, "Is Christianity True?" fully bore out the same characteristics.
 
 Machen's first address was recorded by a stenographer and published in the April 1923 edition of [Moody Monthly](https://archive.org/details/moodybibleinstit2319mood).
+
+{{% /intro %}}
 
 #### Christianity vs. Modern Liberalism
 
