@@ -25,6 +25,7 @@ Joseph Bowles, writing for the Moody Institute's monthly newspaper, wrote:
 
 Machen's first address was recorded by a stenographer and published in the April 1923 edition of [Moody Monthly](https://archive.org/details/moodybibleinstit2319mood).
 
+You can also listen to a reading of this by OPC minister Bob Tarullo at the [Reformed Forum](https://reformedforum.org/tsp149/).
 {{% /intro %}}
 
 #### Christianity vs. Modern Liberalism
