@@ -56,7 +56,7 @@ Will read a few verses from the First Epistle to the Corinthians, fifteenth chap
 >
 > Therefore whether it were I or they, so we preach, and so ye believed.
 
-In the time allotted me this afternoon I site.html_pages not try to settle the religious issue the day, but try to be bold enough to present that issue as briefly and clearly can, that you may be aided in settling it for yourself.
+In the time allotted me this afternoon I will not try to settle all the religious issue the day, but try to be bold enough to present that issue as briefly and clearly can, that you may be aided in settling it for yourself.
 
 But presenting the issue sharply and clearly is by no means a popular business at present. There are many people at present time who, as Dr. Francis L. Patton on has aptly put it, prefer to fight intellectual battles in what may be called a condition of "low visibility".
 
