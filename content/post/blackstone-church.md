@@ -25,7 +25,7 @@ After graduation in 1943, she moved to Blackstone, Virginia (40 miles southwest 
 
 Dot served at Blackstone church until March of 1945 when she returned to Richmond to prepare to return to Belgian Congo as a missionary. According to my grandfather, she was much loved by the Blackstone church and left "in a blaze of glory, and the church had given her a generous gift of money which she had used to buy luggage for her Congo venture."
 
-In Richmond, her friendship with my grandfather (soon to graduate from Union Theological Seminary) quickly turned to romance. Before the end of the semester, they decided to marry, and Dot decided to break her commitment to return to Congo with the PCUS Committee on Foreign Missions.
+In Richmond, her friendship with my grandfather (soon to graduate from Union Theological Seminary) quickly turned to romance. Before the end of the semester, they were engaged to marry, and Dot decided to break her commitment to return to Congo with the PCUS Committee on Foreign Missions.
 
 Soon after,
 
@@ -35,7 +35,7 @@ They were married at Blackstone on July 19, 1943. My grandfather recounts the we
 
 > Members of the Blackstone Church opened their homes to take in all the guests, besides making all the preparations for the wedding which normally would have been our responsibility. Decorating the church, putting on the rehearsal dinner and wedding reception, and all the other correct things were beautifully taken care of by the ladies in the church, and about all we had to do was to be present.
 
-> Tom Fry performed the ceremony on that warm summer evening. Because of Dot's work in the church for two years, th ere were many of her local friends present as well as members of our immediate families. But because of the difficulties of travel in those wartime days there were no relatives or friends from other places, with the exception of several carloads of young people from the Tabb Street Church of Petersburg, about thirty miles away. They were the ones I had worked and played.with while serving in their church a year or so before. Dot's sister Alice was maid of honor, and Graham McChesney (a seminary classmate) was the best man. I am sure Tom performed his part properly, but about the only thing I now remember took place as we, the bride and groom, went out of the church by a side door. It was one of those swinging doors, and somehow hit me squarely in the face and nearly knocked me down.
+> Tom Fry performed the ceremony on that warm summer evening. Because of Dot's work in the church for two years, there were many of her local friends present as well as members of our immediate families. But because of the difficulties of travel in those wartime days there were no relatives or friends from other places, with the exception of several carloads of young people from the Tabb Street Church of Petersburg, about thirty miles away. They were the ones I had worked and played with while serving in their church a year or so before. Dot's sister Alice was maid of honor, and Graham McChesney (a seminary classmate) was the best man. I am sure Tom performed his part properly, but about the only thing I now remember took place as we, the bride and groom, went out of the church by a side door. It was one of those swinging doors, and somehow hit me squarely in the face and nearly knocked me down.
 
 > My own preparations for the occasion had of necessity been meager. I had driven to Blackstone, and due to the wartime rationing system, had carefully saved up enough gas coupons to cover the trip. I had calculated the route and estimated mileage and gas consumption for the honeymoon but (as I realized later) had cut my budget a little too close (actually another matter of necessity). Aside from having paid in advance for a hotel room in nearby Farmville, I had fifty dollars cash in my wallet.
 >
@@ -45,7 +45,7 @@ The following appeared in a Richmond, VA newspaper and is recorded in my grandfa
 
 > The wedding of Miss Dorothy Longenecker and Mr. Joseph Barron Hopper took place Thursday, July 19 at 7:30 o'clock in the Presbyterian Church, Blackstone. The ceremony was performed by the bridegroom's father, assisted by the Rev. Thomas A. Fry, pastor of the church.
 
-> The bride's parents, the Rev. and Mrs.]' Hershey Longenecker, who were formerly of Mt. Joy, Pa., and St. Louis, Mo., respectively, are Presbyterian missionaries to the Belgian Congo, temporarily residing at Mission Court, this city. The Rev. Dr. and Mrs. Joseph Hopper, parents of the bridegroom, served as missionaries to Korea. Dr. Hopper is now pastor of the Royal Oak Presbyterian Church, Marion.
+> The bride's parents, the Rev. and Mrs. J. Hershey Longenecker, who were formerly of Mt. Joy, Pa., and St. Louis, Mo., respectively, are Presbyterian missionaries to the Belgian Congo, temporarily residing at Mission Court, this city. The Rev. Dr. and Mrs. Joseph Hopper, parents of the bridegroom, served as missionaries to Korea. Dr. Hopper is now pastor of the Royal Oak Presbyterian Church, Marion.
 
 > The bride, who was given in marriage by her father, wore a gown of white satin fashioned with a white marquisette yoke, fitted bodice and long tight sleeves. The full skirt ended in a wide circular train. Her fingertip veil of illusion fell from a Juliet cap of matching satin. She carried a shower bouquet of white gladioli and swainsona.
 
@@ -84,14 +84,3 @@ A friend and I recently stopped by Blackstone Presbyterian Church (which continu
  <img src="/images/blackstone5.jpg" class="figure-img img-fluid rounded" alt="Blackstone sanctuary">
  <figcaption class="figure-caption">Roll of the church showing Dorothy Longenecker's reception as a member by reaffirmation of faith in June 1943</figcaption>
 </figure>
-
-
-![](/images/blackstone1.jpg)
-
-![](/images/blackstone2.jpg)
-
-![](/images/blackstone3.jpg)
-
-![](/images/blackstone4.jpg)
-
-![](/images/blackstone5.jpg)
