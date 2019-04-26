@@ -5,11 +5,12 @@ display_url: https://ulsterworldly.com
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
 collections:
-  - name: "blog posts" 
-    label: "Blog Posts"    description: >
+  - name: "blog posts"
+    label: "Blog Posts"
+    description: >
       Posts (blog entries), visible in indexes and RSS feeds.
     folder: "posts" # The path to the folder where the documents are stored
-    create: true 
+    create: true
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
