@@ -1,6 +1,6 @@
 ---
 title: "Blackstone Presbyterian Church"
-description: "Sketches of the Associate Reformed Presbyterian congregations of York County, SC (as of 1903)."
+description: "The story of Dorothy Longenecker's employment at Blackstone Presbyterian Church and how she came to be married there."
 date: 2019-04-26
 short: false
 draft: false
@@ -14,7 +14,7 @@ tags:
 churches:
  - Blackstone Presbyterian Church
 images:
- - /images/blackstone1.png
+ - /images/blackstone1.jpg
 ---
 
 My grandmother Dorothy “Dot” Longenecker Hopper was born March 26, 1920 in the Belgian Congo to PCUS missionaries Jay Hershey and Minnie Hauhart Longenecker.
