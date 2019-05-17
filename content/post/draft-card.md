@@ -18,6 +18,6 @@ My grandfather was born in May 17, 1921 in Kwangju, Korea; he was the perfect ag
 
 Here is his draft registration card from 1941:
 
-![/images/draftcard.jpg]
+[![](/images/draftcard.jpg)](/images/draftcard.jpg)
 
 Notably his "person who will always know your address" was Dr. C. Darby Fulton, Executive Secretary of Foreign Missions of the PCUS. [Fulton](http://www.thisday.pcahistory.org/2013/09/september-5-c-darby-fulton/), a missionary kid himself, had served as a missionary to Japan and preached at my grandfather's baptism service on June 26, 1921. We would serve as the Executive Secretary from 1932 to 1961.
