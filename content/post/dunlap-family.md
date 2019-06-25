@@ -11,6 +11,7 @@ people:
 tags:
  - Dunlap Family
  - Family
+ - Kentucky
 images:
  - /images/george-d-hopper-grave.jpg
 sources:
