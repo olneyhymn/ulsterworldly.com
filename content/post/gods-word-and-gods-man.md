@@ -102,7 +102,7 @@ a) If we could look behind man-made curtains of barriers today, would we not see
 
 b) If we would look into the homes of many of our own people we would find the Bible, yes, beautifully bound copies, but rarely ever opened--a famine of the word right in our midst.
 
-c) In the pulpits of same Christian churches, alas!, there is a famine of the word of God, which spreads into the hearts of the members of the congregation. Instead of the word they are fed upon perhaps politics, or social or industrial matters, or science, or education-not upon the word of the cross, no word of the Christian hope, while precious souls are starving for the Bread of Life, famishing for the Water of Life,
+c) In the pulpits of same Christian churches, alas!, there is a famine of the word of God, which spreads into the hearts of the members of the congregation. Instead of the word they are fed upon perhaps politics, or social or industrial matters, or science, or education-not upon the word of the cross, no word of the Christian hope, while precious souls are starving for the Bread of Life, famishing for the Water of Life.
 
 d) Once more, even in the theological seminary, when the curriculum is not Biblio-centric, when other subjects, good in themselves, or duties, important and urgent though they be, crowd out the word of God. Yes, a famine of the word is threatened today.
 
