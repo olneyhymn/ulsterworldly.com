@@ -115,7 +115,7 @@ In July, 1895, Mr. A. S. Rogers, then a student in Erskine Seminary, was sent to
 
 ## Sharon
 
-Sharon church is situated in the western part of York Co., S. C., and was organized by Rev. James Rogers in the summer of 1796. Its origin is due to the introduction of Watt’s Hymns into Bullock’s Creek and Beersheba Presbyterian churches. Owing to this innovation, a number of families left these churches and were organized into an Associate Reformed Church. In the winter of 1796 Sharon united with [Bethany](#bethany) in the northern part of the county and [Carmel](#carmel) in the southerın part of the county in a call to Rev. William Dixon, recently came from Scotland. This call he accepted, and he was ordained and installed at Sharon June 5th, 1797.
+Sharon church is situated in the western part of York Co., S. C., and was organized by Rev. James Rogers in the summer of 1796. Its origin is due to the introduction of Watts' Hymns into Bullock’s Creek and Beersheba Presbyterian churches. Owing to this innovation, a number of families left these churches and were organized into an Associate Reformed Church. In the winter of 1796 Sharon united with [Bethany](#bethany) in the northern part of the county and [Carmel](#carmel) in the southerın part of the county in a call to Rev. William Dixon, recently came from Scotland. This call he accepted, and he was ordained and installed at Sharon June 5th, 1797.
 
 About 1804 or 1805 Mr. Dixon, the pastor of Sharon, and Rev. Peter McMullen, withdrew from the Associate Reformed Church, owing to the position of the Church on frequent communion, and the dispensing with days of tasting and thanksgiving in connection with the sacrament, and Sharon went with its pastor.
 
