@@ -1,5 +1,5 @@
 ---
-title: "Sharon Associate Reformed Presbyterian Church"
+title: "Bethany Associate Reformed Presbyterian Church"
 short: true
 people:
  - James Rogers
