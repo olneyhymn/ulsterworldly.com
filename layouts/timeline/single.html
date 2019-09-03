@@ -24,7 +24,7 @@
     {{ if  (or (not .Params.comments) (not .Site.Params.disable_sri)) }}<hr>{{ template "_internal/disqus.html" . }}{{ end }}
 {{ end }}
 {{ define "script" }}
-      <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+      <script src="/js/timeline-min.js"></script>
         <script type="text/javascript">
         var options = {
          hash_bookmark: true,
