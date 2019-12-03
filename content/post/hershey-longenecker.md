@@ -24,4 +24,4 @@ J. Hershey Longenecker, born May 23, 1889, was a Southern Presbyterian missionar
 *Note: The audio quality is bad at first, but it gets better as the video progresses.*
 
 
-Rev. Longenecker's memoir, discussed in the interview, is available [online](http://www.jesuscares4.us/memories/MemoriesOfCongo.htm).
+Rev. Longenecker's memoir, discussed in the interview, is available [online](https://congo.ulsterworldly.com/).
