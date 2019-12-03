@@ -34,7 +34,7 @@ _My grandfather left this record of my grandmother's family, the Longeneckers of
 
 
 Dorothy Anne Longenecker Hopper (Mrs. Joe B. Hopper) , generally known as Dot, was the daughter of J. Hershey Longenecker and Minnie Hauhart Longenecker. In
-recording her Longenecker ancestry, it is necessary to rely very heavily on her father's book "[Memories of Congo, Tales of adventure and work in the heart of Africa](http://www.jesuscares4.us/memories/MemoriesOfCongo.htm)." Considerable material was edited out by his publishers, but fortunately we have his preliminary manuscripts which are more detailed. Therefore we will here virtually copy from his book and insert matters of interest from those earlier manuscripts.
+recording her Longenecker ancestry, it is necessary to rely very heavily on her father's book "[Memories of Congo, Tales of adventure and work in the heart of Africa](https://congo.ulsterworldly.com/)." Considerable material was edited out by his publishers, but fortunately we have his preliminary manuscripts which are more detailed. Therefore we will here virtually copy from his book and insert matters of interest from those earlier manuscripts.
 
 It is interesting that on the page opposite the title page in this book, Dot's father quoted the very same verse that my father used so often and preached on many times:
 
