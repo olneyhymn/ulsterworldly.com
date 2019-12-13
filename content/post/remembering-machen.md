@@ -9,7 +9,7 @@ short = true
 images = ["/images/jgreshammachen.jpg"]
 +++
 
-In 2001, liberal Anglican theologian [Norman Pittenger](https://en.wikipedia.org/wiki/Norman_Pittenger) provided the [Princeton Seminary Bulletin](https://archive.org/details/princetonseminar2732prin/page/260) with some of his memories of his youth in Princeton, NJ where he was born in 1905. [Nick Batzig noted](https://www.facebook.com/NickBatzig/posts/10157840322639886) Pittenger included his memories of J. Gresham Machen
+In 2001, liberal Anglican theologian [Norman Pittenger](https://en.wikipedia.org/wiki/Norman_Pittenger) provided the [Princeton Seminary Bulletin](https://archive.org/details/princetonseminar2732prin/page/260) with some of his memories of his youth in Princeton, NJ where he was born in 1905. [Nick Batzig noted](https://www.facebook.com/NickBatzig/posts/10157840322639886) Pittenger included his memories of J. Gresham Machen:
 
 > My increasing acquaintance with Seminary students, coupled with my newspaper connections, made it natural for me to take an interest in, and write news reports about, the controversy in Presbyterianism (especially at the Seminary) between a very conservative and a more or less “liberal” theology. (I thought it a very mild variety of liberalism.) And so I got to know Dr. Machen personally. He was kind to me, polite and cooperative. I thought him a charming, vigorous, traditional but kindly man. I can remember only one somewhat biting comment he made: the reason “liberal Protestants” were so much concerned with ethics—to the exclusion of a deep theological interest—was that they had nothing much else to believe in!
 >
