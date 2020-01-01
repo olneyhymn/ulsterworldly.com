@@ -8,6 +8,7 @@ people:
   - R. J. Rushdoony
   - Carl Henry
   - J. Marcellus Kik
+  - J. Gresham Machen
 tags:
   - Christianity Today
   - OPC

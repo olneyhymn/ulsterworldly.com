@@ -7,6 +7,7 @@ short: False
 draft: False
 people:
   - E.J. Young
+  - J. Gresham Machen
 tags:
   - OPC
   - Presbyterian Controversy
