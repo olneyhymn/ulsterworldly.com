@@ -57,7 +57,7 @@ Oh loving God, we thank Thee for setting us in families and for the gift of each
 
 Give these parents the grace to keep the vows that they have just made, as well as all the wisdom and patience needed to train up this child in the way he should go. Help them and all others to set before him an example of honesty, truthfulness, generosity, fairness, kindness, and above all devotion to Thee.
 
-And as Timothy learns to walk on his little legs maybe ha also walk with Thee. As his mind grasps the world about him may he know that the fear of the Lord is the beginning of wisdom. Give him health of body and strength of mind, moral courage and spiritual insight.
+And as Timothy learns to walk on his little legs maybe he also walk with Thee. As his mind grasps the world about him may he know that the fear of the Lord is the beginning of wisdom. Give him health of body and strength of mind, moral courage and spiritual insight.
 
 Enable him to able the instruction of the Apostle Paul to another Timothy so long ago to present himself approved of God as a workman who does not need to be ashamed, handling accurately the word of truth. Through all the days and years ahead watch over and protect him. Bless him and make him a blessing to others about him.
 
