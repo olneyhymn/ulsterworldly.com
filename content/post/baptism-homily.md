@@ -30,7 +30,7 @@ David and Liza, the Word of God teaches that the children of believers are inclu
 
 ### Prayer
 
-Almighty God and Father of our Lord Jesus Christ, we invoke Thy blessing upon these parents as they take these column vows and present this child for baptism. As he is presented in humble faith, we beseech Thee to receive him, endue him with Thy Holy Spirit, and keep him ever as Thine own through Jesus Christ our Lord. Amen.
+Almighty God and Father of our Lord Jesus Christ, we invoke Thy blessing upon these parents as they take these solemn vows and present this child for baptism. As he is presented in humble faith, we beseech Thee to receive him, endue him with Thy Holy Spirit, and keep him ever as Thine own through Jesus Christ our Lord. Amen.
 
 ### To the Parents:
 
