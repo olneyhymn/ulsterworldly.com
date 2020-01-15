@@ -4,7 +4,7 @@ description: "Guide to the works of J. Gresham Machen (1881–1937)."
 date: 2019-09-03
 slug: "readmachen.com"
 short: true
-tags:
+people:
   - J. Gresham Machen
 ---
 
