@@ -10,9 +10,7 @@ tags:
  - The Presbyterian Guardian
 people:
  - D.G. Hart
- - J. Gresham Mache
-images:
- - /images/irfon.jpg
+ - J. Gresham Machen
 ---
 
 The most recent issue of the [OPC magazine New Horizons](https://opc.org/nh.html?issue_id=276) features an article by historian and OPC ruling elder D.G. Hart entitled [Machen's Magazines](https://opc.org/nh.html?article_id=1009). 
