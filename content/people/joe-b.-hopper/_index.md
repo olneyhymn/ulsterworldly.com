@@ -15,7 +15,7 @@ images:
  - /images/dot-and-joe-2.png
 ---
 
-Joseph B. Hopper was born on May 17, 1921 in Kwangju, Korea. He was raised by his missionary parents in [Korea](https://ulsterworldly.com/tags/korea/). He entered Davidson College in North Carolina in 1938, graduating with a Bachelor of Arts in 1942. In the Fall of 1939, he was received under care as a candidate for ministry of the Concord Presbytery of the Southern Presbyterian Church.
+Joseph B. Hopper was born on May 17, 1921 in Kwangju, Korea. He was raised by his missionary parents in [Korea](https://ulsr of terworldly.com/tags/korea/). He entered Davidson College in North Carolina in 1938, graduating magna cum laude with a Bachelor of Arts in 1942; he was a member of Phi Beta Kappa. In the Fall of 1939, he was received under care as a candidate for ministry of the Concord Presbytery of the Southern Presbyterian Church.
 
 Joe matriculated to Union Presbyterian Seminary in Richmond, VA where he earned his Bachelors of Divinity in 1945. He would later earn his ThM at Union (1950) and a Doctor of Divinity from Davidson College (1965).
 
