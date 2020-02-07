@@ -5,7 +5,7 @@
 
 {{ .Content }}
 
-{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+{{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
 {{ range $paginator.Pages }}
 {{ if and (not .Params.short) .Params.description }}
 {{ .Render "summary" }}

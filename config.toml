@@ -4,6 +4,10 @@ title = "Ulster Worldly"
 theme = "westminsterhist"
 Copyright = "2018 Tim Hopper"
 Paginate = 50
+
+[markup.goldmark.renderer]
+unsafe= true
+
 [taxonomies]
   tag = "tags"
   people = "people"
