@@ -28,10 +28,10 @@
   {{- if not .PublishDate.IsZero }}
   "datePublished": "{{ .PublishDate.Format $ISO8601 }}",
   {{- else }}
-  "datePublished": "{{ .Date.Format $ISO8601 }}",
+  "datePublished": {{ .Date.Format $ISO8601 }},
   {{- end }}
   {{- if not .Lastmod.IsZero }}
-  "dateModified": "{{ .Lastmod.Format $ISO8601 }}",
+  "dateModified": {{ .Lastmod.Format $ISO8601 }},
   {{- end }}
   {{- with .Site.Social.GooglePlus }}
   "publisher": "{{ printf "%s" . }}",
