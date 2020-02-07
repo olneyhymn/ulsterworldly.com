@@ -6,6 +6,7 @@
 {{ .Content }}
 
 
+{{ if not .Paginator.HasPrev }}
 <h2>Posts Archive</h2>
 <ul>
   {{ range where .Site.RegularPages "Type" "post" }}
@@ -14,6 +15,7 @@
 </ul>
 
 <h2>Recent Posts</h2>
+{{ end }}
 
 {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
 {{ range $paginator.Pages }}
