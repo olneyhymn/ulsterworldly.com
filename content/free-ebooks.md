@@ -26,7 +26,7 @@ There are a number of free ebooks on the history of Presbyterianism. Here are so
 * [archive.org](https://archive.org/details/cu31924052251646)
 * [Google Books](https://books.google.com/books?id=M-UqAAAAYAAJ)
 
-<span class="lead"><i class="fa fa-book text-warning" aria-hidden="true"></i> _The centennial history of the Associate Reformed Presbyterian Church, 1803-1903_</span>
+<span class="lead"><i class="fa fa-book text-warning" aria-hidden="true"></i> _The centennial history of the Associate Reformed Presbyterian Church, 1803-1903_ </span>
 
 * [archive.org](https://archive.org/details/centennialhistor00asso)
 * [Google Books](https://books.google.com/books?id=eco5AQAAMAAJ)
@@ -130,5 +130,3 @@ by Ezra Hall Gillett (1823-1875)</span>
 
 * [logcollegepress.com](https://www.logcollegepress.com/dissertations-and-theses)
 
-
-If you know of other good volumes, please leave a comment below.
