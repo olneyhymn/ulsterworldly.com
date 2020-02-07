@@ -5,6 +5,16 @@
 
 {{ .Content }}
 
+
+<h2>Posts Archive</h2>
+<ul>
+  {{ range where .Site.RegularPages "Type" "post" }}
+    <li class="list"><a href="{{ .RelPermalink }}" title="{{ .Params.description }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+
+<h2>Recent Posts</h2>
+
 {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
 {{ range $paginator.Pages }}
 {{ if and (not .Params.short) .Params.description }}
