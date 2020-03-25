@@ -2,12 +2,14 @@
 title: "Dorothy Longenecker Hopper, 1920-2015"
 description: "Brief biography of the first 2/3 years of Dot Hopper's life."
 date: "2015-12-05"
-people:  - Joe B. Hopper
+people:
+  - Joe B. Hopper
   - Mary Seel
   - Hershey Longenecker
   - Minnie Hauhart
   - Dot Hopper
-tags:  - Korea
+tags:
+  - Korea
   - Congo
   - Family
   - Louisville Presbyterian Theological Seminary
