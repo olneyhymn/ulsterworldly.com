@@ -15,7 +15,7 @@ tags:
   - Louisville Presbyterian Theological Seminary
 slug: "dorothy-hopper"
 images:
- - /images/dot02.jpg
+ - /images/dot/dot02.jpg
 ---
 
 _This was written by Dot Hopper's friend Mary B. Seel in September 1985, a year before Joe and Dot retired from 38 years of ministry in Korea. Dot's son David (my dad) revised and updated it in March 2020._
