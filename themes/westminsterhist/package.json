@@ -27,7 +27,7 @@
     "popper.js": "^1.12.4"
   },
   "dependencies": {
-    "bootstrap": "4.1.2",
+    "bootstrap": "4.3.1",
     "sri": "^1.1.0",
     "timelinejs3": "^3.4.0"
   }
