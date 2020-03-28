@@ -57,4 +57,4 @@ Two years later we were on the way to Congo.
 
 ![](/images/longenecker-wedding.jpg)
 
-_The whole book is available online: http://www.jesuscares4.us/memories/MemoriesOfCongo.htm._
+([The whole book is available online.](https://congo.ulsterworldly.com/))

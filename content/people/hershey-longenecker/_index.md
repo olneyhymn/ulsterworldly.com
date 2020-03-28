@@ -26,4 +26,4 @@ He was licensed to preach by the Presbytery of Transylvania of the [Presbyterian
 
  Hershey and Minnie served as PCUS missionaries to Congo from 1917 to 1951. After being diagnosed with diabetes, he served returned to the US and took served as a pastor in in Quitman, Ga. (1951-54), and in Roebuck and Center Point, S.C. (1955-56). They retired to Morristown, TN in 1956. After 10 years of retirement, Minnie went to be with the Lord. On October 21, 1967, he married Minnie's niece Ruth Engler. Hershey  died on 1978.
 
- He wrote "Memories of Congo" about his 34 years on the mission field.
+ He wrote [Memories of Congo](https://congo.ulsterworldly.com/) about his 34 years on the mission field.

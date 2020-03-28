@@ -3,7 +3,11 @@ languageCode = "en-us"
 title = "Ulster Worldly"
 theme = "westminsterhist"
 Copyright = "2018 Tim Hopper"
-Paginate = 50
+Paginate = 10
+
+[markup.goldmark.renderer]
+unsafe= true
+
 [taxonomies]
   tag = "tags"
   people = "people"

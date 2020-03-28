@@ -25,7 +25,7 @@ images:
  - /images/hlongenecker.jpg
 ---
 
-_My grandfather left this record of my grandmother's family, the Longeneckers of Pennsylvania; it is largely focused on the life of my great-grandfather. J. Hershey Longenecker was born into a Mennonite family from the Lancaster-area. He ended up a Presbyterian minister in Kentucky and then a missionary to Congo. My great-grandfather wrote a [memoir about his life](http://www.jesuscares4.us/memories/MemoriesOfCongo.htm) that my dad's cousin has made [freely available](http://www.jesuscares4.us/memories/MemoriesOfCongo.htm). You can read my other posts about Hershey Longenecker [here](http://localhost:1313/people/hershey-longenecker/)._
+_My grandfather left this record of my grandmother's family, the Longeneckers of Pennsylvania; it is largely focused on the life of my great-grandfather. J. Hershey Longenecker was born into a Mennonite family from the Lancaster-area. He ended up a Presbyterian minister in Kentucky and then a missionary to Congo. My great-grandfather wrote a [memoir about his life](http://congo.ulsterworldly.com/MemoriesOfCongo.htm) that my dad's cousin has made [freely available](http://congo.ulsterworldly.com/MemoriesOfCongo.htm). You can read my other posts about Hershey Longenecker [here](http://localhost:1313/people/hershey-longenecker/)._
 
 <figure class="figure">
   <img src="/images/hlongenecker.jpg" class="figure-img img-fluid rounded" alt="J. Hershey Longenecker.">
@@ -34,7 +34,7 @@ _My grandfather left this record of my grandmother's family, the Longeneckers of
 
 
 Dorothy Anne Longenecker Hopper (Mrs. Joe B. Hopper) , generally known as Dot, was the daughter of J. Hershey Longenecker and Minnie Hauhart Longenecker. In
-recording her Longenecker ancestry, it is necessary to rely very heavily on her father's book "[Memories of Congo, Tales of adventure and work in the heart of Africa](http://www.jesuscares4.us/memories/MemoriesOfCongo.htm)." Considerable material was edited out by his publishers, but fortunately we have his preliminary manuscripts which are more detailed. Therefore we will here virtually copy from his book and insert matters of interest from those earlier manuscripts.
+recording her Longenecker ancestry, it is necessary to rely very heavily on her father's book "[Memories of Congo, Tales of adventure and work in the heart of Africa](https://congo.ulsterworldly.com/)." Considerable material was edited out by his publishers, but fortunately we have his preliminary manuscripts which are more detailed. Therefore we will here virtually copy from his book and insert matters of interest from those earlier manuscripts.
 
 It is interesting that on the page opposite the title page in this book, Dot's father quoted the very same verse that my father used so often and preached on many times:
 
@@ -62,7 +62,7 @@ We begin with his own introduction of himself:
 
 > While living with Grandfather I received a gift that pleased me very much. It was a toy electric motor, or rather the parts for the motor, with instructions for assembling it. After assembling and operating it, I became intensely interested in simple electricity. The Friends' Public Library was not far away, and there I borrowed how-to-do-it books which helped me to make a number of simple things such as electro-magnets, induction coils, buzzers, and electric batteries. My best job was making a set of shocking coils. One of my friends who knew more about electricity than I did laughed at my crude outfit, and doubted whether it had any power. So he got the first chance to try it . And was he shocked! He quaked so violently as to pull down my battery and it was smashed.
 
-> Like many experiences of my boyhood this work with electricity helped me greatly when I worked at the [Mission Press many years later](http://www.jesuscares4.us/memories/ch5.htm). There I needed electricity for the operation of a Monotype type-casting machine. My boyhood experiments encouraged me to go through with taking to Congo a steam boiler, steam engine, electric generator, and the type-casting machine itself. So the playthings of my boyhood had considerable importance in the greatest work of my life.
+> Like many experiences of my boyhood this work with electricity helped me greatly when I worked at the [Mission Press many years later](http://congo.ulsterworldly.com/ch5.htm). There I needed electricity for the operation of a Monotype type-casting machine. My boyhood experiments encouraged me to go through with taking to Congo a steam boiler, steam engine, electric generator, and the type-casting machine itself. So the playthings of my boyhood had considerable importance in the greatest work of my life.
 
 > I got a job in a large factory painting wooden tanks for storage batteries. It was dirty work, and my companions for the most part were uneducated men would never be anything more than day laborers. There were, however, two notable exceptions. One was a little old carpenter who was a Methodist local preacher and read Dickens, and the other was a Scotch rug weaver. Both of these intelligent, capable men took such work as this during dull seasons in their own lines of work.
 
@@ -348,7 +348,7 @@ One of the most interesting stories in his book is that of the courtship of Dot'
 </figure>
 
 
-Since [his book](http://www.jesuscares4.us/memories/MemoriesOfCongo.htm) relates his life in the Congo, I am not here describing it fully. After the Longeneckers became a part of my life in 1945 I continue with further information as we passed many years in the same family. Perhaps this account of Hershey Longenecker's life at this point should end with the introduction of his book:
+Since [his book](http://congo.ulsterworldly.com/MemoriesOfCongo.htm) relates his life in the Congo, I am not here describing it fully. After the Longeneckers became a part of my life in 1945 I continue with further information as we passed many years in the same family. Perhaps this account of Hershey Longenecker's life at this point should end with the introduction of his book:
 
 > Longenecker, while performing missionary duties in Africa, was captured by cannibals. It is said that he made excellent soup.
 

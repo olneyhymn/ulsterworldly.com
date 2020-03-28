@@ -13,7 +13,7 @@ images:
   - /images/hershey-longenecker.png
 ---
 
-The recent solar eclipse reminded my dad that his grandfather had seen the [1919 eclipse](https://en.wikipedia.org/wiki/Solar_eclipse_of_May_29,_1919) in Congo. My great grandfather recounts the story in [his memoir](http://www.jesuscares4.us/memories/ch2.htm):
+The recent solar eclipse reminded my dad that his grandfather had seen the [1919 eclipse](https://en.wikipedia.org/wiki/Solar_eclipse_of_May_29,_1919) in Congo. My great grandfather recounts the story in [his memoir](http://congo.ulsterworldly.com/ch2.htm):
 
 > One day in mid-afternoon I was teaching a Bible class in the grass-roofed chapel. The roof was rather low at the edges, so most of our light was reflected from the ground. It grew darker and darker, until we could not see to read. I told the students we had better get home before the storm broke. We stepped outside, but to our great surprise there was no storm. But it continued to grow darker and darker. There was a total eclipse of the sun.
 >
