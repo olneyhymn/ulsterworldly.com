@@ -12,7 +12,6 @@ churches:
  - Tirzah ARP
  - Sharon ARP
  - Bethany ARP
-images:
 ---
 
 From the 1903 [Centenial History of the ARP](https://books.google.com/books?id=eco5AQAAMAAJ):

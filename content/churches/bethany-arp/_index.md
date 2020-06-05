@@ -16,8 +16,7 @@ tags:
  - Kings Mountain
  - PCUSA
 churches:
-images:
- - /images/lorimer2.png
+ - Bethany Church
 ---
 
 From the 1903 [Centenial History of the ARP](https://books.google.com/books?id=eco5AQAAMAAJ):
