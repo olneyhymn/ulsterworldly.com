@@ -1,10 +1,12 @@
 ---
 title: "The Deaconship"
-description: "Interview from 1861 with a deacon who served the Free Church of Scotland for 18 years."
+description: "New paperback edition of John G. Lorimer's classic work \"The Deaconship\"."
 date: "2020-06-05"
 short: true
 people:
  - John G. Lorimer
+images:
+    - /images/lorimer2.png
 ---
 
 My edited and newly typeset version of John G. Lorimer's work [The
