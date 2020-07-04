@@ -1,6 +1,6 @@
 ---
 title: "Elizabeth Adamson"
-description: "The Barrons of Rock Hill circa 1935."
+description: "A godly wife is edified and comforted in her death by the ministry of John Knox."
 date: 2020-06-28
 short: false
 draft: false
@@ -9,6 +9,7 @@ people:
  - James Barron
  - Elizabeth Adamson
  - John Knox
+ - James Syme
 tags:
  - Scotland
 images:
