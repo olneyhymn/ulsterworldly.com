@@ -8,6 +8,7 @@ slug: scottish-barrons
 people:
  - John Knox
  - James Barron
+ - James Syme
  - Joseph Hopper
  - Annis Barron Hopper
 tags:
