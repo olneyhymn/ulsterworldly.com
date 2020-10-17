@@ -24,7 +24,7 @@ Rev. H. McAllister Griffiths, D.D. read a three point statement:
 
 Those the ministers, ruling elders, and laity who wished to affirm the first point were asked to stand and constitute a new church. The ministers and ruling elders who wished to constitute the first General Assembly by affirming the second section were asked to stand.
 
-Thirty six ministers stood in affirmation of the first two sections. Their names are recorded in the [minutes of the first General Assembly of the Orthodox Presbyterian Church](https://opcgaminutes.org/). I have included names below along with some biographical information obtained from the [A Ministerial and Congregational Register of the OPC, 1936–2016](https://store.opc.org/ProductDetails.asp?ProductCode=H%2DMinisterial%2DRegister).
+Thirty six ministers stood in affirmation of the first two sections; six men would be ordained by this assembly. Their names are recorded in the [minutes of the first General Assembly of the Orthodox Presbyterian Church](https://opcgaminutes.org/). I have included names below along with some biographical information obtained from the [A Ministerial and Congregational Register of the OPC, 1936–2016](https://store.opc.org/ProductDetails.asp?ProductCode=H%2DMinisterial%2DRegister).
 
 | Name                    | Residence         | Age | Birth | Death | Ordained By | Left OPC In | Left For     |
 | ----------------------- | ----------------- | --- | ----- | ----- | ----------- | ----------- | ------------ |
