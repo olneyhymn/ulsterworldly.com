@@ -1,6 +1,6 @@
 ---
 title: "Founding Ministers of the OPC"
-description: ""
+description: "Names of the ministers who formed the first general assembly of the Orthodox Presbyterian Church"
 date: 2020-10-17
 short: false
 people:
@@ -9,24 +9,22 @@ people:
 tags:
  - OPC
 images:
- -
+ - /images/first-opc-ga.png
 ---
 
 On June 11th, 1936 in Center City Philadelphia, a body of Christians assembled to establish a new denomination, the Presbyterian Church of America (now called the Orthodox Presbyterian Church).
 
 Rev. H. McAllister Griffiths, D.D. read a three point statement:
 
->  1. In order to continue what we believe to be the true spiritual succession of the Presbyterian Church in the U.S.A., which we hold to have been abandoned by the present organization of that body, and to make clear to all the world that we have no connection with the organization bearing that name, we, a company of ministers and ruling elders, having been removed from that organization in contravention (as we believe) of its constitution, or having severed our connection with that organization, or hereby solemnly declaring that we do sever our connection with it, or coming as ministers or ruling elders from other ecclesiastical bodies holding the Reformed Faith, do hereby associate ourselves together with all Christian people who do and will adhere to us, in a body to be known and styled as the Presbyterian Church of America. 
-> 
-> 2. We, a company of ministers and ruling elders, do hereby in our own name, in the name of those who have adhered to us, and by the warrant and authority of the Lord Jesus Christ constitute ourselves a General Assembly of the Presbyterian Church of America. 
-> 
-> 3. We do solemnly declare (1) that the Scriptures of the Old and New Testaments are the Word of God, the only infallible rule of faith and practice, (2) that the Westminster Confession of Faith and Catechisms contain the system of doctrine taught in the Holy Scriptures, and (3) that we subscribe to and maintain the principles of Presbyterian church government as being founded upon and agreeable to the Word of God. 
+>  1. In order to continue what we believe to be the true spiritual succession of the Presbyterian Church in the U.S.A., which we hold to have been abandoned by the present organization of that body, and to make clear to all the world that we have no connection with the organization bearing that name, we, a company of ministers and ruling elders, having been removed from that organization in contravention (as we believe) of its constitution, or having severed our connection with that organization, or hereby solemnly declaring that we do sever our connection with it, or coming as ministers or ruling elders from other ecclesiastical bodies holding the Reformed Faith, do hereby associate ourselves together with all Christian people who do and will adhere to us, in a body to be known and styled as the Presbyterian Church of America.
+>
+> 2. We, a company of ministers and ruling elders, do hereby in our own name, in the name of those who have adhered to us, and by the warrant and authority of the Lord Jesus Christ constitute ourselves a General Assembly of the Presbyterian Church of America.
+>
+> 3. We do solemnly declare (1) that the Scriptures of the Old and New Testaments are the Word of God, the only infallible rule of faith and practice, (2) that the Westminster Confession of Faith and Catechisms contain the system of doctrine taught in the Holy Scriptures, and (3) that we subscribe to and maintain the principles of Presbyterian church government as being founded upon and agreeable to the Word of God.
 
-Those the ministers, ruling elders, and laity who wished to affirm the first point were asked to stand and constitute a new church. The ministers and ruling elders who wished to constitute the first General Assembly "on the basis of section II were requested to stand".
+Those the ministers, ruling elders, and laity who wished to affirm the first point were asked to stand and constitute a new church. The ministers and ruling elders who wished to constitute the first General Assembly by affirming the second section were asked to stand.
 
-Thirty six ministers stood in affirmation of the first two sections. Their names are recorded in the [minutes of the first General Assembly of the Orthodox Presbyterian Church](https://opcgaminutes.org/). Their names are included below along with some biographical information obtained from the [A Ministerial and Congregational Register of the OPC, 1936–2016](https://store.opc.org/ProductDetails.asp?ProductCode=H%2DMinisterial%2DRegister). 
-
-<br />
+Thirty six ministers stood in affirmation of the first two sections. Their names are recorded in the [minutes of the first General Assembly of the Orthodox Presbyterian Church](https://opcgaminutes.org/). I have included names below along with some biographical information obtained from the [A Ministerial and Congregational Register of the OPC, 1936–2016](https://store.opc.org/ProductDetails.asp?ProductCode=H%2DMinisterial%2DRegister).
 
 | Name                    | Residence         | Age | Birth | Death | Ordained By | Left OPC In | Left For     |
 | ----------------------- | ----------------- | --- | ----- | ----- | ----------- | ----------- | ------------ |
@@ -75,6 +73,14 @@ Thirty six ministers stood in affirmation of the first two sections. Their names
 
 Several ministers who "signified their intention of joining the Presbyterian Church of America" were seated as associate members of the assembly:
 
-Charles Dana Chrisman, (New City, N. Y.), Leslie A. Dunn (Columbus, N. J.), Lewis J. Grotcnhuis (Phillipsburg, N. J.), Robert S. Marsden (Middletown, Pa.), John C. Rankin, (Worcester, N. Y.), Cornelius Van Til  (Philadelphia, Pa.), Robert L. Vining (Mifflinburg, Pa.), Peter F. Wall (Chester, N. Y.)l Walter V. Watson (Syracuse, N. Y)
+*  Charles Dana Chrisman, (New City, N. Y.)
+*  Leslie A. Dunn (Columbus, N. J.)
+*  Lewis J. Grotcnhuis (Phillipsburg, N. J.)
+*  Robert S. Marsden (Middletown, Pa.)
+*  John C. Rankin, (Worcester, N. Y.)
+*  Cornelius Van Til  (Philadelphia, Pa.)
+*  Robert L. Vining (Mifflinburg, Pa.)
+*  Peter F. Wall (Chester, N. Y.)
+*  Walter V. Watson (Syracuse, N. Y)
 
 By the second General Assembly later in 1936, there were 106 ministers on the roll of the denomination.
