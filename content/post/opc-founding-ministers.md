@@ -73,7 +73,7 @@ Thirty six ministers stood in affirmation of the first two sections; six men wou
 
 Several ministers who "signified their intention of joining the Presbyterian Church of America" were seated as associate members of the assembly:
 
-*  Charles Dana Chrisman, (New City, N. Y.)
+*  Charles Dana Chrisman, (New York City, N. Y.)
 *  Leslie A. Dunn (Columbus, N. J.)
 *  Lewis J. Grotcnhuis (Phillipsburg, N. J.)
 *  Robert S. Marsden (Middletown, Pa.)
