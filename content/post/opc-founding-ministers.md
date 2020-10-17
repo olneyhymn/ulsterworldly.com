@@ -24,7 +24,9 @@ Rev. H. McAllister Griffiths, D.D. read a three point statement:
 
 Those the ministers, ruling elders, and laity who wished to affirm the first point were asked to stand and constitute a new church. The ministers and ruling elders who wished to constitute the first General Assembly "on the basis of section II were requested to stand".
 
-Thirty six ministers stood in affirmation of the first two sections. 
+Thirty six ministers stood in affirmation of the first two sections. Their names are recorded in the [minutes of the first General Assembly of the Orthodox Presbyterian Church](https://opcgaminutes.org/). Their names are included below along with some biographical information obtained from the [A Ministerial and Congregational Register of the OPC, 1936–2016](https://store.opc.org/ProductDetails.asp?ProductCode=H%2DMinisterial%2DRegister). 
+
+<br />
 
 | Name                    | Residence         | Age | Birth | Death | Ordained By | Left OPC In | Left For     |
 | ----------------------- | ----------------- | --- | ----- | ----- | ----------- | ----------- | ------------ |
@@ -33,7 +35,7 @@ Thirty six ministers stood in affirmation of the first two sections.
 | Philip du B. Arcularius | Duryea, PA        | 34  | 1902  | 1985  | PCUSA       | 1938        | BPC          |
 | Robert L. Atwell        | Harrisville, PA   | 26  | 1910  | 1988  | PCUSA       |             |              |
 | J. Oliver Buswell, Jr.  | Wheaton, IL       | 41  | 1895  | 1977  | PSUSA       | 1938        | BPC          |
-| Robert Churchhill       | Robert Churchhill | 32  | 1903  | 1980  | OPC         |             |              |
+| Robert Churchhill       | Tacoma, WA        | 32  | 1903  | 1980  | OPC         |             |              |
 | John P. Clelland        | Wilmington, DE    | 28  | 1907  | 1993  | PCUSA       | 1965        | BPC          |
 | Bruce A. Coie           |                   | 29  | 1907  | 1998  | OPC         |             |              |
 | Calvin K. Cummings      | Philadelphia, PA  | 26  | 1909  | 1987  | OPC         |             |              |
@@ -70,3 +72,9 @@ Thirty six ministers stood in affirmation of the first two sections.
 | Henry G. Welbon         | Newark, DE        | 31  | 1904  | 1999  | PCUSA       | 1937        | BPC          |
 | Charles J. Woodbridge   | Philadelphia, PA  | 34  | 1902  | 1995  | PCUSA       | 1937        | PCUS         |
 | Paul Woolley            | Philadelphia, PA  | 34  | 1902  | 1984  | PCUSA       |             |              |
+
+Several ministers who "signified their intention of joining the Presbyterian Church of America" were seated as associate members of the assembly:
+
+Charles Dana Chrisman, (New City, N. Y.), Leslie A. Dunn (Columbus, N. J.), Lewis J. Grotcnhuis (Phillipsburg, N. J.), Robert S. Marsden (Middletown, Pa.), John C. Rankin, (Worcester, N. Y.), Cornelius Van Til  (Philadelphia, Pa.), Robert L. Vining (Mifflinburg, Pa.), Peter F. Wall (Chester, N. Y.)l Walter V. Watson (Syracuse, N. Y)
+
+By the second General Assembly later in 1936, there were 106 ministers on the roll of the denomination.
