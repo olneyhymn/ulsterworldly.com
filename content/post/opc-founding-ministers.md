@@ -26,4 +26,47 @@ Those the ministers, ruling elders, and laity who wished to affirm the first poi
 
 Thirty six ministers stood in affirmation of the first two sections. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRrg_cMsYmNUOSQDG1lL3Yv0jR6Sb7qBaqJUD7w8rxgYZWM8s4LB9HmH415G22MZNhr2gfKMrxupjbY/pubhtml?gid=1227182281&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+| Residence         | Age | Birth | Death | Ordained By | Left OPC In | Left For     |
+| ----------------- | --- | ----- | ----- | ----------- | ----------- | ------------ |
+| Indianapolis, IN  | 37  | 1899  | 1954  | PCUSA       | 1948        | PCUS         |
+| Duryea, PA        | 34  | 1902  | 1985  | PCUSA       | 1938        | BPC          |
+| Robert Churchhill | 32  | 1903  | 1980  | OPC         |             |              |
+| Wilmington, DE    | 28  | 1907  | 1993  | PCUSA       | 1965        | BPC          |
+|                   | 29  | 1907  | 1998  | OPC         |             |              |
+| Philadelphia, PA  | 26  | 1909  | 1987  | OPC         |             |              |
+| China             | 59  | 1877  | 1972  | PCUSA       | 1944        | BPC          |
+| Quaryville, PA    | 31  | 1905  | 1990  | PCUSA       | 1949        | Unaffiliated |
+| India             | 24  | 1912  | 1999  | OPC         | 1943        | BPC          |
+| Philadelphia, PA  | 34  | 1901  | 1984  | PCUSA       | 1946        | RCA          |
+| Philadelphia, PA  | 25  | 1911  | 2006  | OPC         | 1946        | BPC          |
+| Philadelphia, PA  | 36  | 1900  | 1957  | PCC         | 1938        | BPC          |
+| Ventnor, NJ       | 36  | 1900  | 1899  | PCUSA       | 1938        | BPC          |
+| Philadelphia, PA  | 25  | 1911  | 2008  | OPC         | 1938        | BPC          |
+| Philadelphia, PA  | 27  | 1909  | 1989  | PCUSA       | 1941        | PCUS         |
+| Oxford, WI        | 46  | 1889  | 1947  | PCUSA       | 1937        | Unaffiliated |
+| Athens, WI        | 39  | 1896  | 1983  | PCUSA       | 1936        | PCUSA        |
+| New Haven, CT     | 32  | 1904  | 1991  | PCUSA       | 1942        | ARP          |
+| Philadelphia, PA  | 54  | 1881  | 1937  | PCUSA       |             |              |
+| Philadelphia, PA  | 34  | 1902  | 1997  | PCUSA       | 1938        | BPC          |
+| Oxford, PA        | 31  | 1905  | 1994  | PCUSA       | 1951        | PCUS         |
+| Merrill, WI       | 48  | 1887  | 1936  | PCUSA       |             |              |
+| Wildwood, NJ      | 30  | 1905  | 1988  | PCUSA       | 1945        | BPC          |
+| Philadelphia, PA  | 36  | 1900  | 1995  | PCUSA       | 1947        | PCUSA        |
+| Nottingham, PA    | 35  | 1900  | 1977  | PCUSA       | 1943        | PCC          |
+| Frederick, MD     | 44  | 1891  | 1958  | PCC         | 1938        | BPC          |
+| Bridgedon, NJ     | 30  | 1906  | 1991  | PCUSA       | 1947        | BPC          |
+| Philadelphia, PA  | 39  | 1897  | 1959  | PCUSA       | 1939        | UPCNA        |
+| Port Kennedy, PA  | 38  | 1898  | 1985  | PCUSA       |             |              |
+| Chicago, IL       | 54  | 1881  | 1938  | PCUSA       | 1937        | BPC          |
+| Newark, DE        | 31  | 1904  | 1999  | PCUSA       | 1937        | BPC          |
+| Philadelphia, PA  | 34  | 1902  | 1995  | PCUSA       | 1937        | PCUS         |
+| Philadelphia, PA  | 34  | 1902  | 1984  | PCUSA       |             |              |
+| Philadelphia, PA  | 34  | 1902  | 1962  | PCUSA       |             |              |
+| Philadelphia, PA  | 33  | 1903  | 1992  | PCUSA       |             |              |
+| Middletown, DE    | 31  | 1905  | 1993  | PCUSA       |             |              |
+| New Park, PA      | 30  | 1906  | 1991  | PCUSA       |             |              |
+| Ridgebury, NY     | 28  | 1908  | 1988  | PCUSA       |             |              |
+| Windham, NY       | 27  | 1908  | 1965  | PCUSA       |             |              |
+| Canaan, Maine     | 26  | 1909  | 1947  | PCUSA       |             |              |
+| Harrisville, PA   | 26  | 1910  | 1988  | PCUSA       |             |              |
+| Wheaton, IL       | 41  | 1895  | 1977  | PSUSA       | 1938        | BPC          |
