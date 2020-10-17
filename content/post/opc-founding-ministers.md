@@ -26,47 +26,47 @@ Those the ministers, ruling elders, and laity who wished to affirm the first poi
 
 Thirty six ministers stood in affirmation of the first two sections. 
 
-| Residence         | Age | Birth | Death | Ordained By | Left OPC In | Left For     |
-| ----------------- | --- | ----- | ----- | ----------- | ----------- | ------------ |
-| Indianapolis, IN  | 37  | 1899  | 1954  | PCUSA       | 1948        | PCUS         |
-| Duryea, PA        | 34  | 1902  | 1985  | PCUSA       | 1938        | BPC          |
-| Robert Churchhill | 32  | 1903  | 1980  | OPC         |             |              |
-| Wilmington, DE    | 28  | 1907  | 1993  | PCUSA       | 1965        | BPC          |
-|                   | 29  | 1907  | 1998  | OPC         |             |              |
-| Philadelphia, PA  | 26  | 1909  | 1987  | OPC         |             |              |
-| China             | 59  | 1877  | 1972  | PCUSA       | 1944        | BPC          |
-| Quaryville, PA    | 31  | 1905  | 1990  | PCUSA       | 1949        | Unaffiliated |
-| India             | 24  | 1912  | 1999  | OPC         | 1943        | BPC          |
-| Philadelphia, PA  | 34  | 1901  | 1984  | PCUSA       | 1946        | RCA          |
-| Philadelphia, PA  | 25  | 1911  | 2006  | OPC         | 1946        | BPC          |
-| Philadelphia, PA  | 36  | 1900  | 1957  | PCC         | 1938        | BPC          |
-| Ventnor, NJ       | 36  | 1900  | 1899  | PCUSA       | 1938        | BPC          |
-| Philadelphia, PA  | 25  | 1911  | 2008  | OPC         | 1938        | BPC          |
-| Philadelphia, PA  | 27  | 1909  | 1989  | PCUSA       | 1941        | PCUS         |
-| Oxford, WI        | 46  | 1889  | 1947  | PCUSA       | 1937        | Unaffiliated |
-| Athens, WI        | 39  | 1896  | 1983  | PCUSA       | 1936        | PCUSA        |
-| New Haven, CT     | 32  | 1904  | 1991  | PCUSA       | 1942        | ARP          |
-| Philadelphia, PA  | 54  | 1881  | 1937  | PCUSA       |             |              |
-| Philadelphia, PA  | 34  | 1902  | 1997  | PCUSA       | 1938        | BPC          |
-| Oxford, PA        | 31  | 1905  | 1994  | PCUSA       | 1951        | PCUS         |
-| Merrill, WI       | 48  | 1887  | 1936  | PCUSA       |             |              |
-| Wildwood, NJ      | 30  | 1905  | 1988  | PCUSA       | 1945        | BPC          |
-| Philadelphia, PA  | 36  | 1900  | 1995  | PCUSA       | 1947        | PCUSA        |
-| Nottingham, PA    | 35  | 1900  | 1977  | PCUSA       | 1943        | PCC          |
-| Frederick, MD     | 44  | 1891  | 1958  | PCC         | 1938        | BPC          |
-| Bridgedon, NJ     | 30  | 1906  | 1991  | PCUSA       | 1947        | BPC          |
-| Philadelphia, PA  | 39  | 1897  | 1959  | PCUSA       | 1939        | UPCNA        |
-| Port Kennedy, PA  | 38  | 1898  | 1985  | PCUSA       |             |              |
-| Chicago, IL       | 54  | 1881  | 1938  | PCUSA       | 1937        | BPC          |
-| Newark, DE        | 31  | 1904  | 1999  | PCUSA       | 1937        | BPC          |
-| Philadelphia, PA  | 34  | 1902  | 1995  | PCUSA       | 1937        | PCUS         |
-| Philadelphia, PA  | 34  | 1902  | 1984  | PCUSA       |             |              |
-| Philadelphia, PA  | 34  | 1902  | 1962  | PCUSA       |             |              |
-| Philadelphia, PA  | 33  | 1903  | 1992  | PCUSA       |             |              |
-| Middletown, DE    | 31  | 1905  | 1993  | PCUSA       |             |              |
-| New Park, PA      | 30  | 1906  | 1991  | PCUSA       |             |              |
-| Ridgebury, NY     | 28  | 1908  | 1988  | PCUSA       |             |              |
-| Windham, NY       | 27  | 1908  | 1965  | PCUSA       |             |              |
-| Canaan, Maine     | 26  | 1909  | 1947  | PCUSA       |             |              |
-| Harrisville, PA   | 26  | 1910  | 1988  | PCUSA       |             |              |
-| Wheaton, IL       | 41  | 1895  | 1977  | PSUSA       | 1938        | BPC          |
+| Name                    | Residence         | Age | Birth | Death | Ordained By | Left OPC In | Left For     |
+| ----------------------- | ----------------- | --- | ----- | ----- | ----------- | ----------- | ------------ |
+| Samuel J. Allen         | Indianapolis, IN  | 37  | 1899  | 1954  | PCUSA       | 1948        | PCUS         |
+| Philip du B. Arcularius | Duryea, PA        | 34  | 1902  | 1985  | PCUSA       | 1938        | BPC          |
+| Robert Churchhill       | Robert Churchhill | 32  | 1903  | 1980  | OPC         |             |              |
+| John P. Clelland        | Wilmington, DE    | 28  | 1907  | 1993  | PCUSA       | 1965        | BPC          |
+| Bruce A. Coie           |                   | 29  | 1907  | 1998  | OPC         |             |              |
+| Calvin K. Cummings      | Philadelphia, PA  | 26  | 1909  | 1987  | OPC         |             |              |
+| Albert B. Dodd          | China             | 59  | 1877  | 1972  | PCUSA       | 1944        | BPC          |
+| Franklin S. Dyrness     | Quaryville, PA    | 31  | 1905  | 1990  | PCUSA       | 1949        | Unaffiliated |
+| Frank L. Fiol           | India             | 24  | 1912  | 1999  | OPC         | 1943        | BPC          |
+| David Freeman           | Philadelphia, PA  | 34  | 1901  | 1984  | PCUSA       | 1946        | RCA          |
+| A. Culver Gordon        | Philadelphia, PA  | 25  | 1911  | 2006  | OPC         | 1946        | BPC          |
+| H. McAllister Griffiths | Philadelphia, PA  | 36  | 1900  | 1957  | PCC         | 1938        | BPC          |
+| Frank Hamilton          | Ventnor, NJ       | 36  | 1900  | 1899  | PCUSA       | 1938        | BPC          |
+| R. Laird Harris         | Philadelphia, PA  | 25  | 1911  | 2008  | OPC         | 1938        | BPC          |
+| Robert Moody Holmes     | Philadelphia, PA  | 27  | 1909  | 1989  | PCUSA       | 1941        | PCUS         |
+| W. H. Kiehlhorn         | Oxford, WI        | 46  | 1889  | 1947  | PCUSA       | 1937        | Unaffiliated |
+| J. Mulder Kooyers       | Athens, WI        | 39  | 1896  | 1983  | PCUSA       | 1936        | PCUSA        |
+| Luther Craig Long       | New Haven, CT     | 32  | 1904  | 1991  | PCUSA       | 1942        | ARP          |
+| J. Gresham Machen       | Philadelphia, PA  | 54  | 1881  | 1937  | PCUSA       |             |              |
+| Allan A. MacRae         | Philadelphia, PA  | 34  | 1902  | 1997  | PCUSA       | 1938        | BPC          |
+| George W. Marston       | Oxford, PA        | 31  | 1905  | 1994  | PCUSA       | 1951        | PCUS         |
+| Arthur F. Perkins       | Merrill, WI       | 48  | 1887  | 1936  | PCUSA       |             |              |
+| Leonard S. Pitcher      | Wildwood, NJ      | 30  | 1905  | 1988  | PCUSA       | 1945        | BPC          |
+| Edwin H. Rian           | Philadelphia, PA  | 36  | 1900  | 1995  | PCUSA       | 1947        | PCUSA        |
+| Peter De Ruiter         | Nottingham, PA    | 35  | 1900  | 1977  | PCUSA       | 1943        | PCC          |
+| J. F. Minor Simpson     | Frederick, MD     | 44  | 1891  | 1958  | PCC         | 1938        | BPC          |
+| Clifford S. Smith       | Bridgedon, NJ     | 30  | 1906  | 1991  | PCUSA       | 1947        | BPC          |
+| John Burton Thwing      | Philadelphia, PA  | 39  | 1897  | 1959  | PCUSA       | 1939        | UPCNA        |
+| Kelly Grier Tucker      | Port Kennedy, PA  | 38  | 1898  | 1985  | PCUSA       |             |              |
+| Robert J. Vaughn        | Chicago, IL       | 54  | 1881  | 1938  | PCUSA       | 1937        | BPC          |
+| Henry G. Welbon         | Newark, DE        | 31  | 1904  | 1999  | PCUSA       | 1937        | BPC          |
+| Charles J. Woodbridge   | Philadelphia, PA  | 34  | 1902  | 1995  | PCUSA       | 1937        | PCUS         |
+| Paul Woolley            | Philadelphia, PA  | 34  | 1902  | 1984  | PCUSA       |             |              |
+| N. B. Stonehouse        | Philadelphia, PA  | 34  | 1902  | 1962  | PCUSA       |             |              |
+| Bruce F. Hunt           | Philadelphia, PA  | 33  | 1903  | 1992  | PCUSA       |             |              |
+| Robert H. Graham        | Middletown, DE    | 31  | 1905  | 1993  | PCUSA       |             |              |
+| Everett C. De Velde     | New Park, PA      | 30  | 1906  | 1991  | PCUSA       |             |              |
+| Leslie W. Sloat         | Ridgebury, NY     | 28  | 1908  | 1988  | PCUSA       |             |              |
+| Edmin L. Wade           | Windham, NY       | 27  | 1908  | 1965  | PCUSA       |             |              |
+| Dean W. Adair           | Canaan, Maine     | 26  | 1909  | 1947  | PCUSA       |             |              |
+| Robert L. Atwell        | Harrisville, PA   | 26  | 1910  | 1988  | PCUSA       |             |              |
+| J. Oliver Buswell, Jr.  | Wheaton, IL       | 41  | 1895  | 1977  | PSUSA       | 1938        | BPC          |
