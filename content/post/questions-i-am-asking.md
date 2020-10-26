@@ -1,14 +1,18 @@
 ---
 title: "Questions I'm Asking"
-description: "Can you help me find these out of print books?"
-date: 2020-10-25
+description: "Some questions I've pondered about the history of presbyterianism."
+date: 2020-10-26
 short: true
 tags:
- - 
+ - PCUSA
+ - RPCES
+ - OPC
+ - RPCNA
 people:
- - 
-
-images:
+ - J. Gresham Machen
+ - Isaac Watts
+ - Francis Makemie
+ - John Lorimer
 ---
 
 I've run the Twitter account [@pres_history](https://twitter.com/pres_history) for the last 5 years. I mostly use it to tweet posts from 
@@ -25,7 +29,7 @@ Since Twitter tends to be ephimeral, I compiled a list of question I've asked ov
 * Does anyone know of a list of RPCES ministers who were received into the PCA?
 * What was the relationship of Francis Makemie and the Church of Scotland?
 * Can anyone recommend sources on the history of Canadian presbyterianism?
-* Does anyone know anything about J. Gresham Machen's [https://www.readmachen.com/misc/1960/a-study-guide-to-the-epistle-of-paul-to-the-galatians-1-1-to-4-4/](https://www.readmachen.com/misc/1960/a-study-guide-to-the-epistle-of-paul-to-the-galatians-1-1-to-4-4/)? 
+* Does anyone know anything about J. Gresham Machen's [https://www.readmachen.com/misc/1960/a-study-guide-to-the-epistle-of-paul-to-the-galatians-1-1-to-4-4/](study guide to Galatians)? 
 * Is there a reliable source for membership numbers of American presbyterianism [prior to 1925](https://www.thearda.com/Denoms/D_920.asp)?
 * What are good sources on the debates over Isaac Watts' hymnal in presbyterian churches in the American South?
 * Is there a good source on the history of the publication of the red Trinity Hymnal somewhere? . 
@@ -33,7 +37,7 @@ Since Twitter tends to be ephimeral, I compiled a list of question I've asked ov
 * Starting to put together [a timeline of the theonomy movement](https://ulsterworldly.com/post/theonomy-timeline/) from the 70s to 90s. What are the key events? And what are the best sources on this topic?`
 * Are you aware of other historical (vs polemical) sources on the topic of political dessent in the RPCNA (beyond [the RPCNA Synod Minutes](http://rparchives.org/synod.html))?
 * I’m interested in the history of Presbyterianism in York County, SC. If anyone knows of good resources please pass them along.
-* I've been trying to find biographical information on Lorimer with 0 success. If anyone has any tips, please let me know.
+* I've been trying to find biographical information on early Free Church of Scotland minister John G. Lorimer with 0 success. If anyone has any tips, please let me know.
 * If anyone has ideas of how to get access to [Machen's articles from the PCUSA "The Presbyterian" magazine](https://www.readmachen.com/sources/presbyterian/), I'm all ears. 
 * What is a good source on understanding the 17th century struggles over church government and worship in the Church of England? [With answers!](https://twitter.com/pres_history/status/1001477788447232000/)
 * What was the relationship between the 17th-century Ulster presbyteries and the Church of Scotland?
