@@ -1,7 +1,7 @@
 ---
 title: "Questions I'm Asking"
 description: "Can you help me find these out of print books?"
-date: 2020-10-26
+date: 2020-10-25
 short: true
 draft: true
 tags:
