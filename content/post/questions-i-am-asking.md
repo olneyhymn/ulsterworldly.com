@@ -29,7 +29,7 @@ Since Twitter tends to be ephimeral, I compiled a list of question I've asked ov
 * Does anyone know of a list of RPCES ministers who were received into the PCA?
 * What was the relationship of Francis Makemie and the Church of Scotland?
 * Can anyone recommend sources on the history of Canadian presbyterianism?
-* Does anyone know anything about J. Gresham Machen's [https://www.readmachen.com/misc/1960/a-study-guide-to-the-epistle-of-paul-to-the-galatians-1-1-to-4-4/](study guide to Galatians)? 
+* Does anyone know anything about J. Gresham Machen's [study guide to Galatians](https://www.readmachen.com/misc/1960/a-study-guide-to-the-epistle-of-paul-to-the-galatians-1-1-to-4-4/)? 
 * Is there a reliable source for membership numbers of American presbyterianism [prior to 1925](https://www.thearda.com/Denoms/D_920.asp)?
 * What are good sources on the debates over Isaac Watts' hymnal in presbyterian churches in the American South?
 * Is there a good source on the history of the publication of the red Trinity Hymnal somewhere? . 
