@@ -3,7 +3,6 @@ title: "Questions I'm Asking"
 description: "Can you help me find these out of print books?"
 date: 2020-10-25
 short: true
-draft: true
 tags:
  - 
 people:
@@ -39,13 +38,3 @@ Since Twitter tends to be ephimeral, I compiled a list of question I've asked ov
 * What is a good source on understanding the 17th century struggles over church government and worship in the Church of England? [With answers!](https://twitter.com/pres_history/status/1001477788447232000/)
 * What was the relationship between the 17th-century Ulster presbyteries and the Church of Scotland?
 * What are the best sources on they [history of the Covenanter and Seceder churches in America](https://ulsterworldly.com/post/scottish-churches-in-america/)?
-
-
-
-
-
-
-
-
-
-
