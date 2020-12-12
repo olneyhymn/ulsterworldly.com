@@ -6,4 +6,4 @@ slug: "presbyterian-bioliography"
 short: true
 ---
 
-I just discovered the PCA Historical Society's has a thorough [A Bibliography for Reading in Presbyterian Church History](http://www.pcahistory.org/topicalresources/bibliography.html) and would commend it you you.
+I just discovered the PCA Historical Society's has a thorough [Bibliography for Reading in Presbyterian Church History](https://pcahistory.org/topical/bibliography.html) and would commend it you you.

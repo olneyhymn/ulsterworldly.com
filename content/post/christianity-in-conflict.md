@@ -13,7 +13,9 @@ tags:
 source: http://www.pcahistory.org/documents/machen-conflict.pdf
 ---
 
-_This essay, written by J. Gresham Machen, appeared in Contemporary American Theology, edited by Vergilius Ferm (New York: Round Table Press, 1932-1933). It was published 3 years before the founding of the OPC. It is some of the most substantial autobiography Machen left behind._
+{{% intro %}}
+This essay, written by J. Gresham Machen, appeared in Contemporary American Theology, edited by Vergilius Ferm (New York: Round Table Press, 1932-1933). It was published 3 years before the founding of the OPC. It is some of the most substantial autobiography Machen left behind.
+{{% /intro %}}
 
 ## Christianity in Conflict
 
@@ -155,3 +157,5 @@ and I hold (2) that the Holy Spirit is able to make it sound. And I think we oug
 
 We can, if we are Christians, still be confident and joyous in these sad days. This is not the first time of unbelief in the history of the Church. There have been other times equally or almost equally dark, yet God has brought His people through. Even in our day, there are far more than seven thousand who have now bowed the knee to the gods of the hour. But our real confidence rests not in the signs of the times, but in the great and precious promises of God. Contrast the glories of God's Word with the weak and beggarly elements of this mechanistic age, contrast the liberty of the sons of God with the ever-increasing slavery into which mankind is falling in our time, and I
 think we shall come to see with a new clearness, despite the opposition of the world, that we have no reason to be ashamed of the gospel of Christ.
+
+_You can find more of Machen's writings at [readmachen.com](https://readmachen.com)._
