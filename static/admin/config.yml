@@ -1,24 +1,44 @@
 backend:
   name: git-gateway
   branch: master
-display_url: https://ulsterworldly.com
-media_folder: "images/uploads"
-public_folder: "/images/uploads"
+display_url: 'https://ulsterworldly.com'
+media_folder: images/uploads
+public_folder: /images/uploads
 collections:
-  - name: "blog posts"
-    label: "Blog Posts"
-    description: >
+  - name: blog posts
+    label: Blog Posts
+    description: |
       Posts (blog entries), visible in indexes and RSS feeds.
-    folder: "content/post" # The path to the folder where the documents are stored
+    folder: content/post
     create: true
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Tags", name: "tags", widget: "list", required: false, fields: [{ label: 'Tag', name: 'tag', widget: 'string'}]}
-      - {label: "Description", name: "description", widget: "string", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Draft", name: "draft", widget: "boolean", default: false}
-      - {label: "Short", name: "short", widget: "boolean", default: false}
-      
-      
+    slug: '{{slug}}'
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Date
+        name: date
+        widget: datetime
+      - label: Tags
+        name: tags
+        widget: list
+        required: false
+        field:
+            label: Tag
+            name: tag
+            widget: string
+      - label: Description
+        name: description
+        widget: string
+        required: false
+      - label: Body
+        name: body
+        widget: markdown
+      - label: Draft
+        name: draft
+        widget: boolean
+        default: false
+      - label: Short
+        name: short
+        widget: boolean
+        default: false
