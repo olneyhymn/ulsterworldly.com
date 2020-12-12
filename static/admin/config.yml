@@ -23,6 +23,10 @@ collections:
         name: tags
         widget: list
         required: false
+      - label: People
+        name: people
+        widget: list
+        required: false
       - label: Description
         name: description
         widget: string
