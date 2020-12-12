@@ -23,10 +23,6 @@ collections:
         name: tags
         widget: list
         required: false
-        field:
-            label: Tag
-            name: tag
-            widget: string
       - label: Description
         name: description
         widget: string
