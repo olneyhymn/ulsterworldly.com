@@ -31,6 +31,10 @@ collections:
         name: description
         widget: string
         required: false
+      - label: Images Paths
+        name: images
+        widget: list
+        required: false
       - label: Body
         name: body
         widget: markdown
