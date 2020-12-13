@@ -17,12 +17,12 @@ collections:
       - label: Year
         field: date
         pattern: \d{4}
+      - label: Tag
+        field: tags
     view_filters:
       - label: Drafts
         field: draft
         pattern: true
-      - label: Tag
-        field: tags
     fields:
       - label: Title
         name: title
