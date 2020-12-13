@@ -21,7 +21,6 @@ collections:
       - label: Drafts
         field: draft
         pattern: true
-    view_filters:
       - label: Tag
         field: tags
         pattern: true
