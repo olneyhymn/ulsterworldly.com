@@ -23,7 +23,6 @@ collections:
         pattern: true
       - label: Tag
         field: tags
-        pattern: true
     fields:
       - label: Title
         name: title
