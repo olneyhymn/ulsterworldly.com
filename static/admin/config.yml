@@ -12,6 +12,14 @@ collections:
     folder: content/post
     create: true
     slug: '{{slug}}'
+    view_groups: 
+      - label: Year
+        field: date
+        pattern: \d{4}
+    view_filters:
+      - label: Drafts
+        field: draft
+        pattern: true
     fields:
       - label: Title
         name: title
