@@ -13,6 +13,6 @@ In the late 1970s, the Presbyterian Church in America began the consider what wo
 
 A few years ago, I came across a pamphlet from 1979 at [pcahistory.org](http://pcahistory.org/) that included the map below of how the PCA, OPC, and RPCES were geographically distributed at the time. 
 
-![Where the Churches Are Now](images/wherethechurchesare.JPG)
+[![Where the Churches Are Now](images/wherethechurchesare.JPG)](images/wherethechurchesare.JPG)
 
 This geographically is inextricably linked to the history of these three denominations; it is interesting to consider how this distribution developed, and how it has evolved in the last 40 years.
