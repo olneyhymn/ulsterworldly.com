@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
 display_url: 'https://ulsterworldly.com'
-media_folder: images/uploads
+media_folder: static/images/uploads
 public_folder: /images/uploads
 collections:
   - name: blog posts
