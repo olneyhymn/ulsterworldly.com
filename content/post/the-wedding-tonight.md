@@ -26,7 +26,7 @@ My great grandfather Joseph Hopper was ordained a PCUS minister in Kentucky in 1
 
 ## The Marriage Tonight
 
-**December 12, 1919, The (Rock Hill) Record**
+**December 18, 1919, The (Rock Hill) Record**
 
 Tonight at 6 o’clock, at the residence of the bride’s parents, Mr. and Mrs. A.A. Barron, the marriage of Miss Annis Barron to the Rev. Mr. Joseph Hopper of Sanford, Ky., will be celebrated.
 
