@@ -12,7 +12,7 @@ tags:
 slug: "uncle-ebenezer-hunter"
 ---
 
-My grandfather, [in his autobiography](http://joseph-hopper.com/#mission-to-korea), tells a story about his uncle Reverend Ebenezer Hunter, who he visited in 1935.
+My grandfather, [in his autobiography](https://ulsterworldly.com/hoppers/joe-b/mission-to-korea/), tells a story about his uncle Reverend Ebenezer Hunter, who he visited in 1935.
 
 > We made several visits to Sharon, some twenty-five miles away, where my Aunt Ola Hunter lived. Her husband, the Reverend Ebenezer Hunter, was pastor of the little rural A.R.P. [Associate Reformed Presbyterian] church there all his life. The church could not give him full support, so he farmed on the side. Aunt Ola kept chickens, raised a garden, did lots of canning, and sumptuously fed us country style. Uncle Eb was chairman of the board of Erskine College for many years, and from all reports ruled that institution with an iron hand. He also headed a committee to edit a new Psalm book for the A.R.P. denomination and used to practice some of these musical versions of the Psalms on us in the evenings. Although loyal to his church, he also liked to sing hymns with us ordinary Presbyterians. He chewed tobacco and we sat for hours in the rockers on the front porch, feet on the rail, watching him accurately hit any target he wanted in the yard. Thereby hangs another tale, too.
 
