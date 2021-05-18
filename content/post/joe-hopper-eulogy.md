@@ -77,4 +77,8 @@ And sometimes the Lord stands on the other side of the tomb. But he is still the
 G. Thomson Brown<br>
 April 29, 1992
 
+<br> 
+
 {{< youtube TdH6ys8xGMI  >}}
+
+[Audio file for Joe B. Hopper Memorial Service](https://s3.amazonaws.com/ulsterworldly.com/audio/memorial-service.mp3)
