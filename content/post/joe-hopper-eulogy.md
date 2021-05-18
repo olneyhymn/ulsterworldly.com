@@ -1,7 +1,7 @@
 ---
 title: "Joe B. Hopper (1921–1992)"
 description: "Eulogy for Joseph Barron Hopper by his brother-in-law Dr. G. Thomson Brown."
-date: "2021-5-18"
+date: 2021-05-18
 slug: "joe-b-hopper"
 people:
   - Tommy Brown
@@ -11,11 +11,11 @@ images:
   - /images/joe-b-hopper.jpg
 ---
 
+![Portrait of Joe B. Hopper](/static/joe-b-hopper.jpg)
+
 {{% intro %}}
 Eulogy for my grandfather Joe B. Hopper, retired missionary of Korea, written by his brother-in-law [G. Thompson Brown](https://en.wikipedia.org/wiki/G._Thompson_Brown).
 {{% /intro %}}
-
-### Joe B. Hopper (1921–1992)
 
 The text that best describes the ministry of Joe. B. Hopper in Korea is Romans 15:19–21:
 
