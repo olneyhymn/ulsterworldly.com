@@ -11,7 +11,7 @@ images:
   - /images/joe-b-hopper.jpg
 ---
 
-![Portrait of Joe B. Hopper](/static/joe-b-hopper.jpg)
+![Portrait of Joe B. Hopper](/images/joe-b-hopper.jpg)
 
 {{% intro %}}
 Eulogy for my grandfather Joe B. Hopper, retired missionary of Korea, written by his brother-in-law [G. Thompson Brown](https://en.wikipedia.org/wiki/G._Thompson_Brown).
