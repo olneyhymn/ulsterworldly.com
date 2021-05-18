@@ -28,7 +28,7 @@ Joe made it his "ambition to preach the Gospel not where Christ had already been
 (1) Joe was a __pioneer evangelist__. His assignment was to plant churches in the rugged mountainous regions of North Chulla Province. This he did, not by sensational preach but by:
 
 - the careful selection of places to start a new preaching point,
-- The oversight of churches assigned to him by presbytery,
+- the oversight of churches assigned to him by presbytery,
 - regular systematic visitation,
 - the baptism of new members,
 - the appointment of deacons
