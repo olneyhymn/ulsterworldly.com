@@ -76,3 +76,5 @@ And sometimes the Lord stands on the other side of the tomb. But he is still the
 
 G. Thomson Brown<br>
 April 29, 1992
+
+{{< youtube TdH6ys8xGMI  >}}
