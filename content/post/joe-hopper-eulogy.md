@@ -58,9 +58,7 @@ Joe was a scholar, but his scholarship existed not for its own sake but only for
 
 (6) Joe was a __trainer of pastors__. Through a carefully administered scholarship program, promising young men were sent to the Presbyterian Seminary in Seoul or the Ho Nam Seminary in Kwangju. He and, I think, his good friend R. K. Robinson worked out a plan for seminary interns after their graduation. Instead of having an assistant, to which he was entitled, he would choose a young man from the seminary each year who would be his co-worker for that year. At the end of the year the man would then move on to a pastorate and Joe would choose another candidate for the next year. In this way numerous seminary graduates received practical experience in country work and were introduced to Joe's way of doing mission.
 
-On several occasions Joe was asked to be a member of the Board of Trustees for the Ho Nam Seminary. He steadfastly refused, saying that as long as his brother-in-law was the president, he felt it inappropriate for another family member to become involved. But when the brother-in-law left the seminary for other assignments, Joe was elected to be chairman of the seminary board
-
-erm .7 ;and was able to pilot the seminary through some difficult times a relocation of the campus, a major building program, and the selection of a new president.
+On several occasions Joe was asked to be a member of the Board of Trustees for the Ho Nam Seminary. He steadfastly refused, saying that as long as his brother-in-law was the president, he felt it inappropriate for another family member to become involved. But when the brother-in-law left the seminary for other assignments, Joe was elected to be chairman of the seminary board and was able to pilot the seminary through some difficult times--a relocation of the campus, a major building program, and the selection of a new president.
 
 By the early 1980s the church situation in North Chulla had dramatically changed from the time when he had first arrived. Presbyterian churches in the province now numbered at least six hundred. The number had doubled and tripled. Well over two hundred pastors now served the churches of the province. I wonder if Joe didn't begin to feel somewhat "penned in", sharing the sentiments of the Apostle Paul when he wrote to the Romans saying "since I no longer have any room for work in these regions", he was thinking of striking out for Spain (Rom. 15:23-24).
 
@@ -76,6 +74,5 @@ And sometimes he stands on this side of the tomb and cries with a loud voice "La
 
 And sometimes the Lord stands on the other side of the tomb. But he is still the keeper of the keys. And he cries with a loud voice "Joe, come on over. It;s better for you on this side." And Death, humbled and obedient, opens at the gate, and Joe crosses over. And then the command "Loose him and set him free!" And tubes, the wires, the cables and the connections to the respirator fall away and Joe is whole and free again.
 
-G. Thomson Brown
-
+G. Thomson Brown<br>
 April 29, 1992
