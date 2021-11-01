@@ -1,0 +1,460 @@
+{
+    "title": {
+        "media": {
+            "url": "https://ulsterworldly.com/images/WTSPhotos_Box1_StudentLifeChestnutHill_WestminsterFaculty1930s001-1024x816.jpg",
+            "caption": "The original faculty of Westminster Theological Seminary",
+            "credit": ""
+        },
+        "start_date": {
+            "month": "",
+            "day": "",
+            "year": ""
+        },
+        "end_date": {
+            "month": "",
+            "day": "",
+            "year": ""
+        },
+        "text": {
+            "headline": "The Presbyterian Conflict",
+            "text": "In the early 20th century, the mainline Presbyterian denomination in American shifted from theological orthodoxy to theological liberalism. A small yet strong minority stood firm against the changing tides. "
+        },
+        "group": "",
+        "background": "#292b2c",
+        "type": "title"
+    },
+    "events": [
+        {
+            "media": {
+                "url": "https://ulsterworldly.com/images/jgreshammachen.jpg",
+                "caption": "",
+                "credit": "http://reformedforum.org/ctc493/"
+            },
+            "start_date": {
+                "month": "8",
+                "day": "",
+                "year": "1906"
+            },
+            "end_date": {
+                "month": "6",
+                "day": "",
+                "year": "1929"
+            },
+            "text": {
+                "headline": "Machen on faculty at Princeton Theological Seminary",
+                "text": "Born in 1881, Machen had studied at Johns Hopkins (1901), Princeton Theological Seminary (1902-1905), and at universities in Germany. He started as a lecturer and would be an assistant professor from 1914-1929."
+            },
+            "group": "J. Gresham Machen",
+            "background": "",
+            "type": ""
+        },
+        {
+            "media": {
+                "url": "https://ulsterworldly.com/images/Wilson-war-message-1917.jpg",
+                "caption": "",
+                "credit": "https://en.wikipedia.org/wiki/United_States_in_World_War_I#/media/File:Wilson-war-message-1917.jpg"
+            },
+            "start_date": {
+                "month": "4",
+                "day": "6",
+                "year": "1917"
+            },
+            "end_date": {
+                "month": "11",
+                "day": "11",
+                "year": "1918"
+            },
+            "text": {
+                "headline": "United States in World War I",
+                "text": "After Germany's submarines sunk seven US merchant ships, President Woodrow Wilson called Congress to declare war on Germany. Machen would leave Princeton for nearly a year to serve in the YMCA on the front lines in France."
+            },
+            "group": "American Affairs",
+            "background": "",
+            "type": ""
+        },
+        {
+            "media": {
+                "url": "<blockquote>The preamble to this plan of union, which gives its doctrinal basis, shows how utterly vague and nullifying would have been the testimony of such a merger.  It demonstrates further the fact that there were many in our Church who seemed to be perfectly indifferent to doctrine.</blockquote>",
+                "caption": "J. Gresham Machen, \"The Present Situation in the Presbyterian Church\", 1930",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "5",
+                "day": "20",
+                "year": "1920"
+            },
+            "end_date": {
+                "month": "5",
+                "day": "28",
+                "year": "1920"
+            },
+            "text": {
+                "headline": "Plan of Union",
+                "text": "\nDr. J. Ross Stevenson, president of Princeton Seminary, presented a Plan of Organic Union that would united 18 American mainline denominations as one \"couched in the vague language so dear to modern naturalism\" (Machen). The General Assembly sent the Plan down to the presbyteries for a vote. Although, the vote was defeated, Machen and other conservatives were concerned by the amount of support it received. "
+            },
+            "group": "",
+            "background": "#292b2c",
+            "type": ""
+        },
+        {
+            "media": {
+                "url": "https://ulsterworldly.com/images/1024px-Benjamin_Breckinridge_Warfield.jpg",
+                "caption": "",
+                "credit": "https://en.wikipedia.org/wiki/B._B._Warfield"
+            },
+            "start_date": {
+                "month": "2",
+                "day": "16",
+                "year": "1921"
+            },
+            "end_date": {
+                "month": "",
+                "day": "",
+                "year": ""
+            },
+            "text": {
+                "headline": "Death of B. B. Warfield",
+                "text": "The last of the great Princeton theologians, Machen's beloved professor died in his home in  Princeton, New Jersey. Machen would say, \"It seemed to me, that the old Princeton - a great institution it was - died when Warfield was carried out\" (Mark Noll, The Princeton Theology)."
+            },
+            "group": "",
+            "background": "",
+            "type": ""
+        },
+        {
+            "media": {
+                "url": "https://ulsterworldly.com/images/fosdick.jpg",
+                "caption": "Fosdick on the cover of Time Magazine in Oct. 6, 1930\n",
+                "credit": "http://content.time.com/time/covers/0,16641,19301006,00.html"
+            },
+            "start_date": {
+                "month": "5",
+                "day": "",
+                "year": "1922"
+            },
+            "end_date": {
+                "month": "",
+                "day": "",
+                "year": ""
+            },
+            "text": {
+                "headline": "Shall the Fundamentalists Win?",
+                "text": "Modernism Harry Emerson Fosdick, D.D. preaches his famous sermon in the First Presbyterian Church of New York City. Fosdick, an ordained baptist minister, was a minister of that Presbyterian congregation. His sermon \"angered conservatives by declaring that biblical inerrancy, the virgin birth, and the physical return of Christ were not essential doctrines\" (D.G. Hart, Defending the Faith)."
+            },
+            "group": "",
+            "background": "#292b2c",
+            "type": ""
+        },
+        {
+            "media": {
+                "url": "https://ulsterworldly.com/images/christianity-and-liberalism-machen-olivero-library.jpg",
+                "caption": "",
+                "credit": "https://aborrowedlight.wordpress.com/"
+            },
+            "start_date": {
+                "month": "2",
+                "day": "23",
+                "year": "1923"
+            },
+            "end_date": {
+                "month": "",
+                "day": "",
+                "year": ""
+            },
+            "text": {
+                "headline": "Christianity and Liberalism",
+                "text": "Machen published his popular work \"Christianity and Liberalism\" in which he argued that theological liberalism is a separate religion altogether. "
+            },
+            "group": "",
+            "background": "",
+            "type": ""
+        },
+        {
+            "media": {
+                "url": "<blockquote>We, the undersigned, ministers of the Presbyterian Church in the United States of America, feel bound, in view of certain actions of the General Assembly of 1923 and of persistent attempts to divide the church and abridge its freedom, to express our convictions in matters pertaining thereto. </blockquote>",
+                "caption": "Opening of the Auburn Affirmation",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "12",
+                "day": "26",
+                "year": "1923"
+            },
+            "end_date": {
+                "month": "",
+                "day": "",
+                "year": ""
+            },
+            "text": {
+                "headline": "The Auburn Affirmation",
+                "text": "150 PCUSA ministers and elders (later signed by over 1,000 more) publish a document defending theological breadth within their church. Machen and other conservatives saw the document as an attack on the Bible and the confessional standards of the denomination. \n"
+            },
+            "group": "",
+            "background": "#292b2c",
+            "type": ""
+        },
+        {
+            "media": {
+                "url": "https://ulsterworldly.com/images/scopes.jpg\n",
+                "caption": "An outdoor session of the Scopes Trial on July 20, 1925",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "7",
+                "day": "",
+                "year": "1925"
+            },
+            "end_date": {
+                "month": "",
+                "day": "",
+                "year": ""
+            },
+            "text": {
+                "headline": "Scopes Trial",
+                "text": "Tennessee school teacher was tried by the state of Tennessee for violating a state law against teaching human evolution in the public schools. Politician, lawyer, and fundamentalist presbyterian elder William Jennings Bryan would serve as the prosecution. Bryan would ask for ministers Gresham Machen and Clarance Macartney to assist him in the trial. Machen wrote that, \"I confess my incompetence to help you in the approaching trial.\""
+            },
+            "group": "American Affairs",
+            "background": "",
+            "type": ""
+        },
+        {
+            "media": {
+                "url": "https://ulsterworldly.com/images/wts-student-body.jpg",
+                "caption": "Student Body of Westminster Theological Seminary, 1929-1930.\n\n",
+                "credit": "PCA Historical Center"
+            },
+            "start_date": {
+                "month": "7",
+                "day": "18",
+                "year": "1929"
+            },
+            "end_date": {
+                "month": "",
+                "day": "",
+                "year": ""
+            },
+            "text": {
+                "headline": "Formation of Westminster Seminary",
+                "text": "The General Assembly of the PCUSA reorganized the board of Princeton Seminary to accomodate the growing theological liberalism of the denomination. Princeton J. Gresham Machen, Oswald Allis, Robert Wilson, and Cornelius Van Til resign from Princeton to form the faculty of a new seminary along with Ned Stonehouse, Allan Macrae, Paul Wooley, and R. B. Kuiper. Fifty students enrolled. "
+            },
+            "group": "",
+            "background": "",
+            "type": ""
+        },
+        {
+            "media": {
+                "url": "https://ulsterworldly.com/images/Huts_and_unemployed_in_West_Houston_and_Mercer_St_by_Berenice_Abbott_in_Manhattan_in_1935.jpg",
+                "caption": "Huts and unemployed men in New York City, 1935.",
+                "credit": "https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States"
+            },
+            "start_date": {
+                "month": "10",
+                "day": "29",
+                "year": "1929"
+            },
+            "end_date": {
+                "month": "",
+                "day": "",
+                "year": "1939"
+            },
+            "text": {
+                "headline": "Great Depression",
+                "text": "A massive Wall Street Crash in 1929 lead to a decade of high unemployment, deflation, and poverty throughout the United States."
+            },
+            "group": "American Affairs",
+            "background": "",
+            "type": ""
+        },
+        {
+            "media": {
+                "url": "<blockquote>I do not believe in original sin.... I agree with the Chinese who feel their people should be protected from such superstition (Biblical teaching about salvation from sin).</blockquote>",
+                "caption": "Pearl Buck, PCUSA Missionary to China, 1933",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "6",
+                "day": "23",
+                "year": "1933"
+            },
+            "end_date": {
+                "month": "",
+                "day": "",
+                "year": ""
+            },
+            "text": {
+                "headline": "Independent Board of Foreign Missions",
+                "text": "Independent mission board formed by conservatives, including J. Gresham Machen, after they failed to reform the denominational board and remove theological liberals from the mission field."
+            },
+            "group": "",
+            "background": "",
+            "type": ""
+        },
+        {
+            "media": {
+                "url": "https://ulsterworldly.com/images/machen_3-29-1935_Found_Guilty.jpg",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "3",
+                "day": "29",
+                "year": "1935"
+            },
+            "end_date": {
+                "month": "",
+                "day": "",
+                "year": ""
+            },
+            "text": {
+                "headline": "Machen Suspended from Ministry ",
+                "text": "J. Greshman Machen was suspended from ministry in the PCUSA due to his participation in the Independent Board of Foreign Missions."
+            },
+            "group": "J. Gresham Machen",
+            "background": "#292b2c",
+            "type": ""
+        },
+        {
+            "media": {
+                "url": "https://ulsterworldly.com/images/true-presbyterian-at-last.png",
+                "caption": "",
+                "credit": "Presbyterian Guardian (June 22, 1936)"
+            },
+            "start_date": {
+                "month": "6",
+                "day": "11",
+                "year": "1936"
+            },
+            "end_date": {
+                "month": "",
+                "day": "",
+                "year": ""
+            },
+            "text": {
+                "headline": "First General Assembly of the PCA called to order",
+                "text": "The First General Assembly of the Presbyterian Church of American (later Orthodox Presbyterian Church) called to order. Dr. J. Gresham Machen was elected the first moderator. The Rev. Paul Woolley was elected clerk of the assembly. According to Edwin Rian, \"Within two months after the new body had been formed, seventy-five ministers were under its jurisdiction, nine presbyteries had been erected.\""
+            },
+            "group": "OPC",
+            "background": "",
+            "type": "title"
+        },
+        {
+            "media": {
+                "url": "https://ulsterworldly.com/images/PCofA_2ndGA.jpg",
+                "caption": "Delegates of the Second General Assembly",
+                "credit": " Allan A. MacRae Manuscript Collection at the PCA Historical Center"
+            },
+            "start_date": {
+                "month": "11",
+                "day": "12",
+                "year": "1936"
+            },
+            "end_date": {
+                "month": "",
+                "day": "",
+                "year": ""
+            },
+            "text": {
+                "headline": "Second General Assembly ",
+                "text": "Dr. J. Oliver Buswell, Jr., President of Wheaton College, was elected moderator after being nominated Cornelius Van Til. Assembly adopted the confessional standards of the PCUSA without the modifications made in 1903. Significant discussion was had about the place of premillenialism in the new church, which some wanting \"eschatological liberty\" to be encoded into the constitution. "
+            },
+            "group": "OPC",
+            "background": "",
+            "type": "title"
+        },
+        {
+            "media": {
+                "url": "https://ulsterworldly.com/images/pa-to-nd.png",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "1",
+                "day": "1",
+                "year": "1937"
+            },
+            "end_date": {
+                "month": "",
+                "day": "",
+                "year": ""
+            },
+            "text": {
+                "headline": "Death of J. Gresham Machen",
+                "text": "In late December of 1936, Machen traveled to North Dakota to encourage the saints at a new conregation. He contracted pneumonia and died in St. Alexius\u2019 Hospital, Bismarck, North Dakota. He would be buried at Green Mount Cemetery in Baltimore."
+            },
+            "group": "J. Gresham Machen",
+            "background": "",
+            "type": ""
+        },
+        {
+            "media": {
+                "url": "https://ulsterworldly.com/images/third-ga.png",
+                "caption": "",
+                "credit": "Presbyterian Guardian"
+            },
+            "start_date": {
+                "month": "6",
+                "day": "1",
+                "year": "1937"
+            },
+            "end_date": {
+                "month": "6",
+                "day": "1",
+                "year": "1937"
+            },
+            "text": {
+                "headline": "Third General Assembly",
+                "text": "At the Third General Assembly, three overtures related to requiring total abstinance from alcohol were defeated. Tensions were building as to whether a new denominational board of foreign missions would be formed or whether churches would support missions through independent organizations. "
+            },
+            "group": "OPC",
+            "background": "",
+            "type": ""
+        },
+        {
+            "media": {
+                "url": "https://ulsterworldly.com/images/bpcsynod.jpg",
+                "caption": "",
+                "credit": "pcahistory.org"
+            },
+            "start_date": {
+                "month": "9",
+                "day": "8",
+                "year": "1938"
+            },
+            "end_date": {
+                "month": "",
+                "day": "",
+                "year": ""
+            },
+            "text": {
+                "headline": "Formation of Bible Presbyterian Church",
+                "text": "Struggles over how the new denomination would handle over alcohol usage, eschatology, and ecclesastical structure resulted in a schism after just two years. Thirty teaching elders and eleven ruling elders met to form a new denomination, the Bible Presbyterian Church. Among them were Francis A Schaeffer, Carl Mcintyre, and Oliver Buswell. The new church was decidedly premillenial and required total abstinance from alcohol."
+            },
+            "group": "",
+            "background": "",
+            "type": ""
+        },
+        {
+            "media": {
+                "url": "https://ulsterworldly.com/images/fighting-the-good-fight.jpg",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "month": "2",
+                "day": "9",
+                "year": "1939"
+            },
+            "end_date": {
+                "month": "",
+                "day": "",
+                "year": ""
+            },
+            "text": {
+                "headline": "PCA renamed to Orthodox Presbyterian Church",
+                "text": "The Presbyterian Church of America, having been threatened by a lawsuit from the significantly larger Presbyterian Church in the USA, adopted the new name of Orthodox Presbyterian Church. It continues under that name today.  "
+            },
+            "group": "OPC",
+            "background": "",
+            "type": ""
+        }
+    ]
+}
