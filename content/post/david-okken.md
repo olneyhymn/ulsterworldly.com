@@ -1,6 +1,6 @@
 ---
 title: "History of the OPC Uganda Mission with David Okken"
-description: "Mr. Matthew Ezzell interviews Rev. David Okken about his 17 years with the OPC mission in northern Uganda.
+description: "Mr. Matthew Ezzell interviews Rev. David Okken about his 17 years with the OPC mission in northern Uganda."
 date: "2021-11-16"
 short: true
 people:
