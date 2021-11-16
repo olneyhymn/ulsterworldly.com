@@ -18,6 +18,6 @@ On June 10, 2021, Mr. Matthew Ezzell interviewed my pastor Rev. David Okken abou
 years on the mission field in Karamoja, Uganda with the Orthodox Presbyterian Church.
 The audio of the interview is available below.
 
-<iframe src="https://anchor.fm/ulsterworldly/embed/episodes/Oral-History-with-Rev--David-Okken-about-the-OPC-Mission-in-Uganda-e19vnt5/a-a6s051r" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/ulsterworldly/embed/episodes/Oral-History-with-Rev--David-Okken-about-the-OPC-Mission-in-Uganda-e19vnt5/a-a6s051r" height="102px" style="width: 100%" frameborder="0" scrolling="no"></iframe>
 
 You can also [download mp3 file directly](https://s3.amazonaws.com/ulsterworldly.com/audio/2021-okken-uganda-interview.mp3).
