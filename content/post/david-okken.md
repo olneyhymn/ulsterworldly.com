@@ -11,7 +11,7 @@ images:
 ---
 
 
-{{< figure src="/images/karamoja.jpg" title="Karamoja by Rod Waddington shared under CC BY-SA 2.0 license" >}}
+{{< figure src="/images/karamoja.jpg" attr="Karamoja by Rod Waddington shared under CC BY-SA 2.0 license" attrlink="https://flic.kr/p/2iZdfcd" >}}
 
 
 On June 10, 2021, Mr. Matthew Ezzell interviewed my pastor Rev. David Okken about his 17
