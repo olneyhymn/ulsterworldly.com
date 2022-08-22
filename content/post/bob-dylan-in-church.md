@@ -7,7 +7,7 @@ short: true
 tags:
   - PCUS
 images:
-  - /images/mark-matthews.jpg
+  - /images/1527px-Joan_Baez_Bob_Dylan.jpg
 ---
 
 From Sean Lucas's [For a Continuing Church: The Roots of the Presbyterian Church in America](https://www.amazon.com/Continuing-Church-Roots-Presbyterian-America/dp/1629951064):
