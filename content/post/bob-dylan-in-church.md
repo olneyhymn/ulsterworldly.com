@@ -1,5 +1,5 @@
 ---
-title: "Experiment Worship for the Youth"
+title: "Experimental Worship for the Youth"
 description: "A snapshot of the decline of orthodoxy in the Southern Presbyterian Church"
 date: 2022-08-22
 draft: false
