@@ -23,7 +23,7 @@ Delayed by WWI, Hershey married Minnie in 1915 and moved to Congo in 1917 and se
 
 My great grandparents retired to Morristown, Tennessee. In 1966, the same year Minnie died, the Southern Presbyterian General Assembly decided to participate in the [“Consultation on Church Union](https://www.episcopalarchives.org/cgi-bin/ENS/ENSpress_release.pl?pr_number=43-1A)”, “an attempt by eight Protestant communions to form a united church ‘truly catholic, truly evangelical and truly reformed.’”
 
-Much like [J. Gresham Machen 40 years earlier](http://www.pcahistory.org/findingaids/machen/mission.html) and the [Old School Presbyterians](https://en.wikipedia.org/wiki/Old_School%E2%80%93New_School_Controversy) of the previous century, Hershey saw union of this nature as an abandonment of biblical truth: “You cannot take all the creeds of all these churches, all their beliefs and unbeliefs, and throw them into a melting pot and after stirring well pour out of the pot a creed that would satisfy the consciences of millions of members.”
+Much like [J. Gresham Machen 40 years earlier](https://www.readmachen.com/article/1926/the-mission-of-the-church/) and the [Old School Presbyterians](https://en.wikipedia.org/wiki/Old_School%E2%80%93New_School_Controversy) of the previous century, Hershey saw union of this nature as an abandonment of biblical truth: “You cannot take all the creeds of all these churches, all their beliefs and unbeliefs, and throw them into a melting pot and after stirring well pour out of the pot a creed that would satisfy the consciences of millions of members.”
 
 In response, 77 year old Hershey Longenecker gave the talk below entitled “The Great Apostasy”.
 
