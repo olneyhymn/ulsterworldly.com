@@ -37,7 +37,7 @@ About the year 1870 he became Sunday School missionary of the [American Sunday S
 
 One of the special gifts with which "Uncle Joe" was endowed was the gift of song. Without ostentation, but with an earnestness that was contagious he sang the beautiful songs of Zion and led the congregation in a spirit of real worship in song. His family had many recollections of happy hours spent in choral singing led by their father. In the book "[Edward O. Guerrant, Apostle to the Southern Highlands](https://books.google.com/books?id=rLvVAAAAMAAJ)" by Dr. J. Gray McAllister and Grace Owings Guerrant, are the following quotations about "Uncle Joe."
 
-> I was at a meeting in [Harrodsburg](https://en.wikipedia.org/wiki/Harrodsburg,_Kentucky, soon after Dr. Guerrant had entered upon his work as Synodical Evangelist, and "Uncle Joe" was leading the singing. (P. 92)
+> I was at a meeting in [Harrodsburg](https://en.wikipedia.org/wiki/Harrodsburg,_Kentucky), soon after Dr. Guerrant had entered upon his work as Synodical Evangelist, and "Uncle Joe" was leading the singing. (P. 92)
 >
 > A week's meeting at Combs Ferry furnishes an illustration of the evangelistic work of the year. The "Uncle Joe" spoken of was Mr. Joseph Hopper, a ruling elder in the Perryville Church, song leader in these evangelistic services and ordained to the ministry in 1896 when sixty- seven years of age. The diary records:
 
