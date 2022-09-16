@@ -12,6 +12,7 @@ tags:
  - South Carolina
  - Family
  - ARP
+ - First ARP Rock Hill
  - Rock Hill Hardware Company
  - Barron Family
 images:
