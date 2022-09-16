@@ -1,8 +1,8 @@
 ---
 title: "Stained Glass and the Second Commandment"
-description: "Obituary for my great-great grandfather, a farmer and ARP ruling elder from Rock Hill, SC."
+description: "Stained glass representation of Jesus added to an ARP church building in 1911."
 date: 2022-09-15
-short: false
+short: true
 draft: false
 people:
  - Archibald Alexander Barron
@@ -12,7 +12,7 @@ tags:
  - ARP
  - First ARP Rock Hill
 images:
-    - /images/aa-barron-obit.png
+    - /images/aa-barron-grave.jpg
 ---
 
 My [great great grandfather Archibald Alexander Barron](https://ulsterworldly.com/people/archibald-alexander-barron) was a ruling elder in [First Associate Reformed Presbyterian of Rock Hill, SC](https://ulsterworldly.com/churches/first-arp-rock-hill). 
@@ -25,7 +25,6 @@ memorial windows placed in the church at this time were intended to illustrate s
 and representations of Christ. The "Good Shepherd Shepherd" window, depicting Christ leading a flock of sheep, 
 was a memorial to Archibald Alexander Barron, and was given by his family.
 
-The Westminster Larger Catechism teaches that the Second Commandment forbids "the making any representation of God, of all or of any of the three persons, either in-
-wardly in our mind, or outwardly in any kind of image or likeness of any creature whatsoever". As early as 1911, the ARPs were loosening their commitment to this teaching.
+The Westminster Larger Catechism teaches that the Second Commandment forbids "the making any representation of God, of all or of any of the three persons, either inwardly in our mind, or outwardly in any kind of image or likeness of any creature whatsoever". As early as 1911, the ARPs were loosening their commitment to this teaching.
 
 Incidentally, the 1911 renovation also added an organ. While seen as a "traditional" church fixture today, this would have been a shock to the older ARPs who were committed to acapella singing in worship.
