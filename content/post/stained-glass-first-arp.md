@@ -27,4 +27,4 @@ was a memorial to Archibald Alexander Barron, and was given by his family.
 
 The Westminster Larger Catechism teaches that the Second Commandment forbids "the making any representation of God, of all or of any of the three persons, either inwardly in our mind, or outwardly in any kind of image or likeness of any creature whatsoever". As early as 1911, the ARPs were loosening their commitment to this teaching.
 
-Incidentally, the 1911 renovation also added an organ. While seen as a "traditional" church fixture today, this would have been a shock to the older ARPs who were committed to acapella singing in worship.
+Incidentally, the 1911 renovation also added an organ. While seen as a "traditional" church fixture today, this would have been a shock to the older ARPs who were committed to a capella singing in worship.
