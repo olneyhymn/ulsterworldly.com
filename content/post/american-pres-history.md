@@ -25,4 +25,4 @@ Here was the overview we wrote for the course:
 
 [You can listen to the class on SermonAudio.com](https://www.sermonaudio.com/solo/shiloh/sermons/series/167016/?sb=oldest).
 
-<iframe tabindex="-1" width="1" height="1953" src="https://embed.sermonaudio.com/browser/broadcaster/shiloh/series/Presbyterianism%20in%20America/?sort=oldest&page_size=25&scrolls=false" style="min-width: 100%; max-width: 100%; " allow="autoplay" frameborder="0" scrolling="no"></iframe>
+<iframe tabindex="-1" width="1" height="700" src="https://embed.sermonaudio.com/browser/broadcaster/shiloh/series/Presbyterianism%20in%20America/?sort=oldest&page_size=25&scrolls=false" style="min-width: 100%; max-width: 100%; " allow="autoplay" frameborder="0" scrolling="no"></iframe>
