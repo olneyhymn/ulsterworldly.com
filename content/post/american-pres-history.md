@@ -14,7 +14,7 @@ tags:
   - PCUS
   - ARP
 images:
- - /images/first-ga.png
+ - /images/family-tree.jpg
 ---
 
 My friend Matthew Ezzell and I taught a Sunday school class on American Presbyterian History at [Shiloh Presbyterian Church](https://shilohopc.org). 
