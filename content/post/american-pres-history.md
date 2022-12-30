@@ -23,6 +23,8 @@ Here was the overview we wrote for the course:
 
 > This class provides an understanding of the historical foundations of modern presbyterianism in America. We cover the breadth of the streams contributing to the presbyterian churches and denominations of our country. In the course, we learn about the controversies and conflicts and also spread of the gospel and the propagation churches throughout the United States. We specially emphasize the origin and development of the Orthodox Presbyterian Church and the establishment of presbyterianism in central North Carolina.
 
-[You can listen to the class on SermonAudio.com](https://www.sermonaudio.com/solo/shiloh/sermons/series/167016/?sb=oldest).
+Here is the audio of the class: 
 
 <iframe tabindex="-1" width="1" height="540" src="https://embed.sermonaudio.com/browser/broadcaster/shiloh/series/Presbyterianism%20in%20America/?sort=oldest&page_size=25&style=compact&header=false&footer=false&filters=false&external_borders=false" style="min-width: 100%; max-width: 100%; " allow="autoplay" frameborder="0" scrolling="no"></iframe>
+
+[You can also listen on SermonAudio.com](https://www.sermonaudio.com/solo/shiloh/sermons/series/167016/?sb=oldest).
