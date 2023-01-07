@@ -21,10 +21,14 @@ images:
 
 My dad David Hopper, brother Barron Hopper, his sisters Alice Dokter and Margaret Faircloth grew up in Jeonju, South Korea where their parents were missionaries with the southern presbyterian church (PCUS). On January 5, 2022, I got them all in a room together to share memories of their childhood. 
 
+You can listen to the four parts of the interview below.
+
 <iframe src="https://anchor.fm/ulsterworldly/embed/episodes/Hopper-Siblings-Oral-History-1-Childhood-in-Korea-e1t5sue" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 <iframe src="https://anchor.fm/ulsterworldly/embed/episodes/Hopper-Siblings-Oral-History-2-Medical-Care--Mission-Work--and-Summers-on-Jirisan-e1t6kb5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 <iframe src="https://anchor.fm/ulsterworldly/embed/episodes/Hopper-Siblings-Oral-History-3-Furlough-and-Korea-Christian-Academy-e1t6qcg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 <iframe src="https://anchor.fm/ulsterworldly/embed/episodes/Hopper-Siblings-Oral-History-4-College-Years-e1t6svi" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+You can also search for "Ulster Worldly" in your podcast app of choice or subscribe to the [feed](https://feedpress.me/ulsterworldly-audio) directly.
 
 Here are links to some things mentioned in the interview:
 
