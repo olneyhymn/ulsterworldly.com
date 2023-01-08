@@ -19,7 +19,7 @@ images:
  - /images/hopper-siblings.jpg
 ---
 
-My dad David Hopper, brother Barron Hopper, his sisters Alice Dokter and Margaret Faircloth grew up in Jeonju, South Korea where their parents were missionaries with the southern presbyterian church (PCUS). On January 5, 2022, I got them all in a room together to share memories of their childhood. 
+My dad David Hopper, brother Barron Hopper, his sisters Alice Dokter and Margaret Faircloth grew up in Jeonju, South Korea where their parents were missionaries with the southern presbyterian church (PCUS). On January 5, 2023, I got them all in a room together to share memories of their childhood. 
 
 You can listen to the four parts of the interview below.
 
