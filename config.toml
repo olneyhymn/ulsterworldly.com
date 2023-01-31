@@ -18,7 +18,7 @@ unsafe= true
     name = "Ulster Worldly Podcast"
     weight = 1
     identifier = "Ulster Worldly Podcast"
-    url = "https://anchor.fm/ulsterworldly/"
+    url = "https://feedpress.me/ulsterworldly-audio"
 [[menu.dropdown]]
     name = "Westminster Daily"
     weight = 1
