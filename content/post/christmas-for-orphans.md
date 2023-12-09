@@ -41,8 +41,8 @@ As the trucks moved off loaded with singing children, we could thank God for the
 
 Those at home can rejoice that they had a part in this joy through their contributions to the relief budget of the Department of Overseas Relief, which made this happy occasion possible.
 
-> All glory be to God on high, 
-> And to the earth be peace: 
-> Good will henceforth, from heaven to men, 
-> Begin and never cease! 
+> All glory be to God on high, </br>
+> And to the earth be peace: </br>
+> Good will henceforth, from heaven to men, </br>
+> Begin and never cease! </br>
 > -- Nahum Tate
