@@ -1,5 +1,5 @@
 ---
-title: "Christmas for Korean Orphans in 19555"
+title: "Christmas for Korean Orphans in 1955"
 description: "Joe B. Hopper describes a Christmas celebration for Korean orphans thrown by missionaries"
 date: 2023-12-09
 slug: "christmas-for-orphans"
