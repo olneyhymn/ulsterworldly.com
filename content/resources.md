@@ -9,6 +9,33 @@ Below are links to several websites I have built "for building up the body of Ch
 
 <br>
 
+
+### <i class="fa fa-desktop fa-2x" aria-hidden="true"></i>  Other Websites
+
+<be>
+
+#### [<i class="fa fa-external-link" aria-hidden="true"></i>  Read Machen](http://readmachen.com/)
+
+Guide to the writings of J. Gresham Machen, founder of Westminster Theological Seminary and early leader in the Orthodox Presbyterian Church.
+
+#### [<i class="fa fa-external-link" aria-hidden="true"></i>  Readings in the Reformed Diaconate](http://reformeddeacon.com/)
+
+A collection of writings on the theology and practice of the office of diaconate (particularly in the context of Reformed churches).
+
+#### [<i class="fa fa-external-link" aria-hidden="true"></i>  Westminster Daily](http://www.reformedconfessions.com/westminster-daily)
+
+A website to follow Dr. Joseph Pipa's [Calendar of Readings in the Westminster Standards](https://reformedconfessions.com/pipa-calendar.pdf). 
+
+#### [<i class="fa fa-external-link" aria-hidden="true"></i>  Miscellanea](https://quotes.ulsterworldly.com)
+
+Collected quotes from my reading, mostly theological in nature.
+
+#### [<i class="fa fa-external-link" aria-hidden="true"></i>  For Building Up the Body of Christ](https://tim.ulsterworldly.com)
+
+Collection of my personal writings and resources in theological and ecclesiastical matters.
+
+<br>
+
 ### <i class="fa fa-twitter fa-2x" aria-hidden="true"></i> Twitter Accounts
 
 <br>
@@ -26,29 +53,4 @@ A Twitter account to share [Today in OPC History](http://opc.org/today.html) fro
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Follow for daily tweets of<br><br>Today in OPC History: <a href="https://t.co/PX9W7bTErT">https://t.co/PX9W7bTErT</a><br><br>This Day in Presbyterian History (PCA): <a href="https://t.co/fkOP7q6Z2N">https://t.co/fkOP7q6Z2N</a></p>&mdash; Presbyterian History (@pres_history) <a href="https://twitter.com/pres_history/status/906179056542117889">September 8, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-#### [<i class="fa fa-external-link" aria-hidden="true"></i>  @jg_machen](https://twitter.com/jg_machen)
-
-A Twitter account to share quotes from J. Gresham Machen.
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The strongest Christianity, I think, is consistent Christianity; and consistent Christianity is found in the Reformed Faith.</p>&mdash; J. Gresham Machen (@jg_machen) <a href="https://twitter.com/jg_machen/status/836924156713320448">March 1, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
-
-### <i class="fa fa-desktop fa-2x" aria-hidden="true"></i>  Other Websites
-
-<br>
-
-#### [<i class="fa fa-external-link" aria-hidden="true"></i>  Readings in the Reformed Diaconate](http://reformeddeacon.com/)
-
-A collection of writings on the theology and practice of the office of diaconate (particularly in the context of Reformed churches).
-
-#### [<i class="fa fa-external-link" aria-hidden="true"></i>  Westminster Daily](http://www.reformedconfessions.com/westminster-daily)
-
-A website to follow Dr. Joseph Pipa's [Calendar of Readings in the Westminster Standards](https://www.gpts.edu/resources/documents/Calendar%20Readings%20in%20WestminsterNumbered.pdf). Includes a [Twitter account](twitter.com/refconfessions), [Facebook page](https://www.facebook.com/westminsterdaily/), and an [email list](https://feed.press/e/mailverify?feed_id=westminster-daily), each of which is updated with a new reading each day.
-
-
-#### [<i class="fa fa-external-link" aria-hidden="true"></i>  Waiting Tables podcast](http://waiting-tables.com)
-
-A podcast about the behind-the-scenes of the life and operation of a church. Waiting Tables exists to help ease logistical hurdles to free your church to focus on its mission.
+async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
