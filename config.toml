@@ -30,15 +30,16 @@ unsafe= true
     identifier = "Readings in the Reformed Diaconate"
     url = "http://reformeddeacon.com/"
 [[menu.dropdown]]
-    name = "Twitter Accounts"
-    weight = -110
-    identifier = "Twitter accounts"
-    url = "http://ulsterworldly.com/resources"
+    name = "Miscellanea"
+    weight = 1
+    identifier = "Miscellanea"
+    url = "http://quotes.ulsterworldly.com/"
+
 [[menu.dropdown]]
-    name = "Waiting Tables podcast"
-    weight = -110
-    identifier = "Waiting Tables podcast"
-    url = "http://waiting-tables.com"
+    name = "For Building Up the Body of Christ"
+    weight = 1
+    identifier = "For Building Up the Body of Christ"
+    url = "http://tim.ulsterworldly.com/"
 
 [params]
 disable_sri = true
