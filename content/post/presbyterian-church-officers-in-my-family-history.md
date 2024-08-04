@@ -1,7 +1,14 @@
 ---
 title: Presbyterian Church Officers in my Family History
 date: 2024-08-04T01:20:48.900Z
-people: []
+people:
+  - David Hopper
+  - Hershey Longnecker
+  - Joe B. Hopper
+  - Joseph Hopper
+  - George Dunlap Hopper
+  - Archibald Alexander Barron
+  - James Barron
 draft: false
 short: false
 ---
@@ -28,4 +35,4 @@ George may have been the first Presbyterian Hopper; his grandfather, Blackgrove 
 
 [Archibald Alexander Barron](https://ulsterworldly.com/people/archibald-alexander-barron) (1851–1909) was the father of Annis Barron Hopper, wife of Joseph Hopper. He served as an elder at [Tirzah](https://ulsterworldly.com/churches/tirzah-arp/) and [First Associate Reformed Presbyterian](https://ulsterworldly.com/churches/first-arp-rock-hill/) in Rock Hill, SC. He was a farmer and owner of Rock Hill Hardware.
 
-The Barron line almost certainly includes more elders and deacons, though I do not have records. 
+The Barron line almost certainly includes more elders and deacons, though I do not have records. According to family legend, the Barrons have been Presbyterian since the beginning in [1560](https://ulsterworldly.com/post/scottish-barrons/).
