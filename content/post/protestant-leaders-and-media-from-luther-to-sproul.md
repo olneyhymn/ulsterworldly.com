@@ -14,6 +14,8 @@ description: Examination of how influential Christian leaders like Martin
   Luther, Abraham Kuyper, J. Gresham Machen, and R.C. Sproul effectively used
   emerging media technologies of their times to spread their theological
   messages and the gospel
+images:
+  - /images/imprenta_puebla_1.jpg
 draft: false
 short: false
 ---
