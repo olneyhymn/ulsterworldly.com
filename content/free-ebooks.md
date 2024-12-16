@@ -3,11 +3,6 @@ title: "Free eBooks on the History of Presbyterianism"
 date: 2017-08-24
 draft: false
 short: false
-menu:
-menu:
-    navbar:
-        name: "Free ebooks"
-        weight: 100
 images:
   - /images/history-kentucky.png
 ---
