@@ -14,19 +14,6 @@
           <a class="nav-link" href="{{.URL | absURL }}">{{ .Name }}</a>
         </li>
       {{ end }}
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">
-          Other Resources
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-        {{- $currentURL := .Permalink | absLangURL -}}
-        {{ range .Site.Menus.dropdown }}
-          {{ $menuURL := .URL | absLangURL }}
-          {{ .Pre }}
-            <a class="dropdown-item" href="{{.URL | absURL }}" target="_new">{{ .Name }}</a>
-        {{ end }}
-        </div>
-      </li>
       </ul>
     </div>
 
