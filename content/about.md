@@ -10,8 +10,6 @@ I am a deacon in the [Orthodox Presbyterian Church](https://shilohopc.org) and a
 
 I am fascinated by American religious history broadly, and I am also particularly interested in the [presbyterian controversy](https://ulsterworldly.com/presbyterian-conflict/) of the early 20th century.
 
-I have [a number of other websites](http://ulsterworldly.com/resources) for building up the body of Christ.
-
 The name "Ulster Worldly" is a silly combination of "other worldly" (in recognition that this world is not our home) and Ulster (for the Ulster Plantation in northern Ireland where many of my ancestors came from).
 
-<p class="sans-serif small pr-md-2" style="text-align: right;"><a href="http://ulsterworldly.com/about">Tim Hopper</a><br/>Raleigh, NC</p>
+<p class="sans-serif small pr-md-2" style="text-align: right;"><a href="https://tim.ulsterworldly.com/about/">Tim Hopper</a><br/>Raleigh, NC</p>
