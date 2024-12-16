@@ -13,34 +13,6 @@ unsafe= true
   people = "people"
   church = "churches"
 
-
-[[menu.dropdown]]
-    name = "Ulster Worldly Podcast"
-    weight = 1
-    identifier = "Ulster Worldly Podcast"
-    url = "https://feedpress.me/ulsterworldly-audio"
-[[menu.dropdown]]
-    name = "Westminster Daily"
-    weight = 1
-    identifier = "Westminster Daily"
-    url = "http://reformedconfessions.com/"
-[[menu.dropdown]]
-    name = "Readings in the Reformed Diaconate"
-    weight = 1
-    identifier = "Readings in the Reformed Diaconate"
-    url = "http://reformeddeacon.com/"
-[[menu.dropdown]]
-    name = "Miscellanea"
-    weight = 1
-    identifier = "Miscellanea"
-    url = "http://quotes.ulsterworldly.com/"
-
-[[menu.dropdown]]
-    name = "For Building Up the Body of Christ"
-    weight = 1
-    identifier = "For Building Up the Body of Christ"
-    url = "http://tim.ulsterworldly.com/"
-
 [params]
 disable_sri = true
 feedpress = "https://feedpress.me/ulsterworldly"
