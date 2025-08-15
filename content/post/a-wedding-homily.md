@@ -50,7 +50,7 @@ But while it's generally called love, the love of a married couple, of husband a
 
 Maggie, for you, this takes the form of submission, of obedience to your husband. Tim, that love for Maggie takes the form of limitless, prodigal, self-sacrificing love for her. Maggie, Paul writes this in Ephesians 5:
 
-> "Wives, submit to your own husbands as to the Lord. For the husband is the head of the wife, even as Christ is the head of the church, his body, and is himself its Savior. Now, as the church submits to Christ, so also wives should submit in everything to their husbands."
+> Wives, submit to your own husbands as to the Lord. For the husband is the head of the wife, even as Christ is the head of the church, his body, and is himself its Savior. Now, as the church submits to Christ, so also wives should submit in everything to their husbands.
 
 Husbands and wives in a Christian marriage express the different aspects of the relationship between Christ and His church, His people, His bride. In your marriage, Maggie, you have the privilege of illustrating for your friends, for your family, for your neighbors, the beautiful way in which the believer responds to the love of the Lord Jesus Christ with deep, joyful submission. The wife's role is one of submission, because the husband is called by God to be the head of the wife, just as Christ is the head of the church.
 
