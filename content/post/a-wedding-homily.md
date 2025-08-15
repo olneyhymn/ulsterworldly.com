@@ -38,8 +38,6 @@ So how do you abide in Christ? Well, first of all, Christ abides in you. You thr
 
 But you also are not totally passive in abiding in Christ. You look to His Word. You read His Word. You study His Word. You are brought to conviction of sin by reading His Word. You also pray. You implore His favor. You seek His blessing and His sanctifying spirit. Don't be satisfied in this marriage just with public worship, just with family worship, but don't neglect private worship yourself. Even as you become one flesh. Because you can't love Maggie enough, you can't love Tim enough, if you do not abide in Christ.
 
-* * *
-
 ### You Must Love Each Other More Than You Love Yourself
 
 So you must love Jesus more than you love yourself, but you must also love each other more than you love yourself. Marriage, Christian marriage, is not what American culture conceives of as marriage at all. In this culture, people get married because they find someone who makes them happy, who simply fulfills a need that they have. But Christian marriage is not merely that.
