@@ -1,7 +1,7 @@
 ---
 title: "Hopper Day in Stanford, 1936"
 description: "A special day celebrating the Hopper family at Stanford Presbyterian Church"
-date: 1936-08-02
+date: 2025-12-17
 draft: false
 short: true
 people:
