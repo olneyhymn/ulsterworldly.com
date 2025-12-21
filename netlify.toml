@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo --enableGitInfo"
+  command = "cd themes/westminsterhist && npm install && npm run build && cd ../.. && hugo --enableGitInfo"
 
 [build.environment]
   HUGO_VERSION = "0.139.0"
