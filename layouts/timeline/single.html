@@ -3,7 +3,7 @@
     <div class="container pt-4">
       <div class="row justify-content-center">
         <div class="col-md-9 col-lg-7 pb-4">
-            {{ .Render "single.head" }}
+            {{ partial "views/single.head.html" . }}
         </div>
       </div>
     </div>
@@ -20,7 +20,7 @@
 {{ define "main" }}
     {{ .Content }}
 
-    {{ .Render "single.foot" }}
+    {{ partial "views/single.foot.html" . }}
     {{ if  (or (not .Params.comments) (not .Site.Params.disable_sri)) }}<hr>{{ template "_internal/disqus.html" . }}{{ end }}
 {{ end }}
 {{ define "script" }}

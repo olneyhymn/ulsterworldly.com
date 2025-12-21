@@ -11,7 +11,7 @@
 {{ range $paginator.Pages }}
 <div class="mb-4">
 
-  {{ .Render "summary" }}
+  {{ partial "views/summary.html" . }}
 
 </div>
 {{ end }}
