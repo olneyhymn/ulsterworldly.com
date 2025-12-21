@@ -33,9 +33,6 @@
   {{- if not .Lastmod.IsZero }}
   "dateModified": {{ .Lastmod.Format $ISO8601 }},
   {{- end }}
-  {{- with .Site.Social.GooglePlus }}
-  "publisher": "{{ printf "%s" . }}",
-  {{- end }}
   "author": {
     "@type": "Person",
     "name": "{{ .Params.author | default .Site.Params.author }}"
@@ -56,9 +53,9 @@
 
 {{ define "main" }}
 <article class="pb-2">
-  {{ .Render "single.head" }}
-  {{ .Render "single.body" }}
-  {{ .Render "single.foot" }}
+  {{ partial "views/single.head.html" . }}
+  {{ partial "views/single.body.html" . }}
+  {{ partial "views/single.foot.html" . }}
   {{ if (or (not .Params.comments) (not .Site.Params.disable_sri)) }}<hr>{{ template "_internal/disqus.html" . }}{{ end }}
 </article> <!-- /.blog-post -->
 
