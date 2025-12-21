@@ -1,0 +1,841 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "title": "Hopper Family Kentucky Locations",
+    "description": "Kentucky locations connected to the Hopper family Presbyterian heritage",
+    "generated": "2025-12-21",
+    "total_locations": 31
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6619,
+          37.5312
+        ]
+      },
+      "properties": {
+        "name": "Stanford Presbyterian Church",
+        "type": "church",
+        "family_members": [
+          "Joseph Hopper",
+          "George Dunlap Hopper",
+          "William Higgins Hopper",
+          "Margaret Higgins Hopper"
+        ],
+        "events": [
+          "Hopper Day celebration (August 2, 1936)",
+          "Family worship location"
+        ],
+        "date_range": "1800s-present",
+        "description": "Primary Hopper family church in Stanford, Kentucky. George Dunlap Hopper served as deacon and ruling elder here for many years. Site of 'Hopper Day' celebration in 1936 honoring Joseph Hopper.",
+        "blog_posts": [
+          "/post/hopper-day-1936/",
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9516,
+          37.6504
+        ]
+      },
+      "properties": {
+        "name": "Perryville Presbyterian Church",
+        "type": "church",
+        "family_members": [
+          "Joseph Hamilton Hopper (Uncle Joe)"
+        ],
+        "events": [
+          "Uncle Joe's membership from 1851",
+          "Uncle Joe served as ruling elder (1854)",
+          "Uncle Joe served as clerk of session (1854-1875)"
+        ],
+        "date_range": "1851-1915",
+        "description": "Home church of 'Uncle Joe' Hopper, Kentucky evangelist. He was a member from 1851, ordained as ruling elder in 1854 at age 25, and served as clerk of session for over 20 years.",
+        "blog_posts": [
+          "/post/uncle-joe-hopper-by-joseph-hopper/"
+        ],
+        "geocoded_address": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.674505,
+          37.5286096
+        ]
+      },
+      "properties": {
+        "name": "Buffalo Cemetery",
+        "type": "burial",
+        "family_members": [
+          "George Dunlap Hopper",
+          "William M. Higgins"
+        ],
+        "events": [
+          "George Dunlap Hopper buried (1913)",
+          "William M. Higgins buried"
+        ],
+        "date_range": "1913-present",
+        "description": "Cemetery near Stanford where George Dunlap Hopper (1848-1913) and William M. Higgins were buried.",
+        "blog_posts": [
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": "Buffalo Spring Cemetery, Stanford, Lincoln County, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9550763,
+          37.650819
+        ]
+      },
+      "properties": {
+        "name": "Perryville Cemetery",
+        "type": "burial",
+        "family_members": [
+          "Joseph Hamilton Hopper (Uncle Joe)"
+        ],
+        "events": [
+          "Uncle Joe Hopper buried (March 28, 1915)"
+        ],
+        "date_range": "1915-present",
+        "description": "Burial site of Joseph Hamilton 'Uncle Joe' Hopper (1829-1915), prominent Kentucky Presbyterian evangelist.",
+        "blog_posts": [
+          "/post/uncle-joe-hopper-by-joseph-hopper/"
+        ],
+        "geocoded_address": "Perryville Springhill Cemetery, Perryville, Boyle County, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7809759,
+          37.6444259
+        ]
+      },
+      "properties": {
+        "name": "Centre College",
+        "type": "educational",
+        "family_members": [
+          "Joseph Hopper",
+          "William Higgins Hopper",
+          "George Dunlap Hopper Jr."
+        ],
+        "events": [
+          "Joseph Hopper graduated magna cum laude (1914)",
+          "William Hopper graduated (1908)"
+        ],
+        "date_range": "1900s-1910s",
+        "description": "Presbyterian college in Danville where multiple Hopper family members studied. Joseph Hopper graduated magna cum laude in 1914, his brother William graduated in 1908.",
+        "blog_posts": [
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": "Centre College, Harding Street, West Danville, Danville, Boyle County, Kentucky, 40422, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6849615,
+          38.2370941
+        ]
+      },
+      "properties": {
+        "name": "Louisville Presbyterian Theological Seminary",
+        "type": "educational",
+        "family_members": [
+          "Joseph Hopper",
+          "William Higgins Hopper",
+          "Hershey Longenecker"
+        ],
+        "events": [
+          "Joseph Hopper graduated (1917)",
+          "William Hopper graduated (1911)",
+          "Hershey Longenecker attended (1913-1916)"
+        ],
+        "date_range": "1911-1917",
+        "description": "Presbyterian seminary in Louisville where Joseph Hopper graduated in 1917, his brother William graduated in 1911, and Joseph's father-in-law Hershey Longenecker attended 1913-1916.",
+        "blog_posts": [
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": "Louisville Presbyterian Theological Seminary, Chapel Valley Way, Louisville, Jefferson County, Kentucky, 40205, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6618876,
+          37.5311646
+        ]
+      },
+      "properties": {
+        "name": "Stanford, Kentucky",
+        "type": "residence",
+        "family_members": [
+          "Joseph Hopper",
+          "George Dunlap Hopper",
+          "Margaret Higgins Hopper"
+        ],
+        "events": [
+          "Joseph Hopper born (June 1, 1892)",
+          "George Dunlap Hopper moved here (1869)",
+          "Hopper family home"
+        ],
+        "date_range": "1869-1940s",
+        "description": "Primary Hopper family town in Lincoln County. Joseph Hopper was born here in 1892. George Dunlap Hopper moved here in 1869 and farmed on the Danville pike at Hawkins' Branch.",
+        "blog_posts": [
+          "/post/hopper-day-1936/",
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": "Stanford, Lincoln County, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5779957,
+          37.6195246
+        ]
+      },
+      "properties": {
+        "name": "Lancaster, Kentucky",
+        "type": "residence",
+        "family_members": [
+          "Joseph Hamilton Hopper (Uncle Joe)",
+          "George Dunlap Hopper"
+        ],
+        "events": [
+          "Uncle Joe Hopper born (July 22, 1829)",
+          "George Dunlap Hopper born (October 29, 1848)"
+        ],
+        "date_range": "1829-1869",
+        "description": "Birthplace of both Uncle Joe Hopper (1829) and George Dunlap Hopper (1848).",
+        "blog_posts": [
+          "/post/uncle-joe-hopper-by-joseph-hopper/",
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": "Lancaster, Garrard County, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9516234,
+          37.650351
+        ]
+      },
+      "properties": {
+        "name": "Perryville, Kentucky",
+        "type": "residence",
+        "family_members": [
+          "Joseph Hamilton Hopper (Uncle Joe)"
+        ],
+        "events": [
+          "Uncle Joe's home",
+          "Base for evangelistic work"
+        ],
+        "date_range": "1850s-1915",
+        "description": "Home of Uncle Joe Hopper. He married Mary B. Mitchell, daughter of wealthy farmer from Boyle County, and lived in Perryville throughout his ministry.",
+        "blog_posts": [
+          "/post/uncle-joe-hopper-by-joseph-hopper/"
+        ],
+        "geocoded_address": "Perryville, Boyle County, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7224947,
+          38.2410586
+        ]
+      },
+      "properties": {
+        "name": "Highland Church, Louisville",
+        "type": "church",
+        "family_members": [
+          "Joseph Hopper"
+        ],
+        "events": [
+          "Joseph Hopper served as stated supply (1919-1920)"
+        ],
+        "date_range": "1919-1920",
+        "description": "Louisville church where Joseph Hopper served as stated supply from 1919-1920 before departing for missionary work in Korea.",
+        "blog_posts": [
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": "Highland Presbyterian Church, 1001, Cherokee Road, Louisville, Jefferson County, Kentucky, 40204, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4996064,
+          38.0414399
+        ]
+      },
+      "properties": {
+        "name": "Maxwell Street Presbyterian Church, Lexington",
+        "type": "church",
+        "family_members": [
+          "Margaret Higgins Hopper"
+        ],
+        "events": [
+          "Margaret Hopper's membership"
+        ],
+        "date_range": "1900s-1920s",
+        "description": "Lexington church where Margaret Higgins Hopper was a member before becoming a missionary to Korea.",
+        "blog_posts": [
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": "Maxwell Street Presbyterian Church, Lexington Avenue, Academic Core, University of Kentucky, Lexington, Fayette County, Kentucky, 40508, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7585,
+          38.2527
+        ]
+      },
+      "properties": {
+        "name": "Woodland Presbyterian Church, Louisville",
+        "type": "church",
+        "family_members": [
+          "William Higgins Hopper"
+        ],
+        "events": [
+          "William Hopper's pastorate"
+        ],
+        "date_range": "1910s-1920s",
+        "description": "Louisville church where William Higgins Hopper served as pastor.",
+        "blog_posts": [
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7585,
+          38.2527
+        ]
+      },
+      "properties": {
+        "name": "Flora Heights Presbyterian Church, Louisville",
+        "type": "church",
+        "family_members": [
+          "William Higgins Hopper"
+        ],
+        "events": [
+          "William Hopper's pastorate"
+        ],
+        "date_range": "1920s-1930s",
+        "description": "Louisville church where William Higgins Hopper served as pastor.",
+        "blog_posts": [
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5262767,
+          37.5083279
+        ]
+      },
+      "properties": {
+        "name": "Twin Creek Church, Athol",
+        "type": "church",
+        "family_members": [
+          "Joseph Hopper"
+        ],
+        "events": [
+          "Joseph Hopper installed as pastor (1917)"
+        ],
+        "date_range": "1917-1918",
+        "description": "Mountain church in Breathitt County where Joseph Hopper was installed as pastor in 1917, part of his early ministry in eastern Kentucky.",
+        "blog_posts": [
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": "Shoulderblade-Guerrant-Athol Road, Copebranch, Breathitt County, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5774097,
+          37.5764765
+        ]
+      },
+      "properties": {
+        "name": "Canyon Falls Church",
+        "type": "church",
+        "family_members": [
+          "Joseph Hopper"
+        ],
+        "events": [
+          "Joseph Hopper installed as pastor (1917)"
+        ],
+        "date_range": "1917-1918",
+        "description": "Church where Joseph Hopper was installed as pastor in 1917, part of his early Kentucky ministry.",
+        "blog_posts": [
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": "Canyon Falls, Lee County, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6471349,
+          37.5828647
+        ]
+      },
+      "properties": {
+        "name": "St. Helens Church",
+        "type": "church",
+        "family_members": [
+          "Joseph Hopper"
+        ],
+        "events": [
+          "Joseph Hopper installed as pastor (1917)"
+        ],
+        "date_range": "1917-1918",
+        "description": "Church where Joseph Hopper was installed as pastor in 1917, part of his early Kentucky ministry.",
+        "blog_posts": [
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": "Saint Helens, Lee County, Kentucky, 41311, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7585,
+          38.2527
+        ]
+      },
+      "properties": {
+        "name": "Berry Boulevard Church, Louisville",
+        "type": "church",
+        "family_members": [
+          "Hershey Longenecker"
+        ],
+        "events": [
+          "Hershey Longenecker served as stated supply/pastor (1915-1917)"
+        ],
+        "date_range": "1915-1917",
+        "description": "Louisville church where Hershey Longenecker (Joseph Hopper's father-in-law) served as stated supply and pastor from 1915-1917.",
+        "blog_posts": [],
+        "geocoded_address": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7996205,
+          38.1796154
+        ]
+      },
+      "properties": {
+        "name": "First Presbyterian Church, Louisville",
+        "type": "church",
+        "family_members": [
+          "Edward O. Guerrant"
+        ],
+        "events": [
+          "Edward O. Guerrant served before becoming evangelist"
+        ],
+        "date_range": "1800s",
+        "description": "Historic Louisville church where Edward O. Guerrant served before beginning his mountain mission work, which Uncle Joe Hopper later joined.",
+        "blog_posts": [
+          "/post/uncle-joe-hopper-by-joseph-hopper/"
+        ],
+        "geocoded_address": "First Cumberland Presbyterian Church, 4610, Manslick Road, Louisville, Jefferson County, Kentucky, 40216, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7775364,
+          37.6458683
+        ]
+      },
+      "properties": {
+        "name": "First Presbyterian Church, Danville",
+        "type": "church",
+        "family_members": [
+          "Joseph Hamilton Hopper (Uncle Joe)"
+        ],
+        "events": [
+          "Uncle Joe briefly a member"
+        ],
+        "date_range": "1850s",
+        "description": "Danville church where Uncle Joe Hopper was briefly a member.",
+        "blog_posts": [
+          "/post/uncle-joe-hopper-by-joseph-hopper/"
+        ],
+        "geocoded_address": "First Presbyterian Church, 500, West Main Street, West Danville, Danville, Boyle County, Kentucky, 40442, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5999405,
+          36.9889661
+        ]
+      },
+      "properties": {
+        "name": "Burnside, Kentucky",
+        "type": "church",
+        "family_members": [
+          "William Higgins Hopper"
+        ],
+        "events": [
+          "William Hopper's pastorate"
+        ],
+        "date_range": "1910s-1920s",
+        "description": "Town in Pulaski County where William Higgins Hopper served as pastor.",
+        "blog_posts": [
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": "Burnside, Pulaski County, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6619,
+          37.5312
+        ]
+      },
+      "properties": {
+        "name": "Stanford Female College",
+        "type": "educational",
+        "family_members": [
+          "Margaret Higgins Hopper"
+        ],
+        "events": [
+          "Margaret Hopper attended (1900-1904)"
+        ],
+        "date_range": "1900-1904",
+        "description": "Women's college in Stanford where Margaret Higgins Hopper studied from 1900-1904.",
+        "blog_posts": [
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4930693,
+          38.0473255
+        ]
+      },
+      "properties": {
+        "name": "Sayre College, Lexington",
+        "type": "educational",
+        "family_members": [
+          "Margaret Higgins Hopper"
+        ],
+        "events": [
+          "Margaret Hopper attended"
+        ],
+        "date_range": "1900s",
+        "description": "Lexington educational institution where Margaret Higgins Hopper studied.",
+        "blog_posts": [
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": "Sayre School, 194, North Limestone, Central Business District, Lexington, Fayette County, Kentucky, 40507, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6619,
+          37.5312
+        ]
+      },
+      "properties": {
+        "name": "Stanford High School",
+        "type": "educational",
+        "family_members": [
+          "Margaret Higgins Hopper"
+        ],
+        "events": [
+          "Margaret Hopper taught (1909-1941)"
+        ],
+        "date_range": "1909-1941",
+        "description": "High school in Stanford where Margaret Higgins Hopper taught for over 30 years, from 1909 to 1941.",
+        "blog_posts": [
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9431961,
+          38.0561079
+        ]
+      },
+      "properties": {
+        "name": "Mt. Sterling, Kentucky",
+        "type": "educational",
+        "family_members": [
+          "Walter Owsley Hopper"
+        ],
+        "events": [
+          "Walter Hopper served as high school superintendent"
+        ],
+        "date_range": "1900s-1920s",
+        "description": "Town in Montgomery County where Walter Owsley Hopper served as superintendent of the high school.",
+        "blog_posts": [
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": "Mount Sterling, Montgomery County, Kentucky, 40353, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8432852,
+          37.762298
+        ]
+      },
+      "properties": {
+        "name": "Harrodsburg, Kentucky",
+        "type": "event",
+        "family_members": [
+          "Joseph Hamilton Hopper (Uncle Joe)"
+        ],
+        "events": [
+          "Evangelistic meetings held by Uncle Joe"
+        ],
+        "date_range": "1880s-1900s",
+        "description": "Site of evangelistic meetings conducted by Uncle Joe Hopper during his ministry throughout Kentucky.",
+        "blog_posts": [
+          "/post/uncle-joe-hopper-by-joseph-hopper/"
+        ],
+        "geocoded_address": "Harrodsburg, Mercer County, Kentucky, 40330, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8577283,
+          37.9167422
+        ]
+      },
+      "properties": {
+        "name": "Salvisa, Kentucky",
+        "type": "event",
+        "family_members": [
+          "Joseph Hamilton Hopper (Uncle Joe)",
+          "Edward O. Guerrant"
+        ],
+        "events": [
+          "Church organized by Guerrant and Uncle Joe"
+        ],
+        "date_range": "1880s-1890s",
+        "description": "Church organized by Edward O. Guerrant and Uncle Joe Hopper during their evangelistic work.",
+        "blog_posts": [
+          "/post/uncle-joe-hopper-by-joseph-hopper/"
+        ],
+        "geocoded_address": "Salvisa, Mercer County, Kentucky, 40372, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4165715,
+          37.797587
+        ]
+      },
+      "properties": {
+        "name": "Hazel Green, Wolfe County",
+        "type": "event",
+        "family_members": [
+          "Joseph Hamilton Hopper (Uncle Joe)"
+        ],
+        "events": [
+          "Presbyterian Church organized (1896)"
+        ],
+        "date_range": "1896",
+        "description": "Mountain town in Wolfe County where a Presbyterian church was organized in 1896 through Uncle Joe's evangelistic work.",
+        "blog_posts": [
+          "/post/uncle-joe-hopper-by-joseph-hopper/"
+        ],
+        "geocoded_address": "Hazel Green, Wolfe County, Kentucky, 41332, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6041084,
+          37.0920222
+        ]
+      },
+      "properties": {
+        "name": "Somerset, Kentucky",
+        "type": "event",
+        "family_members": [
+          "Joseph Hamilton Hopper (Uncle Joe)"
+        ],
+        "events": [
+          "Evangelistic work location"
+        ],
+        "date_range": "1880s-1900s",
+        "description": "Town where Uncle Joe Hopper conducted evangelistic work.",
+        "blog_posts": [
+          "/post/uncle-joe-hopper-by-joseph-hopper/"
+        ],
+        "geocoded_address": "Somerset, Pulaski County, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8962551,
+          38.0371378
+        ]
+      },
+      "properties": {
+        "name": "Lawrenceburg, Kentucky",
+        "type": "event",
+        "family_members": [
+          "Joseph Hamilton Hopper (Uncle Joe)"
+        ],
+        "events": [
+          "Evangelistic work location"
+        ],
+        "date_range": "1880s-1900s",
+        "description": "Town where Uncle Joe Hopper conducted evangelistic work.",
+        "blog_posts": [
+          "/post/uncle-joe-hopper-by-joseph-hopper/"
+        ],
+        "geocoded_address": "Lawrenceburg, Anderson County, Kentucky, 40342, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1905424,
+          36.7533781
+        ]
+      },
+      "properties": {
+        "name": "Scottsville, Allen County",
+        "type": "event",
+        "family_members": [
+          "Joseph Hamilton Hopper (Uncle Joe)"
+        ],
+        "events": [
+          "Church organized"
+        ],
+        "date_range": "1880s-1900s",
+        "description": "Town in Allen County where a church was organized through Uncle Joe's evangelistic ministry.",
+        "blog_posts": [
+          "/post/uncle-joe-hopper-by-joseph-hopper/"
+        ],
+        "geocoded_address": "Scottsville, Allen County, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0968761,
+          36.9486986
+        ]
+      },
+      "properties": {
+        "name": "Corbin, Kentucky",
+        "type": "event",
+        "family_members": [
+          "Joseph Hopper"
+        ],
+        "events": [
+          "Preaching location"
+        ],
+        "date_range": "1917-1919",
+        "description": "Town where Joseph Hopper preached during his early Kentucky ministry.",
+        "blog_posts": [
+          "/post/siblings-of-joseph-hopper/"
+        ],
+        "geocoded_address": "Corbin, Whitley County, Kentucky, United States"
+      }
+    }
+  ]
+}

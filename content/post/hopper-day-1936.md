@@ -29,3 +29,7 @@ On August 2, 1936, [Stanford Presbyterian Church](https://www.stanfordpresbyteri
 My grandfather, Joe B. Hopper, who was fifteen at the time, [later recalled](https://ulsterworldly.com/post/siblings-of-joseph-hopper/) attending this service and noting that "the three uncles were sitting in the front pew with backs to the congregation, and it was amusing to note that all three were completely (and similarly) bald."
 
 The day included morning worship, lunch at the church, and evening vespers.
+
+---
+
+[Explore all Hopper family Kentucky locations on our interactive map](/hopper-kentucky-map/)

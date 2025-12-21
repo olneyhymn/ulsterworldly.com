@@ -49,3 +49,7 @@ Among his scent sermon notes, I found the appeal of a sermon on "Him that cometh
 
 The only explanation of this man's successful evangelism is that the Holy Spirit took possession of him, and what gifts he had, and through him spoke the heart of the apostolic message. I am convinced that this is just what the world needs today--both the Occident and the Orient.
 
+---
+
+[Explore all Hopper family Kentucky locations on our interactive map](/hopper-kentucky-map/)
+

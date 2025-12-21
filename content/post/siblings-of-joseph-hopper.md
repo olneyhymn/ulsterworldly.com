@@ -82,3 +82,7 @@ Stanford, Ky. Here on Aug. 2, the Presbyterian Church celebrated "Hopper Day in 
 
 [^sslincoln]: Another record states that she sailed on April 5, 1923 on the S.S. President Lincoln.
 [^georgedunlap]: I assume George Dunlap was named after [his grandfather](https://ulsterworldly.com/post/dunlap-family/). — Tim
+
+---
+
+[Explore all Hopper family Kentucky locations on our interactive map](/hopper-kentucky-map/)

@@ -1,0 +1,97 @@
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+
+{{ define "schema-dot-org" }}
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "url": "{{ .Permalink }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Site.Params.author }}"
+  }
+}
+</script>
+{{ end }}
+
+{{ define "main" }}
+<div class="container pt-4">
+  <div class="row justify-content-center">
+    <div class="col-md-10 col-lg-9">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid px-0 mt-4">
+  <div class="row bg-light py-4 justify-content-center">
+    <div class="col-lg-10 col-md-12 px-3">
+
+      <!-- Map Controls -->
+      <div class="mb-3">
+        <div class="btn-group btn-group-sm" role="group" aria-label="Filter locations">
+          <button type="button" class="btn btn-outline-secondary active" data-filter="all">All</button>
+          <button type="button" class="btn btn-outline-secondary" data-filter="church">Churches</button>
+          <button type="button" class="btn btn-outline-secondary" data-filter="educational">Educational</button>
+          <button type="button" class="btn btn-outline-secondary" data-filter="burial">Burial Sites</button>
+          <button type="button" class="btn btn-outline-secondary" data-filter="residence">Residences</button>
+          <button type="button" class="btn btn-outline-secondary" data-filter="event">Events</button>
+        </div>
+      </div>
+
+      <!-- Map Container -->
+      <div id="hopper-map" style="height: 600px; border: 1px solid #ddd; border-radius: 4px;"></div>
+
+      <!-- Map Legend -->
+      <div class="mt-3 p-3 bg-white border rounded">
+        <h5>Legend</h5>
+        <div class="row">
+          <div class="col-md-6">
+            <span class="map-legend-icon" style="color: #dc3545;">●</span> Churches<br>
+            <span class="map-legend-icon" style="color: #007bff;">●</span> Educational Institutions<br>
+            <span class="map-legend-icon" style="color: #6c757d;">●</span> Burial Sites
+          </div>
+          <div class="col-md-6">
+            <span class="map-legend-icon" style="color: #28a745;">●</span> Residences<br>
+            <span class="map-legend-icon" style="color: #ffc107;">●</span> Ministry/Event Locations
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Location Details Modal (Bootstrap) -->
+<div class="modal fade" id="locationModal" tabindex="-1" role="dialog" aria-labelledby="locationModalTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="locationModalTitle"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body" id="locationModalBody"></div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ define "script" }}
+<!-- Leaflet CSS and JS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+  crossorigin="anonymous"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+  crossorigin="anonymous"></script>
+
+<!-- Custom Map JavaScript -->
+<script src="/js/hopper-map.js"></script>
+{{ end }}
