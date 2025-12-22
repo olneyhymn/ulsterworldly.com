@@ -28,13 +28,22 @@
   let currentFilter = 'all';
 
   // Initialize map on page load
-  document.addEventListener('DOMContentLoaded', function() {
+  // Since this script is loaded dynamically after page load,
+  // check if DOM is ready or run immediately
+  function init() {
     if (document.getElementById('hopper-map')) {
       initMap();
       loadGeoJSON();
       setupFilterButtons();
     }
-  });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    // DOM already loaded, run immediately
+    init();
+  }
 
   function initMap() {
     map = L.map('hopper-map').setView(CONFIG.initialCenter, CONFIG.initialZoom);
