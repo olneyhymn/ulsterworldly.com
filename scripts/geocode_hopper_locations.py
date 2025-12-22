@@ -342,7 +342,7 @@ LOCATIONS = [
         "events": ["Built Beechwood Seminary mission school building (1911)"],
         "date_range": "1911",
         "description": "Mountain village in Lee County where Hershey Longenecker and his brother Elmer built the Beechwood Seminary mission school building for Dr. Guerrant's Soul Winners Society.",
-        "blog_posts": [],
+        "blog_posts": ["https://congo.ulsterworldly.com/CH0.htm"],
     },
     {
         "name": "Beechwood Seminary, Heidelburg",
@@ -352,7 +352,7 @@ LOCATIONS = [
         "events": ["Mission school built by Longenecker (1911)", "Elmer Longenecker served as principal"],
         "date_range": "1911-1913",
         "description": "Presbyterian mission school in the mountains of Lee County built by Hershey Longenecker. His brother Elmer remained as principal after construction was complete.",
-        "blog_posts": [],
+        "blog_posts": ["https://congo.ulsterworldly.com/CH0.htm"],
         "fallback_coords": {"lat": 37.5833, "lon": -83.7333},  # Heidelberg, Lee County approximate
     },
     {
@@ -363,7 +363,7 @@ LOCATIONS = [
         "events": ["Preaching assignment from Transylvania Presbytery"],
         "date_range": "1913",
         "description": "Mining town where the Presbytery of Transylvania sent Hershey Longenecker to preach before he entered Louisville Presbyterian Seminary.",
-        "blog_posts": [],
+        "blog_posts": ["https://congo.ulsterworldly.com/CH0.htm"],
     },
     {
         "name": "Rousseau, Quicksand Creek",
@@ -373,7 +373,7 @@ LOCATIONS = [
         "events": ["Preached, taught school, lived in rough house beside church"],
         "date_range": "1912-1913",
         "description": "Remote mountain location on Quicksand Creek, 16 miles from the railroad, where Hershey Longenecker lived in a roughly built house beside the church, preaching and teaching a little school during the winter.",
-        "blog_posts": [],
+        "blog_posts": ["https://congo.ulsterworldly.com/CH0.htm"],
     },
 ]
 
