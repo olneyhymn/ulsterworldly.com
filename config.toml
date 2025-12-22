@@ -26,8 +26,3 @@ Many of these stories come from my own family history with presbyterianism and m
 author = "Tim Hopper"
 custom_navbar = true
 comments = false
-
-[[menu.navbar]]
-  name = "Kentucky Map"
-  url = "/hopper-kentucky-map/"
-  weight = 10
