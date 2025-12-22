@@ -8,6 +8,9 @@
   HUGO_ENABLEGITINFO = "true"
   NODE_VERSION = "20"
 
+[context.production]
+  command = "cd themes/westminsterhist && npm install && npm run build && cd ../.. && hugo --enableGitInfo --baseURL https://ulsterworldly.com/"
+
 [context.production.environment]
   HUGO_ENV = "production"
 
