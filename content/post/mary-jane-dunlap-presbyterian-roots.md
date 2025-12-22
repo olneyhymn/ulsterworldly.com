@@ -35,16 +35,16 @@ Mary Jane Dunlap (1814-1906) came from what one family historian described as "o
 
 The Dunlap Presbyterian lineage was deep and distinguished:
 
-- **[William Dunlop (1654-1703)](https://en.wikipedia.org/wiki/William_Dunlop_(principal))** was a Scottish Covenanter, Principal of the University of Glasgow, and the first Presbyterian pastor in South Carolina
-- **[William Dunlop Jr. (1692-1720)](https://en.wikipedia.org/wiki/William_Dunlop_(ecclesiastical_historian))** was a professor of church history at the University of Edinburgh and defender of the Westminster Confession of Faith
-- **[Alexander Dunlop (1682-1747)](https://en.wikipedia.org/wiki/Alexander_Dunlop_(scholar))** taught the famed economist Adam Smith Greek at Glasgow University
-- **Rev. Alexander Dunlap** worked as a Presbyterian minister with sympathies to the Covenanter Party
+- [William Dunlop (1654-1703)](https://en.wikipedia.org/wiki/William_Dunlop_(principal)) was a Scottish Covenanter, Principal of the University of Glasgow, and the first Presbyterian pastor in South Carolina
+- [William Dunlop Jr. (1692-1720)](https://en.wikipedia.org/wiki/William_Dunlop_(ecclesiastical_historian)) was a professor of church history at the University of Edinburgh and defender of the Westminster Confession of Faith
+- [Alexander Dunlop (1682-1747)](https://en.wikipedia.org/wiki/Alexander_Dunlop_(scholar)) taught the famed economist Adam Smith Greek at Glasgow University
+- Rev. Alexander Dunlap worked as a Presbyterian minister with sympathies to the Covenanter Party
 
 These were not casual Presbyterians. The Dunlaps represented a learned, confessional Presbyterian tradition rooted in Scottish Covenanter theology and Westminster orthodoxy.
 
 ## The Transitional Generation: George Dunlap Hopper
 
-When Joseph and Mary Jane's son was born on October 29, 1848, in Lancaster, Kentucky, they named him **George Dunlap Hopper**. The choice of middle name was significant—he carried his mother's Presbyterian surname, a marker of the Dunlap heritage that would shape his religious identity.
+When Joseph and Mary Jane's son was born on October 29, 1848, in Lancaster, Kentucky, they named him George Dunlap Hopper. The choice of middle name was significant—he carried his mother's Presbyterian surname, a marker of the Dunlap heritage that would shape his religious identity.
 
 Though the genealogical record does not explicitly state when or how George became Presbyterian, the evidence is clear: he did not follow his father's Baptist tradition. Instead, George married Katherine E. Higgins on October 7, 1875, a woman described as a "Lifelong Presbyterian." Their household was Presbyterian, and George became deeply committed to the faith.
 
@@ -56,11 +56,11 @@ George Dunlap Hopper was the hinge generation. Born to a Baptist father and a Pr
 
 George and Katherine's children all became Presbyterian:
 
-- **Rev. William Higgins Hopper** served as pastor of the Presbyterian church in Burnside, Kentucky
-- **Professor Walter Owsley Hopper** became superintendent of the High School at Mt. Sterling
-- **Margaret Higgins Hopper** taught at Stanford High School
-- **George Dunlap Hopper Jr.** graduated with honors from Central University (a Presbyterian institution)
-- **Rev. Joseph Hopper (1892-1971)** became one of the most influential figures in the family's history
+- Rev. William Higgins Hopper served as pastor of the Presbyterian church in Burnside, Kentucky
+- Professor Walter Owsley Hopper became superintendent of the High School at Mt. Sterling
+- Margaret Higgins Hopper taught at Stanford High School
+- George Dunlap Hopper Jr. graduated with honors from Central University (a Presbyterian institution)
+- Rev. Joseph Hopper (1892-1971) became one of the most influential figures in the family's history
 
 Joseph Hopper, George's youngest son, was ordained as a Presbyterian minister and served as a missionary to Korea for 34 years (1920-1954). He was an elder in the Stanford Presbyterian Church before departing for the mission field. His brother Joseph Barron Hopper also became a Presbyterian minister and missionary to Korea.
 
