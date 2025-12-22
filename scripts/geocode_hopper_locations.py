@@ -1,9 +1,16 @@
 #!/usr/bin/env python3
+# /// script
+# dependencies = [
+#   "geopy>=2.4.0",
+# ]
+# ///
 """
 Geocode Hopper Family Kentucky Locations
 
 This script geocodes Kentucky locations connected to the Hopper family
 and generates a GeoJSON file for use with Leaflet maps.
+
+Run with: uv run scripts/geocode_hopper_locations.py
 """
 
 import json
