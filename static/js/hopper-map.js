@@ -96,11 +96,13 @@
     let personMatch = currentPersonFilter === 'all';
     if (!personMatch && props.family_members && props.family_members.length > 0) {
       // Check if any family member matches the filter
-      // Use partial matching to handle variations like "Uncle Joe Hopper" matching "Joseph Hamilton Hopper (Uncle Joe)"
-      personMatch = props.family_members.some(member =>
-        member.toLowerCase().includes(currentPersonFilter.toLowerCase()) ||
-        currentPersonFilter.toLowerCase().includes(member.toLowerCase())
-      );
+      // Split filter into words and check if all significant words appear in the member name
+      const filterWords = currentPersonFilter.toLowerCase().split(/\s+/);
+      personMatch = props.family_members.some(member => {
+        const memberLower = member.toLowerCase();
+        // Check if all words from the filter appear in the member name
+        return filterWords.every(word => memberLower.includes(word));
+      });
     }
 
     return typeMatch && personMatch;

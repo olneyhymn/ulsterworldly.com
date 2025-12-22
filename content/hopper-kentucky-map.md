@@ -10,6 +10,7 @@ people:
  - William Higgins Hopper
  - Margaret Higgins Hopper
  - George Dunlap Hopper
+ - Hershey Longenecker
 tags:
  - Family
  - Kentucky
