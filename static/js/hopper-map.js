@@ -25,7 +25,8 @@
   let map;
   let markersLayer;
   let geojsonData;
-  let currentFilter = 'all';
+  let currentTypeFilter = 'all';
+  let currentPersonFilter = 'all';
 
   // Initialize map on page load
   // Since this script is loaded dynamically after page load,
@@ -86,8 +87,23 @@
   }
 
   function shouldShowFeature(feature) {
-    if (currentFilter === 'all') return true;
-    return feature.properties.type === currentFilter;
+    const props = feature.properties;
+
+    // Check type filter
+    const typeMatch = currentTypeFilter === 'all' || props.type === currentTypeFilter;
+
+    // Check person filter
+    let personMatch = currentPersonFilter === 'all';
+    if (!personMatch && props.family_members && props.family_members.length > 0) {
+      // Check if any family member matches the filter
+      // Use partial matching to handle variations like "Uncle Joe Hopper" matching "Joseph Hamilton Hopper (Uncle Joe)"
+      personMatch = props.family_members.some(member =>
+        member.toLowerCase().includes(currentPersonFilter.toLowerCase()) ||
+        currentPersonFilter.toLowerCase().includes(member.toLowerCase())
+      );
+    }
+
+    return typeMatch && personMatch;
   }
 
   function createMarker(feature) {
@@ -181,15 +197,32 @@
   }
 
   function setupFilterButtons() {
-    const buttons = document.querySelectorAll('[data-filter]');
-    buttons.forEach(button => {
+    // Setup type filter buttons
+    const typeButtons = document.querySelectorAll('[data-filter-type]');
+    typeButtons.forEach(button => {
       button.addEventListener('click', function() {
-        // Update active state
-        buttons.forEach(b => b.classList.remove('active'));
+        // Update active state for type buttons
+        typeButtons.forEach(b => b.classList.remove('active'));
         this.classList.add('active');
 
-        // Apply filter
-        currentFilter = this.dataset.filter;
+        // Apply type filter
+        currentTypeFilter = this.dataset.filterType;
+        if (geojsonData) {
+          displayMarkers(geojsonData.features);
+        }
+      });
+    });
+
+    // Setup person filter buttons
+    const personButtons = document.querySelectorAll('[data-filter-person]');
+    personButtons.forEach(button => {
+      button.addEventListener('click', function() {
+        // Update active state for person buttons
+        personButtons.forEach(b => b.classList.remove('active'));
+        this.classList.add('active');
+
+        // Apply person filter
+        currentPersonFilter = this.dataset.filterPerson;
         if (geojsonData) {
           displayMarkers(geojsonData.features);
         }

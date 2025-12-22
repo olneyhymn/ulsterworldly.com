@@ -32,14 +32,28 @@
 
       <!-- Map Controls -->
       <div class="mb-3">
-        <div class="btn-group btn-group-sm" role="group" aria-label="Filter locations">
-          <button type="button" class="btn btn-outline-secondary active" data-filter="all">All</button>
-          <button type="button" class="btn btn-outline-secondary" data-filter="church">Churches</button>
-          <button type="button" class="btn btn-outline-secondary" data-filter="educational">Educational</button>
-          <button type="button" class="btn btn-outline-secondary" data-filter="burial">Burial Sites</button>
-          <button type="button" class="btn btn-outline-secondary" data-filter="residence">Residences</button>
-          <button type="button" class="btn btn-outline-secondary" data-filter="event">Events</button>
+        <div class="mb-2">
+          <label class="small text-muted mb-1">Filter by Type:</label>
+          <div class="btn-group btn-group-sm" role="group" aria-label="Filter by location type">
+            <button type="button" class="btn btn-outline-secondary active" data-filter-type="all">All</button>
+            <button type="button" class="btn btn-outline-secondary" data-filter-type="church">Churches</button>
+            <button type="button" class="btn btn-outline-secondary" data-filter-type="educational">Educational</button>
+            <button type="button" class="btn btn-outline-secondary" data-filter-type="burial">Burial Sites</button>
+            <button type="button" class="btn btn-outline-secondary" data-filter-type="residence">Residences</button>
+            <button type="button" class="btn btn-outline-secondary" data-filter-type="event">Events</button>
+          </div>
         </div>
+        {{ if .Params.people }}
+        <div>
+          <label class="small text-muted mb-1">Filter by Person:</label>
+          <div class="btn-group btn-group-sm flex-wrap" role="group" aria-label="Filter by person">
+            <button type="button" class="btn btn-outline-primary active" data-filter-person="all">All</button>
+            {{ range .Params.people }}
+            <button type="button" class="btn btn-outline-primary" data-filter-person="{{ . }}">{{ . }}</button>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
       </div>
 
       <!-- Map Container -->
