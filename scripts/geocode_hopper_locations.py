@@ -375,6 +375,37 @@ LOCATIONS = [
         "description": "Remote mountain location on Quicksand Creek, 16 miles from the railroad, where Hershey Longenecker lived in a roughly built house beside the church, preaching and teaching a little school during the winter.",
         "blog_posts": ["https://congo.ulsterworldly.com/CH0.htm"],
     },
+    {
+        "name": "Walnut Branch, Lincoln County",
+        "search_query": "Walnut Flat, Lincoln County, Kentucky",
+        "type": "burial",
+        "family_members": ["William M. Higgins"],
+        "events": ["William M. Higgins buried", "Funeral service held"],
+        "date_range": "1894",
+        "description": "Location in Lincoln County where William M. Higgins (1820-1894) was buried in the McRoberts Cemetery. He was the father of Katherine E. Higgins Hopper.",
+        "blog_posts": [],
+    },
+    {
+        "name": "Knox County, Kentucky",
+        "search_query": "Knox County, Kentucky",
+        "type": "burial",
+        "family_members": ["Joseph Hopper (1782-1860)"],
+        "events": ["Joseph Hopper buried (1860)"],
+        "date_range": "1860",
+        "description": "Burial location of Joseph Hopper (1782-1860), grandfather of George Dunlap Hopper. He died in Lancaster, Garrard County and was buried in Knox County.",
+        "blog_posts": [],
+    },
+    {
+        "name": "Danville, Lincoln County",
+        "search_query": "Danville, Boyle County, Kentucky",
+        "type": "event",
+        "family_members": ["Joseph Hopper (1782-1860)", "Margaret Crowe"],
+        "events": ["Joseph Hopper married Margaret Crowe (March 3, 1817)"],
+        "date_range": "1817",
+        "description": "Location where Joseph Hopper (1782-1860) married Margaret Crowe on March 3, 1817.",
+        "blog_posts": [],
+        "fallback_coords": {"lat": 37.6456, "lon": -84.7732},  # Danville already in list, using same coords
+    },
 ]
 
 

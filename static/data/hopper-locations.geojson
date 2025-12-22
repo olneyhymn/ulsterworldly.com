@@ -4,7 +4,7 @@
     "title": "Hopper Family Kentucky Locations",
     "description": "Kentucky locations connected to the Hopper family Presbyterian heritage",
     "generated": "2025-12-21",
-    "total_locations": 35
+    "total_locations": 38
   },
   "features": [
     {
@@ -940,6 +940,80 @@
           "https://congo.ulsterworldly.com/CH0.htm"
         ],
         "geocoded_address": "Quicksand, Breathitt County, Kentucky, 41339, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5788289,
+          37.4953587
+        ]
+      },
+      "properties": {
+        "name": "Walnut Branch, Lincoln County",
+        "type": "burial",
+        "family_members": [
+          "William M. Higgins"
+        ],
+        "events": [
+          "William M. Higgins buried",
+          "Funeral service held"
+        ],
+        "date_range": "1894",
+        "description": "Location in Lincoln County where William M. Higgins (1820-1894) was buried in the McRoberts Cemetery. He was the father of Katherine E. Higgins Hopper.",
+        "blog_posts": [],
+        "geocoded_address": "Walnut Flat, Lincoln County, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8545725,
+          36.8934427
+        ]
+      },
+      "properties": {
+        "name": "Knox County, Kentucky",
+        "type": "burial",
+        "family_members": [
+          "Joseph Hopper (1782-1860)"
+        ],
+        "events": [
+          "Joseph Hopper buried (1860)"
+        ],
+        "date_range": "1860",
+        "description": "Burial location of Joseph Hopper (1782-1860), grandfather of George Dunlap Hopper. He died in Lancaster, Garrard County and was buried in Knox County.",
+        "blog_posts": [],
+        "geocoded_address": "Knox County, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7732,
+          37.6456
+        ]
+      },
+      "properties": {
+        "name": "Danville, Lincoln County",
+        "type": "event",
+        "family_members": [
+          "Joseph Hopper (1782-1860)",
+          "Margaret Crowe"
+        ],
+        "events": [
+          "Joseph Hopper married Margaret Crowe (March 3, 1817)"
+        ],
+        "date_range": "1817",
+        "description": "Location where Joseph Hopper (1782-1860) married Margaret Crowe on March 3, 1817.",
+        "blog_posts": [],
+        "geocoded_address": ""
       }
     }
   ]
