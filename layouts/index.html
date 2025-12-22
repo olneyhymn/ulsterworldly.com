@@ -9,7 +9,7 @@
 {{ if not .Paginator.HasPrev }}
 <h2>Posts Archive</h2>
 <ul>
-  {{ range where .Site.RegularPages "Type" "post" }}
+  {{ range where .Site.RegularPages "Type" "in" (slice "post" "hopper-map") }}
     <li class="list"><a href="{{ .RelPermalink }}" title="{{ .Params.description }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
@@ -17,7 +17,7 @@
 <h2>Recent Posts</h2>
 {{ end }}
 
-{{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
+{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" (slice "post" "hopper-map")) }}
 {{ range $paginator.Pages }}
 {{ if and (not .Params.short) .Params.description }}
 {{ partial "views/summary.html" . }}
