@@ -280,6 +280,7 @@ LOCATIONS = [
         "date_range": "1880s-1900s",
         "description": "Site of evangelistic meetings conducted by Uncle Joe Hopper during his ministry throughout Kentucky.",
         "blog_posts": ["/post/uncle-joe-hopper-by-joseph-hopper/"],
+        "fallback_coords": {"lat": 37.7623, "lon": -84.8433},
     },
     {
         "name": "Salvisa, Kentucky",
@@ -412,6 +413,16 @@ LOCATIONS = [
         "description": "Location where Joseph Hopper (1782-1860) married Margaret Crowe on March 3, 1817.",
         "blog_posts": [],
         "fallback_coords": {"lat": 37.6456, "lon": -84.7732},  # Danville already in list, using same coords
+    },
+    {
+        "name": "Line Fork, Letcher County",
+        "search_query": "Line Fork, Letcher County, Kentucky",
+        "type": "church",
+        "family_members": ["Joseph Hopper", "William Guerrant", "S. B. Ghiselin"],
+        "events": ["Two Sabbath-schools established (over 100 pupils)", "Summer evangelism campaign", "Public professions of faith"],
+        "date_range": "Early 1900s",
+        "description": "Remote settlement on Line Fork stream in Letcher County, 12 miles from the railroad on the Virginia border. S. B. Ghiselin began evangelism work here, establishing two flourishing Sabbath-schools six miles apart with over 100 pupils. Joseph Hopper and William Guerrant assisted for ten days, resulting in several public professions of faith among the Cumberland Highlanders.",
+        "blog_posts": [],
     },
 ]
 

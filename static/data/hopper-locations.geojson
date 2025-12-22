@@ -4,7 +4,7 @@
     "title": "Hopper Family Kentucky Locations",
     "description": "Kentucky locations connected to the Hopper family Presbyterian heritage",
     "generated": "2025-12-21",
-    "total_locations": 38
+    "total_locations": 39
   },
   "features": [
     {
@@ -661,8 +661,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.8432852,
-          37.762298
+          -84.8433,
+          37.7623
         ]
       },
       "properties": {
@@ -679,7 +679,7 @@
         "blog_posts": [
           "/post/uncle-joe-hopper-by-joseph-hopper/"
         ],
-        "geocoded_address": "Harrodsburg, Mercer County, Kentucky, 40330, United States"
+        "geocoded_address": ""
       }
     },
     {
@@ -1016,6 +1016,34 @@
         "description": "Location where Joseph Hopper (1782-1860) married Margaret Crowe on March 3, 1817.",
         "blog_posts": [],
         "geocoded_address": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0776665,
+          36.9856473
+        ]
+      },
+      "properties": {
+        "name": "Line Fork, Letcher County",
+        "type": "church",
+        "family_members": [
+          "Joseph Hopper",
+          "William Guerrant",
+          "S. B. Ghiselin"
+        ],
+        "events": [
+          "Two Sabbath-schools established (over 100 pupils)",
+          "Summer evangelism campaign",
+          "Public professions of faith"
+        ],
+        "date_range": "Early 1900s",
+        "description": "Remote settlement on Line Fork stream in Letcher County, 12 miles from the railroad on the Virginia border. S. B. Ghiselin began evangelism work here, establishing two flourishing Sabbath-schools six miles apart with over 100 pupils. Joseph Hopper and William Guerrant assisted for ten days, resulting in several public professions of faith among the Cumberland Highlanders.",
+        "blog_posts": [],
+        "geocoded_address": "Line Fork School, KY 510, Gilley, Letcher County, Kentucky, 41819, United States"
       }
     }
   ]
