@@ -108,11 +108,6 @@
     const popupContent = createPopupContent(props);
     marker.bindPopup(popupContent, { maxWidth: 300 });
 
-    // Click handler for detailed view
-    marker.on('click', function() {
-      showLocationDetails(props);
-    });
-
     marker.addTo(markersLayer);
   }
 
