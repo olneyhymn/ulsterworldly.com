@@ -1,1 +1,38 @@
 <!-- Create <project-root>/layouts/partials/head-custom.html to overwrite this empty template and put custom code into the <head> section. -->
+
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+  crossorigin="anonymous"/>
+
+<!-- Hopper Map Custom Styles -->
+<style>
+.map-popup {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.map-popup h6 {
+  color: #292b2c;
+  margin-bottom: 0.5rem;
+}
+
+.custom-marker {
+  cursor: pointer;
+}
+
+.map-legend-icon {
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+}
+
+.location-details .badge {
+  font-size: 0.85rem;
+}
+
+/* Responsive map height */
+@media (max-width: 768px) {
+  #hopper-map {
+    height: 400px !important;
+  }
+}
+</style>
