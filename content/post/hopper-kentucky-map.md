@@ -2,6 +2,7 @@
 title: "Hopper Family Kentucky Locations"
 description: "Interactive map of Kentucky locations connected to the Hopper family Presbyterian heritage"
 date: 2025-12-21
+type: hopper-map
 draft: false
 people:
  - Joseph Hopper
